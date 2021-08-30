@@ -1,0 +1,48 @@
+I"�<h1 id="presentation-trails">Presentation Trails</h1>
+
+<p>Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:</p>
+<ul>
+  <li><strong>List</strong>: Navigate using pan and zoom through a predefined order of the documents in any in the Dash database and focus on the document.</li>
+  <li><strong>3D Carousel</strong>: 3D Carousel view of the documents added to the presentation trail.</li>
+</ul>
+
+<p>With presentation trails you can easily go from authoring mode, to presentation mode - and turn whatever you are working on into a smooth presentation. Presentation Trails work best when all of the documents are contained within Freeform collections, as it makes use of pan and zoom to navigate between documents.</p>
+
+<h2 id="creating-a-presentation-trail">Creating a Presentation Trail</h2>
+
+<p>There are three ways of bring up a new Presentation Trail document, they are as follows:</p>
+<ul>
+  <li><strong>Tools menu:</strong> Presentation trail button which can be opened on the right hand side of your workspace on click.</li>
+  <li><strong>Pin any document to presentation:</strong> To pin or any document from the active Presentation Trail use the document decorations ‘Pin to Presentation’ button. If the Presentation Trail is not already open, pinning a document will open the Presentation - Trail document on the right hand side of your workspace.</li>
+  <li><strong>Pres. Trails Sidebar</strong>: Right click anywhere on the presentation trails sidebar menu, and select the option to “Create New Presentation”</li>
+</ul>
+
+<p>To access a Presentation Trail that has already been created use the PRES. TRAILS sidebar in the left hand toolbar, or use Search.</p>
+
+<h2 id="objects--actions">Objects &amp; Actions</h2>
+
+<h3 id="adding-documents-to-a-presntation-trail">Adding documents to a presntation trail</h3>
+
+<h4 id="regular-pin">Regular pin:</h4>
+<p>To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail.</p>
+
+<h4 id="pin-with-view">Pin with view:</h4>
+<p>Pinning with view pins the document with the specific pan and zoom that you have currently set it to. The ‘Pin with View’ icon is the same as the regular pin icon, but the “V” behind the pin shows that it is a view. You can pin with view in two ways:</p>
+<ul>
+  <li>Chroma - Pin with current view</li>
+  <li>Marquee menu - pin with selection drag</li>
+</ul>
+
+<h3 id="slides">Slides</h3>
+
+<h4 id="slide-properties">Slide Properties</h4>
+
+<h5 id="transitions">Transitions</h5>
+
+<h6 id="movement">Movement</h6>
+
+<h6 id="visibility--duration">Visibility &amp; Duration</h6>
+
+<h3 id="modes">Modes</h3>
+
+:ET

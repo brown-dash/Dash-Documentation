@@ -1,0 +1,16 @@
+I"<p>:::warning
+hello
+:::</p>
+
+<p>Why does this not work?
+<code class="language-plaintext highlighter-rouge">test</code></p>
+
+<p>Geireann!</p>
+<ul>
+  <li>the boy</li>
+  <li>who knows what will happen</li>
+</ul>
+
+<div class="language-typescript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">x</span><span class="p">:</span><span class="kr">number</span> <span class="o">=</span> <span class="mi">12</span><span class="p">;</span>
+</code></pre></div></div>
+:ET
