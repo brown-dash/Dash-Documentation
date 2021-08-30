@@ -53,7 +53,7 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '/assets/js/search-data.json', true);
+  request.open('GET', 'https://brown-dash.github.io/Dash-Documentation/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -430,7 +430,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'https://brown-dash.github.io/Dash-Documentation/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready
