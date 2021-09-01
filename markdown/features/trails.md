@@ -9,11 +9,14 @@ nav_order: 3
 # Presentation Trails
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
 
 
 Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:
