@@ -3,7 +3,7 @@ layout: default
 title: Audio
 parent: Temporal Media
 permalink: /features/tempMedia/audio
-nav_order: 3
+nav_order: 1
 ---
 
 # Audio
