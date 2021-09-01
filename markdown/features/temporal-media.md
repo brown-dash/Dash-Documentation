@@ -12,11 +12,7 @@ The audio document allows the user to record and play back audio or play back im
 ## Creating Audio Documents
 To create an audio document, navigate to the Tools Menu and drag off an audio button onto your collection.
 
-# INSERT GIF HERE
-
 You can also create an audio document by navigating to the Import Menu and importing an audio file from outside of Dash or by dragging and dropping a file in from an external source.
-
-# INSERT GIF HERE
 
 ## Actions
 
