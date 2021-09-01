@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Temporal Media
-parent: Features
-permalink: /features/tempMedia/
+title: Audio
+parent: Temporal Media
+permalink: /features/tempMedia/audio
 nav_order: 3
 ---
 
@@ -42,15 +42,3 @@ The following audio-specific items can be found in the right-click menu for an a
 
 ## Link Audio Documents
 While recording, if the user creates any text documents, it will automatically be linked to the audio document at the creation time. While recording, the user can generate timestamps for the text document by pressing enter or pausing for 10 seconds (this can be toggled in the text document’s context menu). Linking to the audio document will generate a link at the current time. Linking to range/label markers will generate a link corresponding to their start/end time.
-
-# Videos
-Video documents allow users to play back video clips.
-
-## Creating Video Documents
-Video documents can be created by  navigating to the Import Menu and importing a video file from outside of Dash or by dragging and dropping a file in from an external source.
-
-## Actions
-- Annotations and ink can be embedded in the overlay pane by typing or drawing directly on top of the video or dragging a document onto the video.
-- You can play, pause, navigate to a specific point in time, or toggle fullscreen view using the video controllers.
-- The eye icon at the top right corner toggles the view of the audio timeline. This audio timeline functions similar to the basic audio document in its ability to link to other documents and place markers on the timeline, though you cannot trim it.
-- Clicking on the camera icon at the top right corner takes a snapshot of the current time. A snapshot is an image linked to the video by default at the time it was captured. It will appear next to the video, and clicking on the snapshot will take users back the associated timecode.

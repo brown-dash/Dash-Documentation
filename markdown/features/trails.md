@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Presentation Trails
+title: Trails
 parent: Features
-permalink: /features/presTrails/
+permalink: /features/trails/
 nav_order: 3
 ---
 
