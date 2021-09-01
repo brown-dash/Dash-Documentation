@@ -4,6 +4,7 @@ title: Temporal Media
 parent: Features
 permalink: /features/tempMedia/
 nav_order: 3
+has_children: true
 ---
 
 # Temporal Media
