@@ -4,19 +4,13 @@ title: About Dash
 permalink: /about/
 nav_order: 1
 ---
+
 # About Dash
 
-:::warning
-hello
-:::
+<button type="button" name="button" href="https://browndash.com/login" class="btn">Dash</button>
 
-Why does this not work?
-`test`
+Label
+{: .label }
 
-Geireann!
-- the boy
-- who knows what will happen
-
-```typescript
-let x:number = 12;
-```
+Blue label
+{: .label .label-blue }

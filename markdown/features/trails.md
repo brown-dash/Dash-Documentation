@@ -7,6 +7,14 @@ nav_order: 3
 ---
 
 # Presentation Trails
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:
 - **List**: Navigate using pan and zoom through a predefined order of the documents in any in the Dash database and focus on the document. 
