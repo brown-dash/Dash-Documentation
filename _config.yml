@@ -1,6 +1,4 @@
 title: dash v.1
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the official documentation for dash, a hypermedia system built and run by the Pen and Touch Graphics Lab at Brown University. 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dash
