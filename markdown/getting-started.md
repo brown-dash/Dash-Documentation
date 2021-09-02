@@ -122,6 +122,25 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 ## Links and Anchors
 
+A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)
+
+There are two ways to create links: drag and drop or linkboard.
+### Drag and drop
+Drag and drop creates a 1:1 link between documents that both appear on the screen at a given time, whether in the same tab or in two different tiles.
+
+1. Select the desired source document and navigate to its bottom toolbar.
+2. Click and drag the link icon. Drop it onto the desired destination document.
+
+Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.
+
+### Linkboard
+Linkboards function as a clipboard: they "copy" source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.
+
+1. Select the desired source document and navigate to its bottom toolbar.
+2. Left-click the "make link" button.
+   1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
+3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
+
 ## Annotation and Markup
 
 ## Collaboration
