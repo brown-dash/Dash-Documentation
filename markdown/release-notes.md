@@ -6,7 +6,7 @@ nav_order: 7
 ---
 # Release Notes
 ## <span style="color:#4476f7">**IN THE WORKS**</span>
-- Map view
+- Maps
 - Progressivised presentation trails
 - Branching with trails
 

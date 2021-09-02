@@ -33,10 +33,14 @@ Permanently pinned on the left. Flyouts can be toggled open & closed by clicking
 
 | Icon       | Title         | Description |
 |:-------------|:------------------|:------|
-| ![](../assets/icons/dashboards.png){:.icon}          | **Dashboards** | A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section.   |
-| ![](../assets/icons/search.png){:.icon}   | good and plenty   | nice  |
-| ![](../assets/icons/file-manager.png){:.icon}            | good `oreos`      | hmm   |
-| ![](../assets/icons/uploads.png){:.icon}            | good `zoute` drop | yumm  |
+| ![](../assets/icons/dashboards.png){:.icon}     | **Dashboards** | A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section.   |
+| ![](../assets/icons/search.png){:.icon}         | **Search**   | Search for any documents within the currently selected Dashboard.  |
+| ![](../assets/icons/file-manager.png){:.icon}   | **File Manager** | hmm   |
+| ![](../assets/icons/recently-closed.png){:.icon}| **Recently Closed** | hmm   |
+| ![](../assets/icons/uploads.png){:.icon}        | **Uploads** | yumm  |
+| ![](../assets/icons/sharing.png){:.icon}        | **Sharing** | yumm  |
+| ![](../assets/icons/trails.png){:.icon}         | **Trails** | yumm  |
+
 
 #### Dashboards
 A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section. 
