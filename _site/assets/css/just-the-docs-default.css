@@ -1,5 +1,7 @@
 @charset "UTF-8";
-.img { height: 200px; text-align: center; justify-self: center; align-self: center; }
+.img { height: 200px; border: solid 2px #4476f7; }
+
+.icon { height: 100px; border-radius: 2px; overflow: hidden; }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document ========================================================================== */
