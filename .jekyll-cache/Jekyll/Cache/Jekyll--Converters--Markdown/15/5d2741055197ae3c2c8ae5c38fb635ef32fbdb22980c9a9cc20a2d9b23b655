@@ -1,4 +1,34 @@
-I"‚<h1 id="presentation-trails">Presentation Trails</h1>
+I"7<h1 class="no_toc" id="presentation-trails">Presentation Trails</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#creating-a-presentation-trail" id="markdown-toc-creating-a-presentation-trail">Creating a Presentation Trail</a></li>
+  <li><a href="#objects--actions" id="markdown-toc-objects--actions">Objects &amp; Actions</a>    <ol>
+      <li><a href="#adding-documents-to-a-presntation-trail" id="markdown-toc-adding-documents-to-a-presntation-trail">Adding documents to a presntation trail</a>        <ol>
+          <li><a href="#regular-pin" id="markdown-toc-regular-pin">Regular pin:</a></li>
+          <li><a href="#pin-with-view" id="markdown-toc-pin-with-view">Pin with view:</a></li>
+        </ol>
+      </li>
+      <li><a href="#slides" id="markdown-toc-slides">Slides</a>        <ol>
+          <li><a href="#slide-properties" id="markdown-toc-slide-properties">Slide Properties</a>            <ol>
+              <li><a href="#transitions" id="markdown-toc-transitions">Transitions</a>                <ol>
+                  <li><a href="#movement" id="markdown-toc-movement">Movement</a></li>
+                  <li><a href="#visibility--duration" id="markdown-toc-visibility--duration">Visibility &amp; Duration</a></li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li><a href="#modes" id="markdown-toc-modes">Modes</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
 
 <p>Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:</p>
 <ul>

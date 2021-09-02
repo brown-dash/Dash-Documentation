@@ -1,0 +1,44 @@
+<h1 id="audio">Audio</h1>
+<p>The audio document allows the user to record and play back audio or play back imported audio files.</p>
+
+<h2 id="creating-audio-documents">Creating Audio Documents</h2>
+<p>To create an audio document, navigate to the Tools Menu and drag off an audio button onto your collection.</p>
+
+<p>You can also create an audio document by navigating to the Import Menu and importing an audio file from outside of Dash or by dragging and dropping a file in from an external source.</p>
+
+<h2 id="actions">Actions</h2>
+
+<h3 id="pre-recording">Pre-Recording</h3>
+<ul>
+  <li><strong>Record:</strong> Pressing the black record button on a new empty audio document begins a recording</li>
+  <li><strong>Dictation:</strong> Selecting the grey transcript button before beginning the recording creates a text document that transcribes what you say after you begin recording.</li>
+</ul>
+
+<h3 id="during-recording">During Recording</h3>
+<ul>
+  <li><strong>Pause/Play:</strong> This button pauses and resumes the recording.</li>
+  <li><strong>Stop:</strong> This button stops the recording.</li>
+  <li><strong>Dictation:</strong> Transcription can also be started during the recording by selecting the button and then left clicking the generated text document. This creates a timecode in the document of the time</li>
+</ul>
+
+<h3 id="post-recording">Post-Recording</h3>
+<ul>
+  <li><strong>Pause/Play:</strong> This button pauses or plays the audio document from the current time indicated by the red line on the timeline and the timestamp in the bottom left corner.</li>
+  <li><strong>Trimming:</strong> Clicking the scissor icon displays the trim controls. Dragging either of the handles at the end of the timeline will change the range the clip is being trimmed to. Selecting the check icon will finish the trim and display the new altered clip. Trimming is not destructive so a shortened clip can always be lengthened again up to its original duration. Markers that are cut off by trimming a clip will be cut down to the portion that remains in the range of the new clip. If a marker is entirely out of range it will no longer play. Lengthening the clip again will increase the marker up to its initial length.</li>
+  <li><strong>Region Markers:</strong> To create a region marker, click on the desired starting time on the timeline and drag until the desired ending time. The region marker will play audio from the the marker’s start to end.</li>
+  <li><strong>Label Markers:</strong> To create a label marker, shift-click the desired time on the timeline. The label marker will playback audio from the start time of the marker to the end of the entire audio clip.</li>
+</ul>
+
+<p>Both types of markers can be deleted by right clicking on them to display the context menu and then selecting delete.</p>
+
+<h2 id="right-click-menu">Right-Click Menu</h2>
+<p>The following audio-specific items can be found in the right-click menu for an audio document:</p>
+<ul>
+  <li><strong>Play/Don’t play when link is selected:</strong> Toggle this option to play/don’t play the audio at the linked time when a link has been selected</li>
+  <li><strong>Hide/Don’t hide ranged markers:</strong> Toggle this option to hide/not hide the ranged markers</li>
+  <li><strong>Hide/Don’t hide label markers:</strong> Toggle this option to hide/not hide the label markers</li>
+  <li><strong>Play/Don’t play markers on click:</strong> Toggle this option to play/not play the ranged/labels markers when they are selected</li>
+</ul>
+
+<h2 id="link-audio-documents">Link Audio Documents</h2>
+<p>While recording, if the user creates any text documents, it will automatically be linked to the audio document at the creation time. While recording, the user can generate timestamps for the text document by pressing enter or pausing for 10 seconds (this can be toggled in the text document’s context menu). Linking to the audio document will generate a link at the current time. Linking to range/label markers will generate a link corresponding to their start/end time.</p>
