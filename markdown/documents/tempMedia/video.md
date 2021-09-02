@@ -2,8 +2,8 @@
 layout: default
 title: Video
 parent: Temporal Media
-grand_parent: Features
-permalink: /features/tempMedia/video
+grand_parent: Documents
+permalink: /documents/tempMedia/video
 nav_order: 2
 ---
 

@@ -2,8 +2,8 @@
 layout: default
 title: Audio
 parent: Temporal Media
-grand_parent: Features
-permalink: /features/tempMedia/audio
+grand_parent: Documents
+permalink: /documents/tempMedia/audio
 nav_order: 1
 ---
 

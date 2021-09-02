@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Temporal Media
-parent: Features
-permalink: /features/tempMedia/
+parent: Documents
+permalink: /documents/tempMedia/
 nav_order: 3
 has_children: true
 ---
