@@ -1,0 +1,46 @@
+I"A<h1 class="no_toc" id="ink">Ink</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#creating-ink" id="markdown-toc-creating-ink">Creating Ink</a></li>
+  <li><a href="#formatting-ink" id="markdown-toc-formatting-ink">Formatting Ink</a>    <ol>
+      <li><a href="#appearance-panel" id="markdown-toc-appearance-panel">Appearance Panel</a></li>
+      <li><a href="#transform-panel" id="markdown-toc-transform-panel">Transform Panel</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<p>Dash allows the user to draw various shapes and lines, each represented by an ink stroke. Each ink stroke is a document. Ink documents can be created using a simple pen tool or a polygon tool. Currently implemented polygons include: circles, rectangles, straight lines, and arrows. Once an ink document is created, its properties, such as stroke color, fill color, stroke width, and control points can further be modified under the Properties Panel.</p>
+
+<h2 id="creating-ink">Creating Ink</h2>
+
+<p>The ink tools can be found in the ink toolbar. Single-clicking on one of the tools will bring the user to ink mode only for the duration of that drawing action. Conversely, double-clicking will keep the user in ink mode until the button is clicked again.</p>
+
+<h2 id="formatting-ink">Formatting Ink</h2>
+
+<p>When the user opens the Properties Panel while at least one ink document is selected, the “appearance” and “transform” subpanels become visible. Changes made in the panels will only be reflected in the documents selected.</p>
+
+<h3 id="appearance-panel">Appearance Panel</h3>
+
+<ul>
+  <li><strong>Change Width:</strong> Users can augment width using the input box or the range slider.</li>
+  <li><strong>Arrow Head/End:</strong> Users can add or remove arrowheads or arrow ends by checking the corresponding box.</li>
+  <li><strong>Dashed Line:</strong> Users can toggle between solid and dashed strokes by checking the corresponding box.</li>
+  <li><strong>Fill and Stroke Color:</strong> Users can change the colors of the stroke and fill using the palette that appears when the user clicks on the currently selected colors.</li>
+</ul>
+
+<h3 id="transform-panel">Transform Panel</h3>
+
+<ul>
+  <li><strong>Editing Points:</strong> Clicking on the “edit points” button in the transform subpanel or double-clicking the currently selected ink brings up multiple squares outlined in blue along the ink stroke. By dragging these control points and tangent handles, users can alter the Bézier curve. When one handle point is moved, its opposite handle point will rotate the same angle in the opposite direction, resulting in synchronous movement. To break handle tangency and allow independent movement of either handle point, the user can hold the ‘Alt’ or ‘Option’ key while dragging. Double-tapping a broken control point will snap the handles back to being parallel and re-enable synchronous movement. Control points can be deleted (pressing backspace with the point selected) or added (single clicking on the desired point on the stroke, indicated by the blue circle that appears on hover).</li>
+  <li><strong>Lock Ratio:</strong> Users can click on the lock button to lock the dimension ratio so that they can change the width and the height of the document proportionally.</li>
+  <li><strong>Rotate:</strong> Users can rotate ink documents 90 degrees by clicking on the rotate button. Alternatively, users can change the value inside the “∠:” input box.</li>
+  <li><strong>Height and Width:</strong> Users can change the height and width of the ink documents by changing the values inside the  “H:” and “W:” input boxes.</li>
+  <li><strong>X and Y:</strong> Users can change the x coordinate and y coordinate of the ink documents by changing the values inside the “X:” and “Y:” input boxes.</li>
+</ul>
+:ET

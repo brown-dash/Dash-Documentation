@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Features
-nav_order: 2
+nav_order: 6
 permalink: /features/
 has_children: true
 ---

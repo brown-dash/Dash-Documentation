@@ -1,0 +1,52 @@
+I"Ñ	<h1 class="no_toc" id="environment">Environment</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#menu-panel" id="markdown-toc-menu-panel">Menu Panel</a></li>
+  <li><a href="#properties-panel" id="markdown-toc-properties-panel">Properties Panel</a></li>
+  <li><a href="#document-toolbar" id="markdown-toc-document-toolbar">Document Toolbar</a></li>
+  <li><a href="#shortcut-buttons" id="markdown-toc-shortcut-buttons">Shortcut Buttons</a></li>
+  <li><a href="#colon-menu" id="markdown-toc-colon-menu">Colon Menu</a></li>
+  <li><a href="#window-manager" id="markdown-toc-window-manager">Window Manager</a>    <ol>
+      <li><a href="#what-is-a-dashboard" id="markdown-toc-what-is-a-dashboard">What is a Dashboard?</a></li>
+      <li><a href="#what-is-a-tab" id="markdown-toc-what-is-a-tab">What is a tab?</a></li>
+      <li><a href="#what-is-a-tile" id="markdown-toc-what-is-a-tile">What is a tile?</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<p>When a user first opens Dash, the first view is an empty pannable freeform canvas, one of many views that dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of dashâ€™s workflow takes place. It is surround by toolbars and panels which we will go over below.</p>
+
+<p><img src="../assets/images/overview.png" alt="" class="img" /></p>
+
+<h2 id="menu-panel">Menu Panel</h2>
+
+<p><img src="../assets/gifs/menu-panel.gif" alt="" class="img" />
+<!-- <img src="../assets/gifs/menu-panel.gif" alt="menu panel" style="height: 400px;"/> --></p>
+
+<h2 id="properties-panel">Properties Panel</h2>
+
+<h2 id="document-toolbar">Document Toolbar</h2>
+
+<h2 id="shortcut-buttons">Shortcut Buttons</h2>
+
+<h2 id="colon-menu">Colon Menu</h2>
+
+<!-- <img src="../assets/gifs/colon-menu.gif" alt="colon menu" style="height:300px;"/> -->
+<p><img src="../assets/gifs/colon-menu.gif" alt="" class="img" /></p>
+
+<h2 id="window-manager">Window Manager</h2>
+
+<h3 id="what-is-a-dashboard">What is a Dashboard?</h3>
+<p>A particular layout of tiles is called a dashboard, and consists of one or more tiles. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately.</p>
+
+<h3 id="what-is-a-tab">What is a tab?</h3>
+
+<h3 id="what-is-a-tile">What is a tile?</h3>
+
+:ET

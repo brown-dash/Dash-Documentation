@@ -6,7 +6,7 @@ permalink: /features/trails/
 nav_order: 3
 ---
 
-# Presentation Trails
+# Trails
 {: .no_toc }
 
 <details open markdown="block">

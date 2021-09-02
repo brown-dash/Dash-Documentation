@@ -2,7 +2,7 @@
 layout: page
 title: Overall Environment
 permalink: /environment/
-nav_order: 1
+nav_order: 2
 ---
 
 # Environment 
@@ -19,7 +19,12 @@ nav_order: 1
 
 When a user first opens Dash, the first view is an empty pannable freeform canvas, one of many views that dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of dash's workflow takes place. It is surround by toolbars and panels which we will go over below. 
 
+![](../assets/images/overview.png){:.img}
+
 ## Menu Panel
+
+![](../assets/gifs/menu-panel.gif){:.img}
+<!-- <img src="../assets/gifs/menu-panel.gif" alt="menu panel" style="height: 400px;"/> -->
 
 ## Properties Panel
 
@@ -27,7 +32,11 @@ When a user first opens Dash, the first view is an empty pannable freeform canva
 
 ## Shortcut Buttons
 
-## Popup Menu
+## Colon Menu
+
+<!-- <img src="../assets/gifs/colon-menu.gif" alt="colon menu" style="height:300px;"/> -->
+![](../assets/gifs/colon-menu.gif){:.img}
+
 
 ## Window Manager
 

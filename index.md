@@ -34,5 +34,6 @@ console.log(list.map(x => (x * x)))
 *[IDE]: Integrated Development Environment
 *[MERN]: MongoDB, Express, React, NodeJS
 *[Yarn]: Yet Another Resource Negotiator
+*[ACLs]: Access Controls
 
 

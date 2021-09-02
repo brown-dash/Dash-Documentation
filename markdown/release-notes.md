@@ -2,7 +2,7 @@
 layout: page
 title: Release Notes
 permalink: /release-notes/
-nav_order: 3
+nav_order: 7
 ---
 # Release Notes
 ## <span style="color:#4476f7">**IN THE WORKS**</span>
