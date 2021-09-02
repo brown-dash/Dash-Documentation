@@ -11,6 +11,8 @@ layout: home
 
 Dash is an **open component-based hypermedia system** that provides what we believe to be a best of breed set of components. While each component can be used in isolation as less full featured versions of an analogous application, Dash allows users to interoperate components and compose their own workflows without losing data or expending effort while switching between tasks. As hypertext allowed users to flexibly move between texts, Dash allows users to flexibly move between tasks.
 
+[Dash](https://browndash.com/login){: .btn }
+
 <!-- TYPESCRIPT CODE BLOCKS  
 ```typescript
 const list = [10, 20];
