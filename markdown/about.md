@@ -9,6 +9,10 @@ nav_order: 1
 
 <button type="button" name="button" href="https://browndash.com/login" class="btn">Dash</button>
 
+Let us see if this works:
+[Dash](https://browndash.com/login){: .btn }
+
+
 Label
 {: .label }
 
