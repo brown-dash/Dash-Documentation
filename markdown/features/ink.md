@@ -7,6 +7,16 @@ nav_order: 3
 ---
 
 # Ink
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 Dash allows the user to draw various shapes and lines, each represented by an ink stroke. Each ink stroke is a document. Ink documents can be created using a simple pen tool or a polygon tool. Currently implemented polygons include: circles, rectangles, straight lines, and arrows. Once an ink document is created, its properties, such as stroke color, fill color, stroke width, and control points can further be modified under the Properties Panel.
 

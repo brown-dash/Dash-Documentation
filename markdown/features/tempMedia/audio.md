@@ -8,6 +8,16 @@ nav_order: 1
 ---
 
 # Audio
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 The audio document allows the user to record and play back audio or play back imported audio files.
 
 ## Creating Audio Documents

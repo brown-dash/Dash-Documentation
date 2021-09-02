@@ -7,6 +7,16 @@ nav_order: 4
 ---
 
 # Linking
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 A link in Dash can be thought of as a bidirectional connection between two documents, or a reference to one document from another. It is also a document in itself, meaning that we can add tags and other key/value pairs. The same source selection (called an anchor, i.e., a persistent selection) can link to multiple destination anchors. In addition, source and destination anchors can both range from the entire document to a portion of a document (i.e., a phrase within a long text document, an annotation on a pdf, a selection on an image, etc). 
 

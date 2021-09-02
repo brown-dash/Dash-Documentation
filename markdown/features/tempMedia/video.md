@@ -9,6 +9,17 @@ nav_order: 2
 
 
 # Videos
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 Video documents allow users to play back video clips.
 
 ## Creating Video Documents
