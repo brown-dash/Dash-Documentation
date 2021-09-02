@@ -13,6 +13,8 @@ Let us see if this works:
 [Dash](https://browndash.com/login){: .btn }
 
 
+![]("../assets/images/medium-blue-light-blue.png")
+
 Label
 {: .label }
 
