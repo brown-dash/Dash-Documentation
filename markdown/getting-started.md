@@ -135,9 +135,9 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)
 
-There are two ways to create links: drag and drop or linkboard.
+### Creating links
 
-### Drag and drop
+There are two ways to create links: drag and drop or linkboard.
 
 Drag and drop creates a 1:1 link between documents that both appear on the screen at a given time, whether in the same tab or in two different tiles.
 
@@ -146,14 +146,26 @@ Drag and drop creates a 1:1 link between documents that both appear on the scree
 
 Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.
 
-### Linkboard
-
 Linkboards function as a clipboard: they "copy" source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.
 
 1. Select the desired source document and navigate to its bottom toolbar.
 2. Left-click the "make link" button.
    1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
 3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
+
+### Editing links
+
+Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows several link editing options, as well as a preview of the document it links to. The link editing options are as follows:
+
+- Show/hide anchor: renders a trail visually representing the link and its anchors. Anchors are indicated as colored dots on the bottom right of the document; links are shown as a dotted line.
+- Show/hide link: toggles the dotted line created by the show/hide anchor tool above.
+- Move/freeze dot: toggles the user's ability to reposition anchor dots.
+- Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.
+- Delete link: removes the selected link.
+
+### Linking within documents (Hypothes.is)
+
+Users may also create links within documents via the [Hypothes.is](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en) Chrome browser extension.
 
 ## Annotation and Markup
 
