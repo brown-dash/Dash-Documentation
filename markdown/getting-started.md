@@ -6,6 +6,7 @@ nav_order: 3
 ---
 
 # Getting Started
+
 {: .no_toc }
 
 <details open markdown="block">
@@ -27,11 +28,12 @@ There are multiple ways that you can import into Dash. The essential ways are as
 
 ## Documents
 
-Everything in Dash is considered a document. Documents store data as arbitrary key-value pairs. 
-
+Everything in Dash is considered a document. Documents store data as arbitrary key-value pairs.
 
 ### Document Types
+
 Dash supports several document types, each with unique capabilities. The primary types are as follows:
+
 - **[Text](documents/text.md)**: rich (RTF) text documents that support various text and hypertext features
 - **[Webpages](documents/webpage.md)**: HTML webpages from external sites
 - **[PDFs](documents/pdf.md)**: PDF files created outside of Dash
@@ -39,8 +41,8 @@ Dash supports several document types, each with unique capabilities. The primary
 - **Ink**: ink strokes drawn with the pen or polygon tool
 - **Images**: digital images from external sources
 
-
 ### Selecting Documents
+
 There are three ways to select a document in Dash. To select a single document, simply left-click or right-click the desired document to bring it into focus.
 
 You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.
@@ -74,49 +76,58 @@ There are four main ways to transform a document: move, resize, open in a new ta
   - Click on the rightmost “open in a new tile” icon in the header chrome to open a full view of the document in a new tile (defaults to alias).
 - **Close**
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
-  - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”. 
+  - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
 
 ## Views
 
 Views represent various ways to visualize a collection. Users can toggle different views through the pull-down menu in the leftmost region of the context-sensitive toolbar. Alternatively, they can open a new view as an alias by right-clicking on the current collection and selecting the desired perspective. The default view is freeform.
 
 ### Freeform
+
 **Description**: unbounded 2D space in the form of a canvas
 
-
 **Good for**:
+
 - User-driven spatial organization and document layouts
 - Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking
 - “Raw” document views to get a sense of individual layouts
 
 ### Schema
-**Description**: table view of documents. Each document is a row, and each column displays the contents (values) stored with the unique document key. Nested collections can be expanded in-line. The title, author, date last modified, text, and context columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys. 
+
+**Description**: table view of documents. Each document is a row, and each column displays the contents (values) stored with the unique document key. Nested collections can be expanded in-line. The title, author, date last modified, text, and context columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys.
 
 **Good for:**
+
 - Maintaining structured viewing and sorting of data
 - Manipulating documents via key-value pairs
 - Working with search functionality
 - Navigating Dash an an “Excel sheet”
 
 ### Tree
+
 **Description**: a hierarchal outline of documents. Each item is expandable into sub-items, and sub-items range from a sub-tree of documents stored inside the current document to a live preview of the current document.
 
 **Good for**:
+
 - Viewing hierarchical relationships between documents
-- Navigating Dash as a file directory 
+- Navigating Dash as a file directory
 - Manipulating document z-indices (overlay layer)
 
 ### Stacking
+
 **Description**: scrollable stacks of documents. All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key.
 
 **Good for**:
+
 - Categorizing documents by specified keys while maintaining a live preview of each document
-- Navigating Dash as a “Trello Board” 
+- Navigating Dash as a “Trello Board”
 
 ### Masonry
+
 **Description**: 2D grid of tiles that avoids empty space. Documents automatically reflow and wrap as the aspect ratio is reszied. Documents can be categorized via unique keys, which displays each category in a separate grid. Multiple categories are vertically stacked.
 
 **Good for**:
+
 - Avoiding vertical or horizontal padding required by grid perspectives
 - Navigating Dash as a “Pinterest Board”
 
@@ -125,7 +136,9 @@ Views represent various ways to visualize a collection. Users can toggle differe
 A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)
 
 There are two ways to create links: drag and drop or linkboard.
+
 ### Drag and drop
+
 Drag and drop creates a 1:1 link between documents that both appear on the screen at a given time, whether in the same tab or in two different tiles.
 
 1. Select the desired source document and navigate to its bottom toolbar.
@@ -134,6 +147,7 @@ Drag and drop creates a 1:1 link between documents that both appear on the scree
 Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.
 
 ### Linkboard
+
 Linkboards function as a clipboard: they "copy" source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.
 
 1. Select the desired source document and navigate to its bottom toolbar.
