@@ -163,11 +163,50 @@ Once a link is created, a blue dot will appear in the document's bottom left cor
 - Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.
 - Delete link: removes the selected link.
 
-### Linking within documents (Hypothes.is)
-
-Users may also create links within documents via the [Hypothes.is](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=en) Chrome browser extension.
-
 ## Annotation and Markup
+
+Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
+
+### Text
+
+**Description**: in-line text annotations.
+
+**Access**:
+
+- Click anywhere on the media document, then start typing
+- On PDFs: highlight the desired PDF text, then use the floating toolbar to create an annotation. Alternatively, drag the highlighted text to an existing annotation.
+
+### Ink
+
+**Description**: embedded ink strokes.
+
+**Access**:
+
+- Draw anywhere on the media document.
+
+### Marquee selection (collection)
+
+**Description**: an empty, semi-transparent collection that serves as an anchor for links as well as a “highlight” for a desired region.
+
+**Access**:
+
+- Perform a marquee selection on the desired region, then select "Create a Collection" on the floating toolbar.
+
+### Highlight (only applies to PDFs)
+
+**Description**: highlights of PDF text portions.
+
+**Access**:
+
+- Select the desired portion of the text. Right-click the highlighted region and use the floating toolbar to edit the highlight.
+
+### Pushpin
+
+**Description**: toggles the visibility of user annotations.
+
+**Access**:
+
+- By default, dragging an annotation outside of its parent document will leave a pushpin at the original location the annotation was created.
 
 ## Collaboration
 
