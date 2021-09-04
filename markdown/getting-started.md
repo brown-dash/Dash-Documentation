@@ -210,4 +210,26 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 ## Collaboration
 
+Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:
+
+**Admin**: users can add, remove, edit, and change others' access rights to the document.
+**Can Edit**: users can add, remove, and edit the contents of a document. However, they may not change others' access rights.
+**Can Augment**: users can annotate and add other documents, but they cannot edit or remove the document.
+**Not Shared**: users have no access and cannot add, edit, remove, or view the document.
+
+To create a group:
+
+1. Click on the settings button in the left sidebar (scroll down if not visible) and select the Modes submenu. Click on the Manage Groups Button.
+2. Click on the Create Group button to open the group creation menu.
+3. Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.
+4. Click on the blue *i* to view or edit group members. You can add or remove members or delete the group from this menu.
+
+### Sharing a document
+
+### Sharing a dashboard
+
+### Documents shared with me
+
+### Dashboards shared with me
+
 ## [Trails](../features/trails)
