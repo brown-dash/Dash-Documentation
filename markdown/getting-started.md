@@ -26,6 +26,8 @@ There are multiple ways that you can import into Dash. The essential ways are as
 - **Import**: import using the import menu on the left hand side
 - **Begin typing `:`** to bring up the document menu, from which you can create a document.
 
+![](../assets/gifs/createnode.gif){:.img}
+
 ## Documents
 
 Everything in Dash is considered a document. Documents store data as arbitrary key-value pairs.
@@ -46,6 +48,8 @@ Dash supports several document types, each with unique capabilities. The primary
 There are three ways to select a document in Dash. To select a single document, simply left-click or right-click the desired document to bring it into focus.
 
 You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.
+
+![](../assets/gifs/groupselection.gif){:.img}
 
 To select text in PDFs and webpages (not text documents), click and drag to highlight the desired text.
 
@@ -153,6 +157,8 @@ Linkboards function as a clipboard: they "copy" source documents to the linkboar
    1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
 3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
 
+![](../assets/gifs/linking.gif){:.img}
+
 ### Editing links
 
 Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows several link editing options, as well as a preview of the document it links to. The link editing options are as follows:
@@ -219,10 +225,12 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 
 To create a group:
 
-1. Click on the settings button in the left sidebar (scroll down if not visible) and select the Modes submenu. Click on the Manage Groups Button.
+1. Click on the settings button on the top right in the menu and select the Modes submenu. Click on the Manage Groups Button.
 2. Click on the Create Group button to open the group creation menu.
 3. Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.
 4. Click on the blue *i* to view or edit group members. You can add or remove members or delete the group from this menu.
+
+![](../assets/gifs/sharing.gif){:.img}
 
 ### Sharing a document
 
