@@ -182,6 +182,8 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 - Click anywhere on the media document, then start typing
 - On PDFs: highlight the desired PDF text, then use the floating toolbar to create an annotation. Alternatively, drag the highlighted text to an existing annotation.
 
+![](../assets/gifs/textannos.gif){:.img}
+
 ### Ink
 
 **Description**: embedded ink strokes.
@@ -198,9 +200,11 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 - Perform a marquee selection on the desired region, then select "Create a Collection" on the floating toolbar.
 
-### Highlight (only applies to PDFs)
+![](../assets/gifs/marqueeannos.gif){:.img}
 
-**Description**: highlights of PDF text portions.
+### Highlight
+
+**Description**: highlights of PDF and website text portions.
 
 **Access**:
 
@@ -218,12 +222,15 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:
 
-**Admin**: users can add, remove, edit, and change others' access rights to the document.
-**Can Edit**: users can add, remove, and edit the contents of a document. However, they may not change others' access rights.
-**Can Augment**: users can annotate and add other documents, but they cannot edit or remove the document.
-**Not Shared**: users have no access and cannot add, edit, remove, or view the document.
+**1. Admin**: users can add, remove, edit, and change others' access rights to the document.
 
-To create a group:
+**2. Can Edit**: users can add, remove, and edit the contents of a document. However, they may not change others' access rights.
+
+**3. Can Augment**: users can annotate and add other documents, but they cannot edit or remove the document.
+
+**4. Not Shared**: users have no access and cannot add, edit, remove, or view the document.
+
+**To create a group**:
 
 1. Click on the settings button on the top right in the menu and select the Modes submenu. Click on the Manage Groups Button.
 2. Click on the Create Group button to open the group creation menu.
