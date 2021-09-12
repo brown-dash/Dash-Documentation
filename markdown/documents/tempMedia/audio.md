@@ -34,11 +34,11 @@ You can also create an audio document by navigating to the Import Menu and impor
 ### During Recording
 - **Pause/Play:** This button pauses and resumes the recording.
 - **Stop:** This button stops the recording.
-- **Dictation:** Transcription can also be started during the recording by selecting the button and then left clicking the generated text document. This creates a timecode in the document of the time 
+- **Dictation:** Transcription can also be started during the recording by selecting the button and then left clicking the generated text document. This creates a linked timecode in the document of the time you begin talking.
 
 ### Post-Recording
 - **Pause/Play:** This button pauses or plays the audio document from the current time indicated by the red line on the timeline and the timestamp in the bottom left corner.
-- **Trimming:** Clicking the scissor icon displays the trim controls. Dragging either of the handles at the end of the timeline will change the range the clip is being trimmed to. Selecting the check icon will finish the trim and display the new altered clip. Trimming is not destructive so a shortened clip can always be lengthened again up to its original duration. Markers that are cut off by trimming a clip will be cut down to the portion that remains in the range of the new clip. If a marker is entirely out of range it will no longer play. Lengthening the clip again will increase the marker up to its initial length.
+- **Trimming:** Clicking the scissor icon displays the trim controls. Dragging either of the handles at the end of the timeline will change the range the clip is being trimmed to. Double clicking either handle will reset it to the start or end of the clip. Selecting the check icon will finish the trim and display the new altered clip. Trimming is not destructive so a shortened clip can always be lengthened again up to its original duration. Markers that are cut off by trimming a clip will be cut down to the portion that remains in the range of the new clip. If a marker is entirely out of range it will no longer play. Lengthening the clip again will increase the marker up to its initial length.
 - **Region Markers:** To create a region marker, click on the desired starting time on the timeline and drag until the desired ending time. The region marker will play audio from the the marker's start to end.
 - **Label Markers:** To create a label marker, shift-click the desired time on the timeline. The label marker will playback audio from the start time of the marker to the end of the entire audio clip.
 
