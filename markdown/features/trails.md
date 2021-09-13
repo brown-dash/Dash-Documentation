@@ -36,7 +36,7 @@ To access a Presentation Trail that has already been created use the PRES. TRAIL
 
 ## Objects & Actions
 
-### Adding documents to a presntation trail
+### Adding documents to a presentation trail
 
 #### Regular pin:
 To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail. 
@@ -47,17 +47,31 @@ Pinning with view pins the document with the specific pan and zoom that you have
 - Marquee menu - pin with selection drag
 
 ### Slides
+Slides are used to visually represent the path that the trail would follow. They can be rearranged, retitled, and expanded to show a preview of what is in the slide. 
 
-#### Slide Properties
+Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find: 
+- Slide title: in bold on the far left hand side of the slide
+- M: The duration of the movement to the slide
+- D: The duration for which the slide will remain in focus for Auto-Present
+- Slide specific expand and minimise options
+- The option to remove the slide from the presentation (Note: does not remove slide from the collection or database, only from the presentation). 
 
 ##### Transitions
 
-###### Movement
+**Movement:** Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
+Pan and zoom: Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
+Pan: Center the document maintaining the current scale of the containing collection
+Jump Switch: Switch to the zoomed in document with no transition time
+None: Nothing happens when this slide is the active one in the trail.
 
-###### Visibility & Duration
+**Visibility & Duration**
+- ide before: When this toggle is on the document will appear hidden before it is presented in the presentation trail
+- Hide after: When this option is toggled on after the slide is presented it will not appear in the presentation trail.
+- Lightbox: Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.
+- Slide duration: Choose the amount of time that the slide will remain in focus when in Auto-present mode.
 
-### Modes
-
+**Effects**
+Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll. 
 
 
 
