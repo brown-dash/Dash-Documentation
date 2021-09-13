@@ -198,7 +198,7 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 - Perform a marquee selection on the desired region, then select "Create a Collection" on the floating toolbar.
 
-### Highlight (only applies to PDFs)
+### Highlight (only applies to PDFs and Websites)
 
 **Description**: highlights of PDF text portions.
 
@@ -234,10 +234,18 @@ To create a group:
 
 ### Sharing a document
 
+Coming soon
+
 ### Sharing a dashboard
+
+Coming soon
 
 ### Documents shared with me
 
+Coming soon
+
 ### Dashboards shared with me
+
+Coming soon
 
 ## [Trails](../features/trails)
