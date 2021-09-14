@@ -26,7 +26,7 @@ There are multiple ways that you can import into Dash. The essential ways are as
 - **Import**: import using the import menu on the left hand side
 - **Begin typing `:`** to bring up the document menu, from which you can create a document.
 
-![](../assets/gifs/createnode.gif){:.img}
+![](../assets/gifs/gettingstarted/createnode.gif){:.img}
 
 ## Documents
 
@@ -49,7 +49,7 @@ There are three ways to select a document in Dash. To select a single document, 
 
 You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.
 
-![](../assets/gifs/groupselection.gif){:.img}
+![](../assets/gifs/gettingstarted/groupselection.gif){:.img}
 
 To select text in PDFs and webpages (not text documents), click and drag to highlight the desired text.
 
@@ -157,7 +157,7 @@ Linkboards function as a clipboard: they "copy" source documents to the linkboar
    1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
 3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
 
-![](../assets/gifs/linking.gif){:.img}
+![](../assets/gifs/gettingstarted/linking.gif){:.img}
 
 ### Editing links
 
@@ -182,7 +182,7 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 - Click anywhere on the media document, then start typing
 - On PDFs: highlight the desired PDF text, then use the floating toolbar to create an annotation. Alternatively, drag the highlighted text to an existing annotation.
 
-![](../assets/gifs/textannos.gif){:.img}
+![](../assets/gifs/gettingstarted/textannos.gif){:.img}
 
 ### Ink
 
@@ -200,7 +200,7 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 - Perform a marquee selection on the desired region, then select "Create a Collection" on the floating toolbar.
 
-![](../assets/gifs/marqueeannos.gif){:.img}
+![](../assets/gifs/gettingstarted/marqueeannos.gif){:.img}
 
 ### Highlight
 
@@ -237,4 +237,4 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 3. Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.
 4. Click on the blue *i* to view or edit group members. You can add or remove members or delete the group from this menu.
 
-![](../assets/gifs/sharing.gif){:.img}
+![](../assets/gifs/gettingstarted/sharing.gif){:.img}

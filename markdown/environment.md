@@ -23,7 +23,7 @@ When a user first opens Dash, the first view is an empty pannable freeform canva
 
 ## Menu Panel
 
-![](../assets/gifs/menu-panel.gif){:.img}
+![](../assets/gifs/environment/menu-panel.gif){:.img}
 <!-- <img src="../assets/gifs/menu-panel.gif" alt="menu panel" style="height: 400px;"/> -->
 
 Each icon in this menu has an associated sidebar panel that opens up on the left hand side of the screen. All icons above can be reordered by click and dragging the icon, then dropping it into the desired location in the menu. 
@@ -73,7 +73,7 @@ Sharing
 ## Colon Menu
 
 <!-- <img src="../assets/gifs/colon-menu.gif" alt="colon menu" style="height:300px;"/> -->
-![](../assets/gifs/colon-menu.gif){:.img}
+![](../assets/gifs/environment/colon-menu.gif){:.img}
 
 
 ## Window Manager
