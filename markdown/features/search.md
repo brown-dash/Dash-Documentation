@@ -18,7 +18,7 @@ nav_order: 3
 {:toc}
 </details>
 
-![](../assets/gifs/features/andy_search.png){:.img}
+![](../../assets/gifs/features/andy_search.gif){:.img}
 
 ## Description: 
 The search flyout allows the user to find specific documents in their dashboard by inputting metadata querries. Each search result displays the corresponding document's title, type, and matching metadata fields. 
