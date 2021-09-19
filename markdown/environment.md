@@ -17,6 +17,10 @@ nav_order: 2
 {:toc}
 </details>
 
+## Video
+
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="480" allow="autoplay"></iframe>
+
 When a user first opens Dash, the first view is an empty pannable freeform canvas, one of many views that dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of dash's workflow takes place. It is surround by toolbars and panels which we will go over below. 
 
 ![](../assets/images/overview.png){:.img}
