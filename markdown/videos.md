@@ -7,11 +7,21 @@ nav_order: 6
 
 # Videos
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 This is a collection of all of the documentation videos. 
 
 ## Welcome to Dash!
 
 #### An introduction to the overall environment. 
+
 
 <iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -19,6 +29,7 @@ This is a collection of all of the documentation videos.
 ## Dashboards, Tiles & Tabs
 
 #### An explenation of dashboards, tiles & tabs and what they mean in dash. 
+
 
 <iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="480" allow="autoplay"></iframe>
 
