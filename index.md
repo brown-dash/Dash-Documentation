@@ -4,17 +4,21 @@
 nav_exclude: true
 layout: home
 ---
+## Welcome to Dash!
 
-# dash documentation
+**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. You can find the release notes [here]("./markdown/release-notes") 
 
-**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. 
+<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 Dash is an **open component-based hypermedia system** that provides what we believe to be a best of breed set of components. While each component can be used in isolation as less full featured versions of an analogous application, Dash allows users to interoperate components and compose their own workflows without losing data or expending effort while switching between tasks. As hypertext allowed users to flexibly move between texts, Dash allows users to flexibly move between tasks.
 
 You can signup for our **stable release (V1.0.0)** by clicking on the following button:
+
 [browndash.com](https://browndash.com/signup){: .btn }
 
 And you can find our **experimental release (V1.1.0)** here, not that there is no guarentee of permanence on this release:
+
 [dash-release.com](dash-release.eastus.cloudapp.azure.com:1050/signup){: .btn }
 
 
