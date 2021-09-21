@@ -1,21 +1,22 @@
-I"<h1 class="no_toc" id="webpages-in-dash">Webpages in Dash</h1>
+I"ô<h1 class="no_toc" id="webpages-in-dash">Webpages in Dash</h1>
 
 <details open="">
   <summary class="text-delta">
     Table of contents
   </summary>
 <ol id="markdown-toc">
-  <li><a href="#description-html-webpages" id="markdown-toc-description-html-webpages">Description: HTML webpages</a></li>
-  <li><a href="#access" id="markdown-toc-access">Access:</a></li>
-  <li><a href="#objects--actions" id="markdown-toc-objects--actions">Objects &amp; Actions:</a></li>
+  <li><a href="#description" id="markdown-toc-description">Description:</a></li>
+  <li><a href="#access" id="markdown-toc-access">Access</a></li>
+  <li><a href="#objects--actions" id="markdown-toc-objects--actions">Objects &amp; Actions</a></li>
 </ol>
 
 </details>
 
-<h2 id="description-html-webpages">Description: HTML webpages</h2>
-<h2 id="access">Access:</h2>
+<h2 id="description">Description:</h2>
+<p>You can include embedded HTML webpages in Dash.</p>
+<h2 id="access">Access</h2>
 <p>Dragged and dropped into Dash from an external tab. Alternatively, an empty webpage using the colon menu will open a Bing search (https://www.bing.com). Users can then enter a specific URL in the horizontal toolbar.</p>
-<h2 id="objects--actions">Objects &amp; Actions:</h2>
+<h2 id="objects--actions">Objects &amp; Actions</h2>
 <ul>
   <li>Embed marquee selections, annotations, and ink (overlay pane)</li>
   <li>Annotate and highlight text in a webpage using the same annotation sidebar as described for PDF and Text documents</li>

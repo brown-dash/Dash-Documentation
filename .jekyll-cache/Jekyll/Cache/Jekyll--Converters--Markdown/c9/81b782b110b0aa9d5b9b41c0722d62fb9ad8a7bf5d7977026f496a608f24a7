@@ -1,4 +1,4 @@
-I"Å?<h1 id="getting-started">Getting Started</h1>
+I"A<h1 id="getting-started">Getting Started</h1>
 
 <details open="" class="no_toc">
   <summary class="text-delta">
@@ -49,10 +49,13 @@
 <ul>
   <li><strong>Drag and drop</strong>: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard.</li>
   <li><strong>Import</strong>: import using the import menu on the left hand side</li>
-  <li><strong>Begin typing <code class="language-plaintext highlighter-rouge">:</code></strong> to bring up the document menu, from which you can create a document.</li>
+  <li><strong>Begin typing <code class="language-plaintext highlighter-rouge">:</code></strong> to bring up the document menu, from which you can create a document. If you are in Stacking or Schema view, you can click on <code class="language-plaintext highlighter-rouge">+ New</code>, and type a colon to open the colon menu.</li>
 </ul>
 
-<p><img src="../assets/gifs/gettingstarted/createnode.gif" alt="" class="img" /></p>
+<div class="img-container">
+  <img src="../assets/gifs/environment/colon-menu.gif" alt="colon menu" style="height:300px;" />
+  <img src="../assets/gifs/environment/colon-stack.gif" alt="colon menu" style="height:300px;" />
+</div>
 
 <h2 id="documents">Documents</h2>
 
@@ -67,7 +70,7 @@
   <li><strong><a href="documents/webpage.md">Webpages</a></strong>: HTML webpages from external sites</li>
   <li><strong><a href="documents/pdf.md">PDFs</a></strong>: PDF files created outside of Dash</li>
   <li><strong><a href="documents/tempMedia/temporal-media.md">Temporal Media</a></strong>: audio and video files</li>
-  <li><strong>Ink</strong>: ink strokes drawn with the pen or polygon tool</li>
+  <li><strong><a href="featyres/ink.md">Ink</a></strong>: ink strokes drawn with the pen or polygon tool</li>
   <li><strong>Images</strong>: digital images from external sources</li>
 </ul>
 

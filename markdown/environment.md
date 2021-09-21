@@ -38,10 +38,9 @@ When a user first opens Dash, the first view is an empty pannable freeform canva
 
 ![](../assets/gifs/environment/menu-panel.gif){:.img}
 
-Each icon in this menu has an associated sidebar panel that opens up on the left hand side of the screen. All icons above can be reordered by click and dragging the icon, then dropping it into the desired location in the menu. 
 
 ### Access
-Permanently pinned on the left. Flyouts can be toggled open & closed by clicking on the specific icon, or by clicking on the grey drag handle.  The popup can be toggled open by clicking on the settings (gear) icon, and closed by clicking the “x” icon on the top right corner. 
+Permanently pinned on the left. Flyouts can be toggled open & closed by clicking on the specific icon, or by clicking on the grey drag handle.
 
 | Icon       | Title         | Description |
 |:-------------|:------------------|:------|
@@ -75,14 +74,6 @@ Sharing
 
 -->
 
-## Colon Menu
-
-You can open the colon menu at any time by typing a colon on your freeform canvas. If you are in another document type, you can click on `+ New`, and type a colon to open the colon menu. From the colon menu, you can select any document to create a placeholder for that document. 
-
-<div class="img-container">
-  <img src="../assets/gifs/environment/colon-menu.gif" alt="colon menu" style="height:300px;"/>
-  <img src="../assets/gifs/environment/colon-stack.gif" alt="colon menu" style="height:300px;"/>
-</div>
 
 
 ## Dashboards, Tiles & Tabs
