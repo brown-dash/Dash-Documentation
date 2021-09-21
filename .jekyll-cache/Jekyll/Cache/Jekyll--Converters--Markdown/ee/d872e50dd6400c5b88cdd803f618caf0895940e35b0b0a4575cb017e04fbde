@@ -1,0 +1,31 @@
+I"C<h1 class="no_toc" id="pdf-documentss">PDF Documentss</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#description-pdf-files-created-outside-of-dash" id="markdown-toc-description-pdf-files-created-outside-of-dash">Description: PDF files created outside of Dash</a></li>
+  <li><a href="#access-dragged--dropped-into-dash-from-an-external-source-ie-own-desktop" id="markdown-toc-access-dragged--dropped-into-dash-from-an-external-source-ie-own-desktop">Access: dragged &amp; dropped into Dash from an external source (i.e., own desktop)</a></li>
+  <li><a href="#objects--actions" id="markdown-toc-objects--actions">Objects &amp; Actions:</a></li>
+</ol>
+
+</details>
+
+<h2 id="description-pdf-files-created-outside-of-dash">Description: PDF files created outside of Dash</h2>
+
+<h2 id="access-dragged--dropped-into-dash-from-an-external-source-ie-own-desktop">Access: dragged &amp; dropped into Dash from an external source (i.e., own desktop)</h2>
+
+<h2 id="objects--actions">Objects &amp; Actions:</h2>
+<ul>
+  <li>Embed highlights, marquee selections, annotations, and ink (overlay pane)</li>
+  <li>Scroll through PDF, view current page number, and navigate to desired page numbers by custom input</li>
+  <li>Search for specific words or phrases within the PDF: click on the search icon at the bottom right to invoke the search input box. Then, type in the query. By default, the first result will be highlighted in orange while all other search results will be highlighted in yellow. Users can use the up &amp; down arrows to step through each result, with the current result having an orange highlight.</li>
+  <li>Add a margin that allows for a convenient place to place documents such as annotations (in the form of a text document):
+    <ul>
+      <li>Click on the <code class="language-plaintext highlighter-rouge">Comment</code> icon to toggle the annotation sidebar open and closed.</li>
+      <li>To resize the margin, drag on the <code class="language-plaintext highlighter-rouge">Comment</code> icon.</li>
+    </ul>
+  </li>
+</ul>
+:ET

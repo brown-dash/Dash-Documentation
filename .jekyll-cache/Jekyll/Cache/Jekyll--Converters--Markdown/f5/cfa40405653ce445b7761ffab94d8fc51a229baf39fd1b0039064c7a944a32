@@ -1,0 +1,325 @@
+I"�?<h1 id="getting-started">Getting Started</h1>
+
+<details open="" class="no_toc">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#getting-started" id="markdown-toc-getting-started">Getting Started</a>    <ol>
+      <li><a href="#import-and-content-creation" id="markdown-toc-import-and-content-creation">Import and Content Creation</a></li>
+      <li><a href="#documents" id="markdown-toc-documents">Documents</a>        <ol>
+          <li><a href="#document-types" id="markdown-toc-document-types">Document Types</a></li>
+          <li><a href="#selecting-documents" id="markdown-toc-selecting-documents">Selecting Documents</a></li>
+          <li><a href="#editing-documents" id="markdown-toc-editing-documents">Editing Documents</a></li>
+          <li><a href="#transforming-documents" id="markdown-toc-transforming-documents">Transforming Documents</a></li>
+        </ol>
+      </li>
+      <li><a href="#views" id="markdown-toc-views">Views</a>        <ol>
+          <li><a href="#freeform" id="markdown-toc-freeform">Freeform</a></li>
+          <li><a href="#schema" id="markdown-toc-schema">Schema</a></li>
+          <li><a href="#tree" id="markdown-toc-tree">Tree</a></li>
+          <li><a href="#stacking" id="markdown-toc-stacking">Stacking</a></li>
+          <li><a href="#masonry" id="markdown-toc-masonry">Masonry</a></li>
+        </ol>
+      </li>
+      <li><a href="#links-and-anchors" id="markdown-toc-links-and-anchors">Links and Anchors</a>        <ol>
+          <li><a href="#creating-links" id="markdown-toc-creating-links">Creating links</a></li>
+          <li><a href="#editing-links" id="markdown-toc-editing-links">Editing links</a></li>
+        </ol>
+      </li>
+      <li><a href="#annotation-and-markup" id="markdown-toc-annotation-and-markup">Annotation and Markup</a>        <ol>
+          <li><a href="#text" id="markdown-toc-text">Text</a></li>
+          <li><a href="#ink" id="markdown-toc-ink">Ink</a></li>
+          <li><a href="#marquee-selection-collection" id="markdown-toc-marquee-selection-collection">Marquee selection (collection)</a></li>
+          <li><a href="#highlight" id="markdown-toc-highlight">Highlight</a></li>
+          <li><a href="#pushpin" id="markdown-toc-pushpin">Pushpin</a></li>
+        </ol>
+      </li>
+      <li><a href="#collaboration" id="markdown-toc-collaboration">Collaboration</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h2 id="import-and-content-creation">Import and Content Creation</h2>
+
+<p>There are multiple ways that you can import into Dash. The essential ways are as follows:</p>
+
+<ul>
+  <li><strong>Drag and drop</strong>: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard.</li>
+  <li><strong>Import</strong>: import using the import menu on the left hand side</li>
+  <li><strong>Begin typing <code class="language-plaintext highlighter-rouge">:</code></strong> to bring up the document menu, from which you can create a document.</li>
+</ul>
+
+<p><img src="../assets/gifs/gettingstarted/createnode.gif" alt="" class="img" /></p>
+
+<h2 id="documents">Documents</h2>
+
+<p>Everything in Dash is considered a document. Documents store data as arbitrary key-value pairs.</p>
+
+<h3 id="document-types">Document Types</h3>
+
+<p>Dash supports several document types, each with unique capabilities. The primary types are as follows:</p>
+
+<ul>
+  <li><strong><a href="documents/text.md">Text</a></strong>: rich (RTF) text documents that support various text and hypertext features</li>
+  <li><strong><a href="documents/webpage.md">Webpages</a></strong>: HTML webpages from external sites</li>
+  <li><strong><a href="documents/pdf.md">PDFs</a></strong>: PDF files created outside of Dash</li>
+  <li><strong><a href="documents/tempMedia/temporal-media.md">Temporal Media</a></strong>: audio and video files</li>
+  <li><strong>Ink</strong>: ink strokes drawn with the pen or polygon tool</li>
+  <li><strong>Images</strong>: digital images from external sources</li>
+</ul>
+
+<h3 id="selecting-documents">Selecting Documents</h3>
+
+<p>There are three ways to select a document in Dash. To select a single document, simply left-click or right-click the desired document to bring it into focus.</p>
+
+<p>You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.</p>
+
+<p><img src="../assets/gifs/gettingstarted/groupselection.gif" alt="" class="img" /></p>
+
+<p>To select text in PDFs and webpages (not text documents), click and drag to highlight the desired text.</p>
+
+<h3 id="editing-documents">Editing Documents</h3>
+
+<p>The following editing functions are universal to all document types:</p>
+
+<ul>
+  <li><strong>Document chrome</strong>: floating set of tools to change document properties
+    <ul>
+      <li>Accessed via single selection (left or right click)</li>
+    </ul>
+  </li>
+  <li><strong>Properties panel</strong>: panel displaying document type-specific actions
+    <ul>
+      <li>Accessed via (A) the double arrows in the top right or (B) the single arrow on the right edge of the screen</li>
+    </ul>
+  </li>
+  <li><strong>Right-click menu</strong>: menu displaying actions on documents
+    <ul>
+      <li>Accessed by right-clicking anywhere on the target document or left-clicking the settings icon on each document</li>
+    </ul>
+  </li>
+</ul>
+
+<p>All documents also have a context-sensitive toolbar. The toolbar contents vary depending on the document type.</p>
+
+<h3 id="transforming-documents">Transforming Documents</h3>
+
+<p>There are four main ways to transform a document: move, resize, open in a new tab or tile, and close.</p>
+
+<ul>
+  <li><strong>Move</strong>
+    <ul>
+      <li><strong>Selected documents</strong>: click and drag on the title to move the document, then drop at the desired location.</li>
+      <li><strong>Unselected documents</strong>: hover over the document to bring it into focus, then click/drag/drop to the desired location.</li>
+    </ul>
+  </li>
+  <li><strong>Resize</strong>
+    <ul>
+      <li><strong>Size</strong>: click and drag the corner handles in the border chrome.</li>
+      <li><strong>Border radius</strong>: click and drag the small circle in the bottom right corner of the border chrome.</li>
+    </ul>
+  </li>
+  <li><strong>Open in a new tab or tile</strong>
+    <ul>
+      <li>Click on the rightmost “open in a new tile” icon in the header chrome to open a full view of the document in a new tile (defaults to alias).</li>
+    </ul>
+  </li>
+  <li><strong>Close</strong>
+    <ul>
+      <li><strong>Selected documents</strong>: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.</li>
+      <li><strong>Unselected documents</strong>: right-click anywhere in the document to bring up the right-click menu, then click “close”.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="views">Views</h2>
+
+<p>Views represent various ways to visualize a collection. Users can toggle different views through the pull-down menu in the leftmost region of the context-sensitive toolbar. Alternatively, they can open a new view as an alias by right-clicking on the current collection and selecting the desired perspective. The default view is freeform.</p>
+
+<h3 id="freeform">Freeform</h3>
+
+<p><strong>Description</strong>: unbounded 2D space in the form of a canvas</p>
+
+<p><strong>Good for</strong>:</p>
+
+<ul>
+  <li>User-driven spatial organization and document layouts</li>
+  <li>Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking</li>
+  <li>“Raw” document views to get a sense of individual layouts</li>
+</ul>
+
+<h3 id="schema">Schema</h3>
+
+<p><strong>Description</strong>: table view of documents. Each document is a row, and each column displays the contents (values) stored with the unique document key. Nested collections can be expanded in-line. The title, author, date last modified, text, and context columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys.</p>
+
+<p><strong>Good for:</strong></p>
+
+<ul>
+  <li>Maintaining structured viewing and sorting of data</li>
+  <li>Manipulating documents via key-value pairs</li>
+  <li>Working with search functionality</li>
+  <li>Navigating Dash an an “Excel sheet”</li>
+</ul>
+
+<h3 id="tree">Tree</h3>
+
+<p><strong>Description</strong>: a hierarchal outline of documents. Each item is expandable into sub-items, and sub-items range from a sub-tree of documents stored inside the current document to a live preview of the current document.</p>
+
+<p><strong>Good for</strong>:</p>
+
+<ul>
+  <li>Viewing hierarchical relationships between documents</li>
+  <li>Navigating Dash as a file directory</li>
+  <li>Manipulating document z-indices (overlay layer)</li>
+</ul>
+
+<h3 id="stacking">Stacking</h3>
+
+<p><strong>Description</strong>: scrollable stacks of documents. All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key.</p>
+
+<p><strong>Good for</strong>:</p>
+
+<ul>
+  <li>Categorizing documents by specified keys while maintaining a live preview of each document</li>
+  <li>Navigating Dash as a “Trello Board”</li>
+</ul>
+
+<h3 id="masonry">Masonry</h3>
+
+<p><strong>Description</strong>: 2D grid of tiles that avoids empty space. Documents automatically reflow and wrap as the aspect ratio is reszied. Documents can be categorized via unique keys, which displays each category in a separate grid. Multiple categories are vertically stacked.</p>
+
+<p><strong>Good for</strong>:</p>
+
+<ul>
+  <li>Avoiding vertical or horizontal padding required by grid perspectives</li>
+  <li>Navigating Dash as a “Pinterest Board”</li>
+</ul>
+
+<h2 id="links-and-anchors">Links and Anchors</h2>
+
+<p>A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)</p>
+
+<h3 id="creating-links">Creating links</h3>
+
+<p>There are two ways to create links: drag and drop or linkboard.</p>
+
+<p>Drag and drop creates a 1:1 link between documents that both appear on the screen at a given time, whether in the same tab or in two different tiles.</p>
+
+<ol>
+  <li>Select the desired source document and navigate to its bottom toolbar.</li>
+  <li>Click and drag the link icon. Drop it onto the desired destination document.</li>
+</ol>
+
+<p>Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.</p>
+
+<p>Linkboards function as a clipboard: they “copy” source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.</p>
+
+<ol>
+  <li>Select the desired source document and navigate to its bottom toolbar.</li>
+  <li>Left-click the “make link” button.
+    <ol>
+      <li>A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.</li>
+    </ol>
+  </li>
+  <li>Complete the link by clicking the “complete link” button in the bottom toolbar of the target document.</li>
+</ol>
+
+<p><img src="../assets/gifs/gettingstarted/linking.gif" alt="" class="img" /></p>
+
+<h3 id="editing-links">Editing links</h3>
+
+<p>Once a link is created, a blue dot will appear in the document’s bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows several link editing options, as well as a preview of the document it links to. The link editing options are as follows:</p>
+
+<ul>
+  <li>Show/hide anchor: renders a trail visually representing the link and its anchors. Anchors are indicated as colored dots on the bottom right of the document; links are shown as a dotted line.</li>
+  <li>Show/hide link: toggles the dotted line created by the show/hide anchor tool above.</li>
+  <li>Move/freeze dot: toggles the user’s ability to reposition anchor dots.</li>
+  <li>Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.</li>
+  <li>Delete link: removes the selected link.</li>
+</ul>
+
+<h2 id="annotation-and-markup">Annotation and Markup</h2>
+
+<p>Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:</p>
+
+<h3 id="text">Text</h3>
+
+<p><strong>Description</strong>: in-line text annotations.</p>
+
+<p><strong>Access</strong>:</p>
+
+<ul>
+  <li>Click anywhere on the media document, then start typing</li>
+  <li>On PDFs: highlight the desired PDF text, then use the floating toolbar to create an annotation. Alternatively, drag the highlighted text to an existing annotation.</li>
+</ul>
+
+<p><img src="../assets/gifs/gettingstarted/textannos.gif" alt="" class="img" /></p>
+
+<h3 id="ink">Ink</h3>
+
+<p><strong>Description</strong>: embedded ink strokes.</p>
+
+<p><strong>Access</strong>:</p>
+
+<ul>
+  <li>Draw anywhere on the media document.</li>
+</ul>
+
+<h3 id="marquee-selection-collection">Marquee selection (collection)</h3>
+
+<p><strong>Description</strong>: an empty, semi-transparent collection that serves as an anchor for links as well as a “highlight” for a desired region.</p>
+
+<p><strong>Access</strong>:</p>
+
+<ul>
+  <li>Perform a marquee selection on the desired region, then select “Create a Collection” on the floating toolbar.</li>
+</ul>
+
+<p><img src="../assets/gifs/gettingstarted/marqueeannos.gif" alt="" class="img" /></p>
+
+<h3 id="highlight">Highlight</h3>
+
+<p><strong>Description</strong>: highlights of PDF and website text portions.</p>
+
+<p><strong>Access</strong>:</p>
+
+<ul>
+  <li>Select the desired portion of the text. Right-click the highlighted region and use the floating toolbar to edit the highlight.</li>
+</ul>
+
+<h3 id="pushpin">Pushpin</h3>
+
+<p><strong>Description</strong>: toggles the visibility of user annotations.</p>
+
+<p><strong>Access</strong>:</p>
+
+<ul>
+  <li>By default, dragging an annotation outside of its parent document will leave a pushpin at the original location the annotation was created.</li>
+</ul>
+
+<h2 id="collaboration">Collaboration</h2>
+
+<p>Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:</p>
+
+<p><strong>1. Admin</strong>: users can add, remove, edit, and change others’ access rights to the document.</p>
+
+<p><strong>2. Can Edit</strong>: users can add, remove, and edit the contents of a document. However, they may not change others’ access rights.</p>
+
+<p><strong>3. Can Augment</strong>: users can annotate and add other documents, but they cannot edit or remove the document.</p>
+
+<p><strong>4. Not Shared</strong>: users have no access and cannot add, edit, remove, or view the document.</p>
+
+<p><strong>To create a group</strong>:</p>
+
+<ol>
+  <li>Click on the settings button on the top right in the menu and select the Modes submenu. Click on the Manage Groups Button.</li>
+  <li>Click on the Create Group button to open the group creation menu.</li>
+  <li>Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.</li>
+  <li>Click on the blue <em>i</em> to view or edit group members. You can add or remove members or delete the group from this menu.</li>
+</ol>
+
+<p><img src="../assets/gifs/gettingstarted/sharing.gif" alt="" class="img" /></p>
+:ET

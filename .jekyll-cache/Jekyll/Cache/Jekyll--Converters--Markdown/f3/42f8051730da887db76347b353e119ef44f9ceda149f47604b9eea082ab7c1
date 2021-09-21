@@ -1,0 +1,94 @@
+I"�<h1 class="no_toc" id="trails">Trails</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#creating-a-presentation-trail" id="markdown-toc-creating-a-presentation-trail">Creating a Presentation Trail</a></li>
+  <li><a href="#objects--actions" id="markdown-toc-objects--actions">Objects &amp; Actions</a>    <ol>
+      <li><a href="#adding-documents-to-a-presentation-trail" id="markdown-toc-adding-documents-to-a-presentation-trail">Adding documents to a presentation trail</a>        <ol>
+          <li><a href="#regular-pin" id="markdown-toc-regular-pin">Regular pin:</a></li>
+          <li><a href="#pin-with-view" id="markdown-toc-pin-with-view">Pin with view:</a></li>
+        </ol>
+      </li>
+      <li><a href="#slides" id="markdown-toc-slides">Slides</a>        <ol>
+          <li><a href="#transitions" id="markdown-toc-transitions">Transitions</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<p>“The human mind does not work that way. It operates by association. With one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. It has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. Yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature.”</p>
+<ul>
+  <li>As We May Think, Vannevar Bush (1945)</li>
+</ul>
+
+<p>Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:</p>
+<ul>
+  <li><strong>List</strong>: Navigate using pan and zoom through a predefined order of the documents in any in the Dash database and focus on the document.</li>
+  <li><strong>3D Carousel</strong>: 3D Carousel view of the documents added to the presentation trail.</li>
+</ul>
+
+<p>With presentation trails you can easily go from authoring mode, to presentation mode - and turn whatever you are working on into a smooth presentation. Presentation Trails work best when all of the documents are contained within Freeform collections, as it makes use of pan and zoom to navigate between documents.</p>
+
+<h2 id="creating-a-presentation-trail">Creating a Presentation Trail</h2>
+
+<p>There are three ways of bring up a new Presentation Trail document, they are as follows:</p>
+<ul>
+  <li><strong>Tools menu:</strong> Presentation trail button which can be opened on the right hand side of your workspace on click.</li>
+  <li><strong>Pin any document to presentation:</strong> To pin or any document from the active Presentation Trail use the document decorations ‘Pin to Presentation’ button. If the Presentation Trail is not already open, pinning a document will open the Presentation - Trail document on the right hand side of your workspace.</li>
+  <li><strong>Pres. Trails Sidebar</strong>: Right click anywhere on the presentation trails sidebar menu, and select the option to “Create New Presentation”</li>
+</ul>
+
+<p>To access a Presentation Trail that has already been created use the PRES. TRAILS sidebar in the left hand toolbar, or use Search.</p>
+
+<h2 id="objects--actions">Objects &amp; Actions</h2>
+
+<h3 id="adding-documents-to-a-presentation-trail">Adding documents to a presentation trail</h3>
+
+<h4 id="regular-pin">Regular pin:</h4>
+<p>To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail.</p>
+
+<h4 id="pin-with-view">Pin with view:</h4>
+<p>Pinning with view pins the document with the specific pan and zoom that you have currently set it to. The ‘Pin with View’ icon is the same as the regular pin icon, but the “V” behind the pin shows that it is a view. You can pin with view in two ways:</p>
+<ul>
+  <li>Chroma - Pin with current view</li>
+  <li>Marquee menu - pin with selection drag</li>
+</ul>
+
+<h3 id="slides">Slides</h3>
+<p>Slides are used to visually represent the path that the trail would follow. They can be rearranged, retitled, and expanded to show a preview of what is in the slide.</p>
+
+<p>Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find:</p>
+<ul>
+  <li>Slide title: in bold on the far left hand side of the slide</li>
+  <li>M: The duration of the movement to the slide</li>
+  <li>D: The duration for which the slide will remain in focus for Auto-Present</li>
+  <li>Slide specific expand and minimise options</li>
+  <li>The option to remove the slide from the presentation (Note: does not remove slide from the collection or database, only from the presentation).</li>
+</ul>
+
+<h5 id="transitions">Transitions</h5>
+
+<p><strong>Movement:</strong> Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
+Pan and zoom: Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
+Pan: Center the document maintaining the current scale of the containing collection
+Jump Switch: Switch to the zoomed in document with no transition time
+None: Nothing happens when this slide is the active one in the trail.</p>
+
+<p><strong>Visibility &amp; Duration</strong></p>
+<ul>
+  <li>ide before: When this toggle is on the document will appear hidden before it is presented in the presentation trail</li>
+  <li>Hide after: When this option is toggled on after the slide is presented it will not appear in the presentation trail.</li>
+  <li>Lightbox: Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.</li>
+  <li>Slide duration: Choose the amount of time that the slide will remain in focus when in Auto-present mode.</li>
+</ul>
+
+<p><strong>Effects</strong>
+Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll.</p>
+
+:ET

@@ -26,10 +26,6 @@ When a user first opens Dash, the first view is an empty pannable freeform canva
 ![](../assets/images/overview.png){:.img}
 
 
-## Dashboards, Tiles & Tabs
-
-<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="480" allow="autoplay"></iframe>
-
 
 ## Menu Panel
 
@@ -45,11 +41,11 @@ Permanently pinned on the left. Flyouts can be toggled open & closed by clicking
 |:-------------|:------------------|:------|
 | ![](../assets/icons/dashboards.png){:.icon}     | **Dashboards** | A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section.   |
 | ![](../assets/icons/search.png){:.icon}         | **Search**   | Search for any documents within the currently selected Dashboard. The dropdown panel can be used to filter the search results by the type of document. In addition to clicking the search icon, Ctrl+F also toggles this flyout open & closed. |
-| ![](../assets/icons/file-manager.png){:.icon}   | **File Manager** | hmm   |
-| ![](../assets/icons/recently-closed.png){:.icon}| **Recently Closed** | hmm   |
-| ![](../assets/icons/uploads.png){:.icon}        | **Uploads** | yumm  |
-| ![](../assets/icons/sharing.png){:.icon}        | **Sharing** | yumm  |
-| ![](../assets/icons/trails.png){:.icon}         | **Trails** | yumm  |
+| ![](../assets/icons/file-manager.png){:.icon}   | **Files** | This is your file manager where you can create folders to keep track of documents independently of your dashboard.   |
+| ![](../assets/icons/recently-closed.png){:.icon}| **Recently Closed** | Recently closed documents appear in this menu. They will only be deleted if you explicitly empty this list.   |
+| ![](../assets/icons/uploads.png){:.icon}        | **Imports** | This is where documents that are imported into Dash weill go.  |
+| ![](../assets/icons/sharing.png){:.icon}        | **Shared With Me** | This is where documents of dashboards that other users have shared with yu will appear. To share a document or dashboard right click and select `Share`.   |
+| ![](../assets/icons/trails.png){:.icon}         | **Trails** | All of the trails that you have created will appearhere.   |
 
 
 <!--
@@ -79,12 +75,15 @@ Sharing
 ![](../assets/gifs/environment/colon-menu.gif){:.img}
 
 
-## Window Manager
+## Dashboards, Tiles & Tabs
+
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### What is a Dashboard?
-A particular layout of tiles is called a dashboard, and consists of one or more tiles. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately. 
+A particular layout of tiles is called a dashboard, and consists of one or more tabs. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately. 
 
 ### What is a tab?
+We display dash documents in the window manager with tabs. A tab can contain any document in dash. In your dashboard, tabs are organised into `Off-screen tabs` and `On-screen tabs`. The off `
 
 ### What is a tile?
 

@@ -1,0 +1,129 @@
+I"�<h1 class="no_toc" id="environment">Environment</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#welcome-to-dash" id="markdown-toc-welcome-to-dash">Welcome to Dash!</a></li>
+  <li><a href="#dashboards-tiles--tabs" id="markdown-toc-dashboards-tiles--tabs">Dashboards, Tiles &amp; Tabs</a></li>
+  <li><a href="#menu-panel" id="markdown-toc-menu-panel">Menu Panel</a>    <ol>
+      <li><a href="#access" id="markdown-toc-access">Access</a></li>
+    </ol>
+  </li>
+  <li><a href="#colon-menu" id="markdown-toc-colon-menu">Colon Menu</a></li>
+  <li><a href="#window-manager" id="markdown-toc-window-manager">Window Manager</a>    <ol>
+      <li><a href="#what-is-a-dashboard" id="markdown-toc-what-is-a-dashboard">What is a Dashboard?</a></li>
+      <li><a href="#what-is-a-tab" id="markdown-toc-what-is-a-tab">What is a tab?</a></li>
+      <li><a href="#what-is-a-tile" id="markdown-toc-what-is-a-tile">What is a tile?</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h2 id="welcome-to-dash">Welcome to Dash!</h2>
+
+<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<p>When a user first opens Dash, the first view is an empty pannable freeform canvas, one of many views that dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of dash’s workflow takes place. It is surround by toolbars and panels which we will go over below.</p>
+
+<p><img src="../assets/images/overview.png" alt="" class="img" /></p>
+
+<h2 id="dashboards-tiles--tabs">Dashboards, Tiles &amp; Tabs</h2>
+
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<h2 id="menu-panel">Menu Panel</h2>
+
+<p><img src="../assets/gifs/environment/menu-panel.gif" alt="" class="img" />
+<!-- <img src="../assets/gifs/menu-panel.gif" alt="menu panel" style="height: 400px;"/> --></p>
+
+<p>Each icon in this menu has an associated sidebar panel that opens up on the left hand side of the screen. All icons above can be reordered by click and dragging the icon, then dropping it into the desired location in the menu.</p>
+
+<h3 id="access">Access</h3>
+<p>Permanently pinned on the left. Flyouts can be toggled open &amp; closed by clicking on the specific icon, or by clicking on the grey drag handle.  The popup can be toggled open by clicking on the settings (gear) icon, and closed by clicking the “x” icon on the top right corner.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Icon</th>
+      <th style="text-align: left">Title</th>
+      <th style="text-align: left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/dashboards.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Dashboards</strong></td>
+      <td style="text-align: left">A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/search.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Search</strong></td>
+      <td style="text-align: left">Search for any documents within the currently selected Dashboard. The dropdown panel can be used to filter the search results by the type of document. In addition to clicking the search icon, Ctrl+F also toggles this flyout open &amp; closed.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/file-manager.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Files</strong></td>
+      <td style="text-align: left">This is your file manager where you can create folders to keep track of documents independently of your dashboard.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/recently-closed.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Recently Closed</strong></td>
+      <td style="text-align: left">hmm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/uploads.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Imports</strong></td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/sharing.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Sharing</strong></td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="../assets/icons/trails.png" alt="" class="icon" /></td>
+      <td style="text-align: left"><strong>Trails</strong></td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+
+#### Dashboards
+A flyout panel that contains a list of the user’s active dashboards and documents. The user can right-click on the topmost “Dashboard” to invoke the right-click menu, then selecting “Create Dashboard”, in order to create a new dashboard. Each dashboard contains the collections that are within that workspace and the user can choose to expand those collections to view a list of all the items in that collection. The “On-screen Tab” section contains all your currently-opened tabs. Tabs you have closed will be moved to the “Off-screen Tab” section. 
+#### Search
+
+#### File Manager
+
+#### Recently Closed
+A sidebar panel that contains all the documents that the user has recently closed or deleted.
+
+#### Uploads
+A sidebar panel that allows users to import existing files from their local machines, and view files they already have imported. 
+
+#### Sharing
+Sharing
+
+#### Trails
+
+-->
+
+<h2 id="colon-menu">Colon Menu</h2>
+
+<!-- <img src="../assets/gifs/colon-menu.gif" alt="colon menu" style="height:300px;"/> -->
+<p><img src="../assets/gifs/environment/colon-menu.gif" alt="" class="img" /></p>
+
+<h2 id="window-manager">Window Manager</h2>
+
+<h3 id="what-is-a-dashboard">What is a Dashboard?</h3>
+<p>A particular layout of tiles is called a dashboard, and consists of one or more tiles. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately.</p>
+
+<h3 id="what-is-a-tab">What is a tab?</h3>
+
+<h3 id="what-is-a-tile">What is a tile?</h3>
+
+:ET
