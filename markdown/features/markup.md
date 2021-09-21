@@ -20,7 +20,7 @@ nav_order: 4
 
 Users are able to markup all documents in Dash using text annotations, ink, highlighted selections, or embedding other documents on top. 
 
-# Marquee Selection
+## Marquee Selection
 Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection with a small menu in the bottom right corner with three options:
 
 - **Highlight:** The highlighter icon will create a translucent overlay the size of the selection that can be transformed and linked just like any other document. The color of this highlight can be changed by first selecting a color from the dropdown next to the highlight button before selecting the highlighter icon.
@@ -36,17 +36,17 @@ Clicking and dragging within an image, webpage, PDF, or video will display a rec
 
 ![](../../assets/gifs/markup/marqueesearchlink.gif){:.img}
 
-# Embedding
+## Embedding
 All types of documents can have all types of other documents embedded in them. This is simply done by dragging the document by the title bar and dropping it on top of another document. This can be reversed by dragging the title bar of the document out of the document in which it is embedded. When you remove an embedded document from a webpage, image, video, or PDF in which it was embedded, it will leave behind a pushpin on the containing document in that position that is now linked to the removed document.
 
 ![](../../assets/gifs/markup/embed.gif){:.img}
 
-# Text Highlighting
+## Text Highlighting
 Selecting text with the cursor in text, PDF, and website documents will display the same markup menu as the one described for marquee selection above. The only difference is that this will select the specific text as the link anchor or highlight instead of creating a large rectangular selection. Linked text in a text document will display similar to a website hyperlink and clicking the text will display a preview of the linked document. Clicking this will follow the link. Colored highlights can be deleted by right clicking on the highlight and selecting the trash can icon.
 
 ![](../../assets/gifs/markup/intexthighlight.gif){:.img}
 
-# Ink
+## Ink
 Ink can be used to markup documents by selecting the ink tools from the top menu bar and drawing directly on top of a document. This will create ink strokes that are embedded similar to how other documents are embedded. And just as described above, they can be removed by selecting them and dragging them out of the containing document. Note: as with other embedded documents, ink strokes may resize when removing them from the containing document.
 
 ![](../../assets/gifs/markup/inkembed.gif){:.img}
