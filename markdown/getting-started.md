@@ -24,9 +24,12 @@ There are multiple ways that you can import into Dash. The essential ways are as
 
 - **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard.
 - **Import**: import using the import menu on the left hand side
-- **Begin typing `:`** to bring up the document menu, from which you can create a document.
+- **Begin typing `:`** to bring up the document menu, from which you can create a document. If you are in Stacking or Schema view, you can click on `+ New`, and type a colon to open the colon menu. 
 
-![](../assets/gifs/gettingstarted/createnode.gif){:.img}
+<div class="img-container">
+  <img src="../assets/gifs/environment/colon-menu.gif" alt="colon menu" style="height:300px;"/>
+  <img src="../assets/gifs/environment/colon-stack.gif" alt="colon menu" style="height:300px;"/>
+</div>
 
 ## Documents
 
@@ -40,7 +43,7 @@ Dash supports several document types, each with unique capabilities. The primary
 - **[Webpages](documents/webpage.md)**: HTML webpages from external sites
 - **[PDFs](documents/pdf.md)**: PDF files created outside of Dash
 - **[Temporal Media](documents/tempMedia/temporal-media.md)**: audio and video files
-- **Ink**: ink strokes drawn with the pen or polygon tool
+- **[Ink](featyres/ink.md)**: ink strokes drawn with the pen or polygon tool
 - **Images**: digital images from external sources
 
 ### Selecting Documents

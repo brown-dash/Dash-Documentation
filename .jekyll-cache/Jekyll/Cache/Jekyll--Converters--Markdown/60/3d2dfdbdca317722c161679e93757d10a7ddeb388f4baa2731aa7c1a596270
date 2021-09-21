@@ -1,0 +1,27 @@
+I",<h1 class="no_toc" id="videos">Videos</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#creating-video-documents" id="markdown-toc-creating-video-documents">Creating Video Documents</a></li>
+  <li><a href="#actions" id="markdown-toc-actions">Actions</a></li>
+</ol>
+
+</details>
+
+<p>Video documents allow users to play back video clips.</p>
+
+<h2 id="creating-video-documents">Creating Video Documents</h2>
+<p>Video documents can be created by  navigating to the Import Menu and importing a video file from outside of Dash or by dragging and dropping a file in from an external source.</p>
+
+<h2 id="actions">Actions</h2>
+<ul>
+  <li>Annotations and ink can be embedded in the overlay pane by typing or drawing directly on top of the video or dragging a document onto the video.</li>
+  <li>You can play, pause, navigate to a specific point in time, or toggle fullscreen view using the video controls in the top right corner.</li>
+  <li>The eye icon at the top right corner toggles the view of the audio timeline. This timeline functions similar to the timeline in an audio document allowing you to place label and region markers, though you cannot trim.</li>
+</ul>
+
+<p><img src="../../../assets/gifs/video/timelineview.gif" alt="" class="img" /></p>
+:ET

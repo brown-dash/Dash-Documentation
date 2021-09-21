@@ -18,10 +18,11 @@ nav_order: 1
 {:toc}
 </details>
 
-## Description: HTML webpages 
-## Access: 
+## Description: 
+You can include embedded HTML webpages in Dash.
+## Access
 Dragged and dropped into Dash from an external tab. Alternatively, an empty webpage using the colon menu will open a Bing search (https://www.bing.com). Users can then enter a specific URL in the horizontal toolbar. 
-## Objects & Actions:
+## Objects & Actions
 - Embed marquee selections, annotations, and ink (overlay pane) 
 - Annotate and highlight text in a webpage using the same annotation sidebar as described for PDF and Text documents
 - Pan, and scroll through the webpage
