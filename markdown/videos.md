@@ -24,7 +24,7 @@ An introduction to the overall environment. To find out more about the overall e
 
 
 <div class="video">
-<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ## Dashboards, Tiles & Tabs
@@ -32,7 +32,7 @@ An introduction to the overall environment. To find out more about the overall e
 An explenation of dashboards, tiles & tabs and what they mean in dash. There is a more detailed explanation of dashboards in [here](/environment/#dashboards-tiles--tabs)
 
 <div class="video">
-<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ## Views
@@ -40,7 +40,7 @@ An explenation of dashboards, tiles & tabs and what they mean in dash. There is 
 An introduction to the 3 basic views available in Dash. 
 
 <div class="video">
-<iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 ## Selecting Documents
@@ -48,5 +48,5 @@ An introduction to the 3 basic views available in Dash.
 How to select documents in Dash. 
 
 <div class="video">
-<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>

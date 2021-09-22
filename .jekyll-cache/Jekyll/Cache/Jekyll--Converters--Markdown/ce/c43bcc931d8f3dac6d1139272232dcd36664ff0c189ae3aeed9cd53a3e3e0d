@@ -1,4 +1,4 @@
-I"E<h1 id="views">Views</h1>
+I"¿<h1 id="views">Views</h1>
 
 <p>Views are the different ways that you can view a collection of documents. Dash supports three views in <code class="language-plaintext highlighter-rouge">novice mode</code>, and an additional 10 in <code class="language-plaintext highlighter-rouge">developer mode</code>. The most essential views that dash supports include:</p>
 
@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Stack</td>
-      <td style="text-align: left">Â </td>
+      <td style="text-align: left">Categorizing documents by specified keys while maintaining a live preview of each document</td>
     </tr>
   </tbody>
 </table>
@@ -28,7 +28,7 @@
 <p>Dash is a hypermedia system that supports the following documents in the <a href="https://browndash.com/login">latest verison of Dash</a>.</p>
 
 <div class="video">
-    <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 :ET

@@ -19,6 +19,6 @@ Views are the different ways that you can view a collection of documents. Dash s
 Dash is a hypermedia system that supports the following documents in the [latest verison of Dash](https://browndash.com/login).
 
 <div class="video">
-    <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay"></iframe>
+    <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 

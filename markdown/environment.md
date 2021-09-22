@@ -20,7 +20,7 @@ nav_order: 2
 ## Welcome to Dash!
 
 <div class="video">
-<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
 When a user first opens Dash, the first view is an empty pannable freeform canvas, one of many views that dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of dash's workflow takes place. It is surround by toolbars and panels which we will go over below. 
@@ -78,7 +78,7 @@ Sharing
 
 ## Dashboards, Tiles & Tabs
 
-<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 
 ### What is a Dashboard?
 A particular layout of tabs is called a dashboard.  A dashboard can consist of one or more tabs. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately. When you first log into Dash you will be placed in Dashboard 1 which is clearly in the topbar. 

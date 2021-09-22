@@ -1,0 +1,52 @@
+I"r<h1 id="videos">Videos</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#videos" id="markdown-toc-videos">Videos</a>    <ol>
+      <li><a href="#welcome-to-dash" id="markdown-toc-welcome-to-dash">Welcome to Dash!</a></li>
+      <li><a href="#dashboards-tiles--tabs" id="markdown-toc-dashboards-tiles--tabs">Dashboards, Tiles &amp; Tabs</a></li>
+      <li><a href="#views" id="markdown-toc-views">Views</a></li>
+      <li><a href="#selecting-documents" id="markdown-toc-selecting-documents">Selecting Documents</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<p>This is a collection of all of the videos included in this documentation.</p>
+
+<h2 id="welcome-to-dash">Welcome to Dash!</h2>
+
+<p>An introduction to the overall environment. To find out more about the overall environment you can go <a href="/environment">here</a>.</p>
+
+<div class="video">
+<iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+<h2 id="dashboards-tiles--tabs">Dashboards, Tiles &amp; Tabs</h2>
+
+<p>An explenation of dashboards, tiles &amp; tabs and what they mean in dash. There is a more detailed explanation of dashboards in <a href="/environment/#dashboards-tiles--tabs">here</a></p>
+
+<div class="video">
+<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+<h2 id="views">Views</h2>
+
+<p>An introduction to the 3 basic views available in Dash.</p>
+
+<div class="video">
+<iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+<h2 id="selecting-documents">Selecting Documents</h2>
+
+<p>How to select documents in Dash.</p>
+
+<div class="video">
+<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+:ET
