@@ -44,19 +44,19 @@ Users can change the colors of the stroke and fill using the palette that appear
 ### Transform Panel
 
 #### Editing Points
-1. Clicking on the "Edit points" button in the Transform subpanel or double-clicking the currently selected ink brings up multiple squares outlined in blue along the ink stroke. 
+- Clicking on the "Edit points" button in the Transform subpanel or double-clicking the currently selected ink brings up multiple squares outlined in blue along the ink stroke. 
 
 ![](../../assets/gifs/features/inkedit0.gif){:.img}
 
-2. By dragging these control points and tangent handles, users can alter the Bézier curve. When one handle point is moved, its opposite handle point will rotate the same angle in the opposite direction, resulting in synchronous movement. 
+- By dragging these control points and tangent handles, users can alter the Bézier curve. When one handle point is moved, its opposite handle point will rotate the same angle in the opposite direction, resulting in synchronous movement. 
 
 ![](../../assets/gifs/features/inkedit1.gif){:.img}
 
-3. To break handle tangency and allow independent movement of either handle point, the user can hold the 'Alt' or 'Option' key while dragging. Double-tapping a broken control point will snap the handles back to being parallel and re-enable synchronous movement.
+- To break handle tangency and allow independent movement of either handle point, the user can hold the 'Alt' or 'Option' key while dragging. Double-tapping a broken control point will snap the handles back to being parallel and re-enable synchronous movement.
 
 ![](../../assets/gifs/features/inkedit2.gif){:.img}
 
-5. Control points can be deleted (pressing backspace with the point selected) or added (single clicking on the desired point on the stroke, indicated by the blue circle that appears on hover).
+- Control points can be deleted (pressing backspace with the point selected) or added (single clicking on the desired point on the stroke, indicated by the blue circle that appears on hover).
 
 ![](../../assets/gifs/features/inkedit3.gif){:.img}
 
