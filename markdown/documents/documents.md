@@ -23,6 +23,8 @@ Everything in Dash is a document (including content primitives such as PDFs and 
 {:toc}
 </details>
 
+
+
 ### Creating Documents
 
 #### A1. Import existing documents from external sources

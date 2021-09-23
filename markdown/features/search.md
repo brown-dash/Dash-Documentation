@@ -3,7 +3,7 @@ layout: default
 title: Search
 parent: Features
 permalink: /features/search/
-nav_order: 3
+nav_order: 2
 ---
 
 # Search

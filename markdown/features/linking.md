@@ -3,7 +3,7 @@ layout: default
 title: Linking
 parent: Features
 permalink: /features/linking/
-nav_order: 4
+nav_order: 1
 ---
 
 # Linking
@@ -22,7 +22,7 @@ A link in Dash can be thought of as a bidirectional connection between two docum
 
 We now describe two different mechanisms for creating links; we begin by describing document to document links. More information on linking between selections within documents can be found here.
 
-## Creating Links - "Drag and Drop" Method
+<!-- ## Creating Links - "Drag and Drop" Method
 
 There are two methods of creating links. The first is “drag-and-drop”, which is a light-weight method good for creating a one-to-one link between documents that both appear on the screen at a given time, whether in the same tab or in two different tiles. 
 
@@ -32,11 +32,13 @@ There are two methods of creating links. The first is “drag-and-drop”, which
     - The upper message notifies that a link was successfully created, and will disappear after two seconds. 
     - The lower message displays an input box to enter an optional label for the link - it typically is an explanatory word or short phrase describing the link. Pressing enter on the keyboard or clicking the add button will add the label to the link, and clicking anywhere else outside of the message or clicking the dismiss button will cause the message to disappear. 
     - If users do not enter a link label on creation or wish to modify the label after creation, it can be done through the link menu (described in the subsequent editing links section). 
-    - Once a link is created, if there are no existing links on the document a blue dot will appear on the bottom left corner of the document containing the number of links that exist on the document. This counter is incremented for each additional link created. More information on this dot and its functionality can be found here. 
+    - Once a link is created, if there are no existing links on the document a blue dot will appear on the bottom left corner of the document containing the number of links that exist on the document. This counter is incremented for each additional link created. More information on this dot and its functionality can be found here.  -->
 
 ## Creating Links - "Linkboard"
 
-The second method for link creation is through the “linkboard,” which is convenient for creating many links with the same source and for creating links while maintaining another workflow. This functions as a clipboard (similar to copy and paste) for links in the sense that your source is always “copied” to the linkboard until you clear it or “copy” another source. 
+![](../../assets/gifs/links/linkboard.gif){:.img}
+
+You can create links with the “linkboard,” which is convenient for creating many links with the same source and for creating links while maintaining another workflow. This functions as a clipboard (similar to copy and paste) for links in the sense that your source is always “copied” to the linkboard until you clear it or “copy” another source. 
 
 1. Same as the first method above, select the desired source document and navigate to its bottom toolbar where three icons are present. 
 2. Then, left-click on the make link button. This turns the document into a source document for links to be created from. The make link button will turn grey with a red outline, and the middle icon (the “end link” button) will be activated, indicated by a black background. 

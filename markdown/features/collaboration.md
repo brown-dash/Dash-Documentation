@@ -2,6 +2,7 @@
 layout: default
 title: Collaboration
 parent: Features
+nav_exclude: true
 permalink: /features/collaboration/
 nav_order: 3
 ---
