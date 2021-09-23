@@ -1,0 +1,21 @@
+I"�<h1 class="no_toc" id="freeform-view">Freeform View</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#description" id="markdown-toc-description">Description:</a></li>
+  <li><a href="#good-for" id="markdown-toc-good-for">Good for:</a></li>
+</ol>
+
+</details>
+
+<h2 id="description">Description:</h2>
+<p>Unbounded 2D space in the form of a canvas. This is Dash’s primary view</p>
+
+<h2 id="good-for">Good for:</h2>
+<p>User-driven spatial organization and layout of documents
+Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking
+Gaining “raw” views of documents to get a sense of their individual layouts</p>
+:ET

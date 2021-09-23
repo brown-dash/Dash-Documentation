@@ -1,0 +1,145 @@
+I"�'<h1 id="documents">Documents</h1>
+
+<p>Dash is a hypermedia system that supports the following documents in the <a href="https://browndash.com/login">latest verison of Dash</a>.</p>
+
+<p>Everything in Dash is a document (including content primitives such as PDFs and Text notes, as well as collections of documents, thereby allowing nesting).  Documents are stored as a list of arbitrary key/value pairs, which provides a simple data model for novices while also allowing experts to manipulate metadata from a database perspective with scripts. The following sections cover basic functionalities universal to all documents. More document-specific actions please refer to the Table of Contents for documents.</p>
+
+<details open="" class="no_toc">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#documents" id="markdown-toc-documents">Documents</a>    <ol>
+      <li><a href="#creating-documents" id="markdown-toc-creating-documents">Creating Documents</a>        <ol>
+          <li><a href="#a1-import-existing-documents-from-external-sources" id="markdown-toc-a1-import-existing-documents-from-external-sources">A1. Import existing documents from external sources</a></li>
+          <li><a href="#a2-import-existing-documents-using-the-import-flyout-panel" id="markdown-toc-a2-import-existing-documents-using-the-import-flyout-panel">A2. Import existing documents using the import flyout panel</a></li>
+          <li><a href="#a3-type--directly-on-the-blank-canvas-to-bring-up-document-menu" id="markdown-toc-a3-type--directly-on-the-blank-canvas-to-bring-up-document-menu">A3. Type <code class="language-plaintext highlighter-rouge">:</code> directly on the blank canvas to bring up document menu</a></li>
+          <li><a href="#a4-create-an-alias-of-an-existing-document" id="markdown-toc-a4-create-an-alias-of-an-existing-document">A4. Create an alias of an existing document</a></li>
+          <li><a href="#a5-creating-documents-in-other-views" id="markdown-toc-a5-creating-documents-in-other-views">A5. Creating documents in other views</a></li>
+        </ol>
+      </li>
+      <li><a href="#selecting-documents" id="markdown-toc-selecting-documents">Selecting Documents</a>        <ol>
+          <li><a href="#b1-single-selection" id="markdown-toc-b1-single-selection">B1. Single Selection</a></li>
+          <li><a href="#b2-marquee-selection" id="markdown-toc-b2-marquee-selection">B2. Marquee Selection</a></li>
+          <li><a href="#b3-shift-click-selection" id="markdown-toc-b3-shift-click-selection">B3. Shift-click selection</a></li>
+          <li><a href="#b4-text-selection" id="markdown-toc-b4-text-selection">B4. Text Selection</a></li>
+        </ol>
+      </li>
+      <li><a href="#editing-documents" id="markdown-toc-editing-documents">Editing Documents</a>        <ol>
+          <li><a href="#c1-document-chrome" id="markdown-toc-c1-document-chrome">C1 Document Chrome</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h3 id="creating-documents">Creating Documents</h3>
+
+<h4 id="a1-import-existing-documents-from-external-sources">A1. Import existing documents from external sources</h4>
+<ol>
+  <li>Works with PDFs, webpages, images, audio, and video</li>
+  <li>Importing from the internet: click and drag the desired document to the Dash tab, which will bring up the Dash workspace, and finally drop the document onto the Dash canvas</li>
+  <li>Importing from local files: click and drag the desired document to the Dash canvas, then drop it</li>
+</ol>
+
+<h4 id="a2-import-existing-documents-using-the-import-flyout-panel">A2. Import existing documents using the import flyout panel</h4>
+<ol>
+  <li>Under the import flyout panel, single click on the topmost “Import” icon to bring up the file browser, then select all desired documents. Multiple selection can be done by left-clicking on the desired files while holding the command key (for mac).</li>
+  <li>All imported documents will be displayed as a scrollable vertical stack within the rectangular box below the “Import” icon.</li>
+  <li>From the rectangular box, drag and drop the desired document onto the canvas.</li>
+</ol>
+
+<h4 id="a3-type--directly-on-the-blank-canvas-to-bring-up-document-menu">A3. Type <code class="language-plaintext highlighter-rouge">:</code> directly on the blank canvas to bring up document menu</h4>
+<ol>
+  <li>Begin typing <code class="language-plaintext highlighter-rouge">:</code> to bring up the document menu, from which you can create a document.</li>
+  <li>Select the type of document you want to create to make a blank instance of that document.</li>
+</ol>
+
+<p><img src="../../assets/gifs/gettingstarted/createnode.gif" alt="" class="img" /></p>
+
+<h4 id="a4-create-an-alias-of-an-existing-document">A4. Create an alias of an existing document</h4>
+<ol>
+  <li>An alias, which is also a document itself, is a pointer back to its original document; it is typically a different perspective on the same document. This allows multiple users to have their own perspectives of the same document, or to have the same document appear in multiple collections.</li>
+  <li>Aliases by default have an integer in parenthesis after the title. 
+Changes to the content of an alias, including editing of text or moving or resizing nested component documents of a collection on the canvas, are in effect changes to the original and are immediately reflected in all other aliases.  Other changes, such as title, size, and aspect ratio of the document  are properties of the alias and are not considered content. Therefore, they don’t affect the original document or any other aliases of it. These properties can be changed in the same ways as any other documents.</li>
+  <li>To create an alias, select the document then click the “create an alias” button in the context-sensitive toolbar. Alternatively, click and drag the same button, and drop it onto the desired location in the canvas to create an alias at a specified location.</li>
+</ol>
+
+<h4 id="a5-creating-documents-in-other-views">A5. Creating documents in other views</h4>
+<p>Click the “+ New” button in the schema and stacking views.</p>
+
+<h2 id="selecting-documents">Selecting Documents</h2>
+<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+
+<h4 id="b1-single-selection">B1. Single Selection</h4>
+<ol>
+  <li><strong>Description</strong>: selecting a single document to directly edit its contents</li>
+  <li><strong>Action</strong>: left-click or right-click on the desired document to bring it into focus. The selected document’s border will turn blue and various editing tools will appear on the chrome (editing tools)
+    <ul>
+      <li>In freeform perspective, click anywhere in the blank area of the canvas to select the current collection</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="b2-marquee-selection">B2. Marquee Selection</h4>
+<ol>
+  <li><strong>Description</strong>: selecting a specified area, which can range from a part of a document to multiple documents, using the marquee tool</li>
+  <li><strong>Access</strong>: right-click on the canvas to invoke the rectangular marquee, then drag to manipulate its size. Alternatively, right-click then press the space key to invoke the lasso marquee tool to freely draw a marquee. Finally, release the right-click to create the marquee</li>
+  <li><strong>Objects &amp; actions</strong>:
+    <ul>
+      <li>A marquee to select one or more desired documents</li>
+      <li>A floating toolbar to where users can perform actions on the selected documents including create a collection, summarize, delete, change to text, and pin the selected region to a <strong><a href="../features/trails.md">presentation trail</a></strong></li>
+      <li>A temporary bounding box that enables users to move and resize all selected documents at once (transforming documents)</li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="b3-shift-click-selection">B3. Shift-click selection</h4>
+<ol>
+  <li><strong>Description</strong>: selecting multiple documents using shift-click</li>
+  <li><strong>Objects &amp; actions</strong>:
+  Holding the shift key while left-clicking on multiple desired documents to select them all at once. This will create a temporary bounding box (same as the one created with marquee selection) that enables users to move and resize all selected documents</li>
+</ol>
+
+<h4 id="b4-text-selection">B4. Text Selection</h4>
+<ol>
+  <li><strong>Description</strong>: selecting text intext documents, PDFs, and Webpages (NOT text documents!)</li>
+  <li><strong>Objects &amp; actions</strong>:
+    <ul>
+      <li>Left-click on a text of your choice, then hold &amp; drag to continue to select the desired portion of text. Finally, release to finish the selection. The selection will be temporarily highlighted in blue.</li>
+    </ul>
+  </li>
+</ol>
+
+<ul>
+  <li>Once you finish the selection, a floating toolbar will appear that allows you to highlight, annotate, or add hyperlink to the selection.</li>
+</ul>
+
+<h2 id="editing-documents">Editing Documents</h2>
+
+<h4 id="c1-document-chrome">C1 Document Chrome</h4>
+<ol>
+  <li><strong>Description</strong>: set of tools around the document to access a range of functions and set various properties related to the document</li>
+  <li><strong>Access</strong>: left-click or right-click on a document</li>
+  <li><strong>Objects &amp; actions</strong>:
+    <ul>
+      <li>Header chrome- has buttons for:</li>
+    </ul>
+    <ul>
+      <li>Deleting the document from its current collection</li>
+      <li>Editable title (left-click on title)</li>
+      <li>Iconify (turning the document into a button displaying contents on click)</li>
+      <li>Open document in full screen in a new tile</li>
+      <li>Border chrome- has corner handles for resizing and moving the document 
+    - Bottom toolbar has buttons for:</li>
+      <li>Creating links</li>
+      <li>Pinning to a presentation</li>
+      <li>Bringing up the context menu, which has the same contents as the right-click menu</li>
+      <li>Syncing with Google Docs for text documents</li>
+    </ul>
+  </li>
+</ol>
+
+:ET

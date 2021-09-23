@@ -1,0 +1,38 @@
+I".<h1 class="no_toc" id="text-documents">Text Documents</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#description-rich-rtf-text-documents-that-support-various-text-and-hypertext-features" id="markdown-toc-description-rich-rtf-text-documents-that-support-various-text-and-hypertext-features">Description: rich (RTF) text documents that support various text and hypertext features</a></li>
+  <li><a href="#access" id="markdown-toc-access">Access:</a></li>
+  <li><a href="#objects" id="markdown-toc-objects">Objects</a></li>
+</ol>
+
+</details>
+
+<h2 id="description-rich-rtf-text-documents-that-support-various-text-and-hypertext-features">Description: rich (RTF) text documents that support various text and hypertext features</h2>
+<h2 id="access">Access:</h2>
+<p>Invoked by clicking anywhere on the blank canvas in freeform perspective</p>
+
+<h2 id="objects">Objects</h2>
+<ul>
+  <li>Rich text editor that appears in the context-sensitive toolbar and allows for:
+    <ul>
+      <li>Basic rich text editing functionality (bold, italicize, underline, etc)</li>
+      <li>Creating external (outside of Dash) hyperlinks</li>
+      <li>Adding bullets, indents, and alignment options</li>
+      <li>Text folding/summarizing, horizontal line, and blockquote functions</li>
+    </ul>
+  </li>
+  <li>Sidebar that allows for additional “comments” in the form of text documents:
+    <ul>
+      <li>Click on the <code class="language-plaintext highlighter-rouge">Comment</code> icon on the top right corner of a text document to turn on the sidebar. This allows you, or others with augmentation/edit/admin permissions to the document, to add additional “comments” in the form of text documents</li>
+      <li>To turn off the sidebar, click on the same small grey vertical rectangle. Note that this will not erase any existing documents in the sidebar.</li>
+    </ul>
+  </li>
+  <li><strong>Code snippets</strong>. You can write code snippets by typing ` ``` `. To exit writing a code snippet use the down arrow.</li>
+</ul>
+
+:ET

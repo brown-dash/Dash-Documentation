@@ -8,6 +8,17 @@ has_children: true
 
 # Views
 
-<iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="480" allow="autoplay"></iframe>
+Views are the different ways that you can view a collection of documents. Dash supports three views in `novice mode`, and an additional 10 in `developer mode`. The most essential views that dash supports include:
+
+| View       | Description |
+|:-------------|:------------------|
+| Freeform | Unbounded 2D space in the form of a canvas. This is Dash’s primary view |
+| Schema | Manipulating documents via key-value pairs and maintaining structured viewing and sorting of data |
+| Stack | Categorizing documents by specified keys while maintaining a live preview of each document |
 
 Dash is a hypermedia system that supports the following documents in the [latest verison of Dash](https://browndash.com/login).
+
+<div class="video">
+    <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+

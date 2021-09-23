@@ -6,7 +6,7 @@ layout: home
 ---
 ## Welcome to Dash!
 
-**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. You can find the release notes [here]("./markdown/release-notes") 
+**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. You can find the release notes [here](/release-notes) 
 
 <iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="480" allow="autoplay"></iframe>
 

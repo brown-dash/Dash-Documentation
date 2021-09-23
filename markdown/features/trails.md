@@ -18,6 +18,8 @@ nav_order: 3
 {:toc}
 </details>
 
+"The human mind does not work that way. It operates by association. With one item in its grasp, it snaps instantly to the next that is suggested by the association of thoughts, in accordance with some intricate web of trails carried by the cells of the brain. It has other characteristics, of course; trails that are not frequently followed are prone to fade, items are not fully permanent, memory is transitory. Yet the speed of action, the intricacy of trails, the detail of mental pictures, is awe-inspiring beyond all else in nature." 
+- As We May Think, Vannevar Bush (1945)
 
 Presentation Trails allow the user to navigate through selected documents with a predefined path and style in two different ways:
 - **List**: Navigate using pan and zoom through a predefined order of the documents in any in the Dash database and focus on the document. 

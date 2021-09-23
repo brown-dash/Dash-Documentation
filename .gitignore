@@ -1,2 +1,4 @@
 docs/*
 !docs/.gitkeep
+_config.yml
+_config_local.yml
