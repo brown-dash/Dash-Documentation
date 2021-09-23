@@ -52,17 +52,13 @@ Users can change the colors of the stroke and fill using the palette that appear
 
 ![](../../assets/gifs/features/inkedit1.gif){:.img}
 
-3. To break handle tangency and allow independent movement of either handle point, the user can hold the 'Alt' or 'Option' key while dragging. 
+3. To break handle tangency and allow independent movement of either handle point, the user can hold the 'Alt' or 'Option' key while dragging. Double-tapping a broken control point will snap the handles back to being parallel and re-enable synchronous movement.
 
 ![](../../assets/gifs/features/inkedit2.gif){:.img}
 
-4. Double-tapping a broken control point will snap the handles back to being parallel and re-enable synchronous movement.
-
-![](../../assets/gifs/features/inkedit3.gif){:.img}
-
 5. Control points can be deleted (pressing backspace with the point selected) or added (single clicking on the desired point on the stroke, indicated by the blue circle that appears on hover).
 
-![](../../assets/gifs/features/inkedit4.gif){:.img}
+![](../../assets/gifs/features/inkedit3.gif){:.img}
 
 #### Lock Ratio
 Users can click on the lock button to lock the dimension ratio so that they can change the width and the height of the document proportionally.
