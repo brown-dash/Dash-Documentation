@@ -23,6 +23,8 @@ Everything in Dash is a document (including content primitives such as PDFs and 
 {:toc}
 </details>
 
+
+
 ### Creating Documents
 
 #### A1. Import existing documents from external sources
@@ -52,7 +54,7 @@ Click the “+ New” button in the schema and stacking views.
 
 
 ## Selecting Documents
-<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 
 #### B1. Single Selection
 1. **Description**: selecting a single document to directly edit its contents

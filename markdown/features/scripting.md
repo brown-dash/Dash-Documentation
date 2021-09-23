@@ -4,6 +4,7 @@ title: Scripting
 parent: Features
 permalink: /features/scripting/
 nav_order: 3
+nav_exclude: true
 developer: bcz, glr
 ---
 # Scripting
