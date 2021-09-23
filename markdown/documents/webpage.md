@@ -7,6 +7,9 @@ nav_order: 1
 ---
 
 # Webpages in Dash
+<div class="img-container">
+  <img src="../../assets/images/environment/webpage_doc.png" alt="overall environment" style="height:400px;"/>
+</div>
 {: .no_toc }
 
 <details open markdown="block">

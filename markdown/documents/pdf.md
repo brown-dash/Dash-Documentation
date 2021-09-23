@@ -6,7 +6,10 @@ permalink: /documents/pdf/
 nav_order: 2
 ---
 
-# PDF Documentss
+# PDF Documents
+<div class="img-container">
+  <img src="../../assets/images/environment/pdf_doc.png" alt="overall environment" style="height:400px;"/>
+</div>
 {: .no_toc }
 
 <details open markdown="block">

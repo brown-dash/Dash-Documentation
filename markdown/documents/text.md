@@ -7,6 +7,9 @@ nav_order: 1
 ---
 
 # Text Documents
+<div class="img-container">
+  <img src="../../assets/images/environment/text_doc.png" alt="overall environment" style="height:400px;"/>
+</div>
 {: .no_toc }
 
 <details open markdown="block">
