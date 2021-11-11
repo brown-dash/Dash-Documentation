@@ -6,9 +6,6 @@ nav_order: 6
 ---
 
 # Videos
-<div class="img-container">
-  <img src=".../../../assets/images/environment/video_doc.png" alt="overall environment" style="height:400px;"/>
-</div>
 <details open markdown="block">
   <summary>
     Table of contents
