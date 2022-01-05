@@ -21,6 +21,6 @@ The expected hours for this position are approximately that of a CS systems clas
 
 ## Contact
 
-Please reach out to Andries van Dam (andries_van_dam@brown.edu), Bob Zeleznik (zzzman@gmail.com), or Geireann (geireann_lindfield_roberts@brown.edu) with additional questions.
+Please reach out to Andries van Dam (andries_van_dam@brown.edu), Bob Zeleznik (zzzman@gmail.com), or Geireann (geireann@brown.edu) with additional questions.
 
 We look forward to meeting you!
