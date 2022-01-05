@@ -7,7 +7,7 @@ nav_order: 1
 
 # Dash
 
-Imagine you are annotating and reading As We May Think by Vannevar Bush, which is a PDF, so you have Adobe Acrobat open. In another desktop, you are listening to an interview in which Andy is talking about the importance of linking, a concept that Bush writes about in depth. You also remembered Andy speaking about linking from your last lecture, so you open the recorded Zoom lecture in another tab. All these documents are related, but how can we imagine, visualize and organize those relationships? 
+Imagine you are annotating and reading [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush, which is a PDF, so you have Adobe Acrobat open. In another desktop, you are listening to an interview in which Andy is talking about the importance of linking, a concept that Bush writes about in depth. You also remembered Andy speaking about linking from your last lecture, so you open the recorded Zoom lecture in another tab. All these documents are related, but how can we imagine, visualize and organize those relationships? 
 
 <div class="img-container">
   <img src="../assets/images/dash1.png" alt="overall environment" style="height:600px; textAlign:center;"/>
