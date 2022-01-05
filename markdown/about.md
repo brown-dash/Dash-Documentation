@@ -21,7 +21,7 @@ Dash is a collaborative browser-based web application built to support knowledge
 
 Dash supports spatial and visual layouts of all those documents into what we call collections.  Collections have different views that each displays its transcluded documents using a layout reminiscent of popular apps (e.g. Trello, file system viewer, spreadsheet). These views are all composable so that users can define their own specific workflows. Beyond supporting these documents and the ability to view, interact and organize them, Dash also supports metadata across these documents so they can be tagged with any relevant information and organized or sorted accordingly. Furthermore, Dash allows users to build predefined trails. Unlike other presentation apps, (eg. Powerpoint, Prezi) in Dash you can stop the linear trail at any time and continue your exploration by navigating freely and following links by association, allowing users to be trailblazers as imagined by Vannevar Bush.
 
-Dash is built by Andries van Dam’s research group at Brown University in Providence, Rhode Island. It is available online at [browndash.com](https://browndash.com/signup). Video demos from CS1951V, in which Dash was used in Fall 2021, can be found below:
+Dash is built by Andries van Dam’s research group at Brown University in Providence, Rhode Island. It is available online at [browndash.com](https://browndash.com/signup). Use cases from CS1951V, in which Dash was used in Fall 2021, can be found below:
 
 
 ### Domestic Jungle (Plant Corpus) by Mikey Abela
