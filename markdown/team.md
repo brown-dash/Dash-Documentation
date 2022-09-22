@@ -13,17 +13,23 @@ nav_order: 8
 - Rosemary Simpson
 
 ## Current Students
-- Geireann Lindfield Roberts
-- Victor Kalev
-- Aubrey (Yueshan) Li
-- David Grossman
 - Mehek Jethani
-- Lauren Choi
+- Geireann Lindfield Roberts
+- Michael Foiani
+- Naafiyan Ahmed
+- Jenny Yu
+- Vivian Li
+- Brynn Chernosky
 
-## Alumni
+## Past Students
 - Anh Truong
 - En-Hua Holtz
 - Ashley Cai
+- Victor Kalev
+- Aubrey (Yueshan) Li
+- David Grossman
+- Lauren Choi
+- Parker Ljung
 - Udayveer Sodhi
 - Anika Ahluwalia
 - Yuna Hiraide
@@ -33,5 +39,7 @@ nav_order: 8
 - Stanley Yip
 - Trent Green
 - Tyler Schicke
+
+
 
 
