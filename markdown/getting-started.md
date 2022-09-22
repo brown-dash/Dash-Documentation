@@ -122,16 +122,28 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 ### Stacking
 
-**Description**: scrollable stacks of documents. All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key.
+**Description**: scrollable stack of documents.
+<!-- All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key. -->
 
 **Good for**:
 
-- Categorizing documents by specified keys while maintaining a live preview of each document
-- Navigating Dash as a “Trello Board”
+- Having a structured list view of all the documents of the collection while still seeing live previews of the documents
+- Navigating Dash as a vertical scrolling page
+
+### Notetaking
+
+**Description**: multiple scrollable stacks of documents. A multicolumn version of stacking view.
+<!-- All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key. -->
+
+**Good for**:
+
+- Viewing documents side by side for comparison or note-taking
+- Sorting documents into categories
+- Navigating Dash as a "Trello board" or table
 
 ### Masonry
 
-**Description**: 2D grid of tiles that avoids empty space. Documents automatically reflow and wrap as the aspect ratio is reszied. Documents can be categorized via unique keys, which displays each category in a separate grid. Multiple categories are vertically stacked.
+**Description**: 2D grid of tiles that avoids empty space. Documents automatically reflow and wrap as the aspect ratio is resized. Documents can be categorized via unique keys, which displays each category in a separate grid. Multiple categories are vertically stacked.
 
 **Good for**:
 
