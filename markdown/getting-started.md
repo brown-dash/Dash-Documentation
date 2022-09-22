@@ -9,14 +9,14 @@ nav_order: 3
 
 {: .no_toc }
 
-<details open markdown="block">
+<!-- <details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details>
+</details> -->
 
 ## Import and Content Creation
 
