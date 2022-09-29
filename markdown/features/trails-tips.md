@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Trails | Tips and Tricks
+title: Tips and Tricks
 parent: Trails
 permalink: /features/trails/tips
 nav_order: 3
-has_children: false
 ---
 
-# Presentation Trail | Tips and Tricks
+# Presentation Trails | Tips and Tricks
 
 ## Pinning
 
