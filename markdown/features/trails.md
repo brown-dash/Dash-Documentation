@@ -4,6 +4,7 @@ title: Trails
 parent: Features
 permalink: /features/trails/
 nav_order: 3
+has_children: true
 ---
 
 # Trails
