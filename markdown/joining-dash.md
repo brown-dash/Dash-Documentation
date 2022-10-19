@@ -24,3 +24,9 @@ The expected hours for this position are approximately that of a CS systems clas
 Please reach out to Andries van Dam (andries_van_dam@brown.edu), Bob Zeleznik (zzzman@gmail.com), or Geireann (geireann@brown.edu) with additional questions.
 
 We look forward to meeting you!
+
+## Join our QA Team!
+
+Interested in Dash and want to get involved without the commitment of being on the project team? Dash is currently looking for QA testers to help us identify usability issues and bugs. This is a flexible opportunity, as we appreciate as much or as little time as you are able to give. If you'd like to learn more about Dash's features and help make it better, fill out the form linked below and we will be in touch with you!
+
+[QA Interest Form](https://forms.gle/xz554x3duMtrgBA17){: .btn }
