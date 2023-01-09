@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Animation
-parent: Features
-# permalink: /features/animation
+# parent: Features
+permalink: /features/animation
 ---
 
 # Animations
