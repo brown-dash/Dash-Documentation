@@ -71,4 +71,10 @@ Users can change the x coordinate and y coordinate of the ink documents by chang
 
 ## Masks
 
-The mask tool in the ink toolbar allows you to create a mask out of a selected ink document. This will hide everything else on the canvas and show the part that is under the ink doc. These can be useful for presentations since they can be animated or hidden and revealed to emphasize information.
+![](../../assets/gifs/ink/createmask.gif){:.img}
+
+The mask tool in the ink toolbar allows you to create a mask. You can either select an existing ink document and then click Mask to convert it to a mask, or select Mask and then draw a new ink document. This will hide everything else on the canvas and show the part that is under the ink doc.
+
+These can be useful for presentations since they can be animated or hidden and revealed to emphasize information.
+
+![](../../assets/gifs/ink/presentationmask.gif){:.img}
