@@ -2,8 +2,7 @@
 layout: default
 title: Animation
 parent: Features
-permalink: /features/animation
-nav_order: 3
+# permalink: /features/animation
 ---
 
 # Animations
