@@ -40,37 +40,51 @@ There are two ways to open up the Presentation Trails sidebar:
 To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail.
 
 #### Pin with view:
-Pinning with view pins the canvas with the specific pan and zoom you have it set to, allowing you to show a view of multiple documents laid out on a collection. You can pin with view in two ways:
+Pinning with view pins the canvas with the specific pan and zoom you have it set to, allowing you to show a view of multiple documents laid out on a collection. There are two places where you can pin with view:
 - **Top menu bar:** this pins the canvas with the pan and zoom of the tab as you are currently viewing it
 - **Marquee menu:** this option appears when you right click and drag on the canvas to create a marquee selection and pins the canvas with the marquee bounds as the viewport
+
+#### Other pinning options:
+Other ways to pin documents are available when hovering over the pin button in the document decorations. Each of these track different aspects of the document's state, allowing you to pin them, make changes, and then pin them again to display transitions between the document's layout or content. This is different than the default pin, where any changes made to the document after pinning are reflected in the presentation slide.
+
+- **Pin with layout:** this pins the document saving its current layout state, i.e. visual characteristics like xy position, width and height, color, etc.
+- **Pin with content:** this pins the document content saving its content state such as the text of a text document.
+- **Pin with layout and content:** this saves both layout and content
 
 ### Slides
 Slides are used to visually represent the path that the trail would follow. Unlike the conventional Powerpoint "slide", a trails slide is just any pinned item in a presentation, whether it's a document, collection, view, etc. A single node can be pinned multiple times throughout a presentation, potentially with different content or layout aspects that change, but each of these instances is a unique slide.
 
 Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find: 
-- Slide title: in bold on the far left hand side of the slide
-- M: The duration of the movement to the slide
-- D: The duration for which the slide will remain in focus for Auto-Present
-- Slide specific expand and minimise options
-- The option to remove the slide from the presentation (Note: does not remove slide from the collection or database, only from the presentation). 
+- Slide index: number that appears before the slide title that indicates presentation order
+- Slide title: in bold on the far left hand side of the slide, can be retitled by double clicking (this retitles the presentation slide NOT the pinned document)
+- Trash: removes the slide from the presentation (not from the collection or database)
+- Eye: expand/minimize a preview of the slide
+- Arrow: groups slide with the one above it, when presenting both slides will transition in together
+- L: for slides pinned with layout, allows you to update the layout associated with the slide to the document's current state
+- C: for slides pinned with content, allows you to update the content associated with the slide to the document's current state
 
-They can be rearranged, retitled, and expanded to show a preview of what is in the slide. 
+Slides can be rearranged by dragging and dropping.
 
 ### Transitions
+Selecting a slide and opening the properties menu (the gray arrow tab in the middle right edge of the screen) displays the transitions menu where you can edit many aspects of how the slide is played when in presentation mode. Multiple slides can be selected by holding down shift and clicking more slides. You can then choose to apply any changes you make in the properties menu to all the slides by clicking "Apply to all".
 
 **Movement:** Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
-Pan and zoom: Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
-Pan: Center the document maintaining the current scale of the containing collection
-Jump Switch: Switch to the zoomed in document with no transition time
-None: Nothing happens when this slide is the active one in the trail.
+- Pan and zoom: Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
+- Pan: Center the document maintaining the current scale of the containing collection
+- Jump Switch: Switch to the zoomed in document with no transition time
+- None: Nothing happens when this slide is the active one in the trail.
 
 **Visibility & Duration**
-- ide before: When this toggle is on the document will appear hidden before it is presented in the presentation trail
+- Hide before: When this toggle is on the document will appear hidden before it is presented in the presentation trail
 - Hide after: When this option is toggled on after the slide is presented it will not appear in the presentation trail.
 - Lightbox: Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.
 - Slide duration: Choose the amount of time that the slide will remain in focus when in Auto-present mode.
 
 **Effects**
-Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll. 
+Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll. You can adjust the effect direction.
 
 ### Presenting
+
+Pressing the present button enters presentation mode which begins cycling through the slides. The presentation controls offer buttons for going from one slide to another, looping the presentation, returning to the first slide, and exiting.
+
+Clicking the dropdown next to the present button gives you the option to start presenting with the **mini-player** which hides the presentation menu and shows you a small hovering set of controls that obstructs less of your workspace while presenting.
