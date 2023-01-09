@@ -68,3 +68,7 @@ Users can rotate ink documents 90 degrees by clicking on the rotate button. Alte
 Users can change the height and width of the ink documents by changing the values inside the  “H:” and “W:” input boxes.
 #### X and Y
 Users can change the x coordinate and y coordinate of the ink documents by changing the values inside the “X:” and “Y:” input boxes.
+
+## Masks
+
+The mask tool in the ink toolbar allows you to create a mask out of a selected ink document. This will hide everything else on the canvas and show the part that is under the ink doc. These can be useful for presentations since they can be animated or hidden and revealed to emphasize information.
