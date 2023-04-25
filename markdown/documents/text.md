@@ -40,6 +40,7 @@ Invoked by clicking anywhere on the blank canvas in freeform perspective
 - %%     => restore default styling
 - %color => changes text color styling.  e.g., %green.  
 - %num   => set font size.  e.g., %10 for 10pt font
+- %alt   => switch between primary and alternate text.  Button on bottom right of text sets alternate text to display on hover.
 - %f     => create an inline footnote
 - %>     => create a bockquote section. Terminate with 2 carriage returns
 - %(     => start a section of inline elidable text. Terminate the inline text with %)
