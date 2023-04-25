@@ -36,3 +36,14 @@ Invoked by clicking anywhere on the blank canvas in freeform perspective
   - To turn off the sidebar, click on the same small grey vertical rectangle. Note that this will not erase any existing documents in the sidebar. 
 - **Code snippets**. You can write code snippets by typing ` ``` `. To exit writing a code snippet use the down arrow.
 
+## Markdown commands
+- %%     => restore default styling
+- %color => changes text color styling.  e.g., %green.  
+- %f     => create an inline footnote
+- %(     => start a section of inline elidable text. terminate the inline text with %)
+- %[     => left justify text
+- %^     => center text
+- %]     => right justify text
+- [:doctitle]] => hyperlink to document specified by it's title
+- [[fieldname]] => display value of fieldname
+- [[fieldname:doctitle]] => show value of fieldname from doc specified by it's title
