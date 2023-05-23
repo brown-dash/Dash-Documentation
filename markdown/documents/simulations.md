@@ -7,6 +7,9 @@ nav_order: 1
 ---
 
 # Physics Simulations
+<div class="img-container">
+  <img src="../../assets/images/environment/simulation_doc.png" alt="overall environment" style="height:400px;"/>
+</div>
 {: .no_toc }
 
 <details open markdown="block">
@@ -34,5 +37,8 @@ Basic physics simulation platform with three modes: Freeform Mode, Tutorial Mode
 - Weights undergoing circular motion 
 
 ## Access 
-Pull up the colon menu, and select simulation. The dropdown menus in the upper right corner of the simulation document can be used to change the simulation mode and type. 
+Type colon on your canvas to invoke the node menu. Under “CREATE DOCUMENT”, select “SIMULATION” to create a default simulation.
 
+## Use
+- The dropdown menus in the upper right corner of the simulation document can be used to change the simulation mode and type. 
+- The input fields on the left side of the document can be used to change the simulation parameters.
