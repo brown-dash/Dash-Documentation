@@ -14,12 +14,12 @@ nav_order: 8
 
 ## Current Students
 - Mehek Jethani
-- Geireann Lindfield Roberts
-- Michael Foiani
-- Naafiyan Ahmed
-- Jenny Yu
-- Vivian Li
-- Brynn Chernosky
+- Emily Perelman
+- Sarah Richman
+- Sophie Zhang
+- James Hu
+- Eric Ma
+- Jesus Rodriguez
 
 ## Past Students
 - Anh Truong
@@ -39,6 +39,12 @@ nav_order: 8
 - Stanley Yip
 - Trent Green
 - Tyler Schicke
+- Naafiyan Ahmed
+- Jenny Yu
+- Vivian Li
+- Geireann Lindfield Roberts
+- Michael Foiani
+- Brynn Chernosky
 
 
 
