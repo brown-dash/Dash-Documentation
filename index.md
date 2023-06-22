@@ -4,7 +4,7 @@
 nav_exclude: true
 layout: home
 ---
-## Welcome to dash!
+## Welcome to Dash!!
 
 For more infomation on joining dash, go to the [joining dash](/Dash-Documentation/joining-dash) page!
 
