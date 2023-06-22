@@ -4,9 +4,9 @@
 nav_exclude: true
 layout: home
 ---
-## Welcome to Dash!!
+## Welcome to Dash!
 
-For more infomation on joining dash, go to the [joining dash](/Dash-Documentation/joining-dash) page!!!
+For more infomation on joining dash, go to the [joining dash](/Dash-Documentation/joining-dash) page!
 
 **Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. You can find the release notes [here](/Dash-Documentation/release-notes). You can also find video documentation [here](/Dash-Documentation/videos).
 
