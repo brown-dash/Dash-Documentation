@@ -2,7 +2,7 @@
 layout: page
 title: Research Team
 permalink: /research-team/
-nav_order: 8
+nav_order: 9
 ---
 
 # Research Team
