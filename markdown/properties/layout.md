@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Filters
+title: Layout
 parent: Properties
-permalink: /properties/filters/
-nav_order: 6
+permalink: /properties/layout/
+nav_order: 7
 ---
 
 # Filters
