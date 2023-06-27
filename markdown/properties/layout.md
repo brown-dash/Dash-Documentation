@@ -6,7 +6,7 @@ permalink: /properties/layout/
 nav_order: 7
 ---
 
-# Filters
+# Layout
 ONLY AVAILABLE IN DEVELOPER MODE
 
 {: .no_toc }
