@@ -2,7 +2,7 @@
 layout: default
 title: Linked To
 parent: Properties
-permalink: /Properties/linked-to/
+permalink: /properties/linked-to/
 nav_order: 2
 ---
 

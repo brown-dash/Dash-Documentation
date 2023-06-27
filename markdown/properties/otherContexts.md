@@ -2,7 +2,7 @@
 layout: default
 title: Other Contexts
 parent: Properties
-permalink: /Properties/other-contexts/
+permalink: /properties/other-contexts/
 nav_order: 1
 ---
 
