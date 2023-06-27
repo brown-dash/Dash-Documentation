@@ -6,7 +6,8 @@ permalink: /properties/other-contexts/
 nav_order: 1
 ---
 
-# Stack View
+# Other Contexts
+
 {: .no_toc }
 
 <details open markdown="block">
