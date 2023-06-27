@@ -9,6 +9,7 @@ has_children: true
 # Properties
 The Properties Menu allows you to look at the characteristics of a document or current View. At the top of the Properties Menu you can find the name of the current document as well as the document type. Below, you will find collapsable sections. There are four sections of the Properties Menu in `novice mode`, and four additional sections in `developer mode`. These four main sections are broken down into
 
+
 | Section     | Description |
 |:-------------|:------------------|
 | Other Contexts | Shows other existing contexts of the currently selected documentt |
