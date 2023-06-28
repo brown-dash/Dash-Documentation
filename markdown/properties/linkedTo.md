@@ -19,7 +19,7 @@ nav_order: 2
 </details>
 
 ## Description:
-Linked To displays any existing documents that are linked to the currently selected document. For more on Linking, view the **[LINKS](features/linking.md)** page in the documentation. 
+Linked To displays any existing documents that are linked to the currently selected document. For more on Linking, view the **[LINKS](documents/text.md)** page in the documentation. 
 
 ## How to create another context: 
 To link documents together, click on the current document and hover over the selection bar in the bottom left corner. Next, select the chain icon on the left. After selecting the chain icon, you can click on the document you want to link to and hover over the selection bar of the new document. While hovering, select the dotted circle with a chain icon (to the right of the solid chain icon). 

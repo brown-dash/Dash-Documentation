@@ -43,7 +43,7 @@ Dash supports several document types, each with unique capabilities. The primary
 - **[Webpages](documents/webpage.md)**: HTML webpages from external sites
 - **[PDFs](documents/pdf.md)**: PDF files created outside of Dash
 - **[Temporal Media](documents/tempMedia/temporal-media.md)**: audio and video files
-- **[Ink](featyres/ink.md)**: ink strokes drawn with the pen or polygon tool
+- **[Ink](features/ink.md)**: ink strokes drawn with the pen or polygon tool
 - **Images**: digital images from external sources
 
 ### Selecting Documents
