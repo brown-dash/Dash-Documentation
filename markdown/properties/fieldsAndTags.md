@@ -19,6 +19,6 @@ nav_order: 4
 </details>
 
 ## Description
-Displays details of the current dashboard. This section states the author, creation date, and last modified date. Additionally, you can create a key: value field or tag. 
+Fields & Tags displays details of the current dashboard. This section states the author, creation date, and last modified date. Additionally, you can create a key: value field or Tag. 
 
 There are more available fields in `Developer Mode`. 

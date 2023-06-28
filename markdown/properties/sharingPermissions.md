@@ -21,7 +21,7 @@ ONLY AVAILABLE IN DEVELOPER MODE
 </details>
 
 ## Description 
-Displays the current owner of a document and who has permission to view the current document. Permission levels can vary depending on what the owner of the document decides. These choices include:
+Sharing & Permissions displays the current owner of a document and who has permission to view the current document. Permission levels depend on the authorization of the Admin. These choices include:
 
 
 | Permission Options | Description |

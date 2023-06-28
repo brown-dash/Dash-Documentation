@@ -20,7 +20,7 @@ nav_order: 1
 </details>
 
 ## Description:
-Displays other existing contexts of the currently selected document.
+Other Contexts displays other existing contexts of the currently selected document.
 
 ## How to create another context: 
 
