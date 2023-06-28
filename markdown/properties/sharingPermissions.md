@@ -21,4 +21,9 @@ ONLY AVAILABLE IN DEVELOPER MODE
 </details>
 
 ## Description 
-Displays the current owner of a document and who has permission to view the current document. Permission levels can vary depending on what the owner of the document decides. 
+Displays the current owner of a document and who has permission to view the current document. Permission levels can vary depending on what the owner of the document decides. These choices include:
+
+
+| Permission Options | Description |
+| :------------------| :---------- |
+| Admin              | <ul><li>First</li><li>Second</li></ul>|s
