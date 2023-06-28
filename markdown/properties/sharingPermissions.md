@@ -26,4 +26,8 @@ Displays the current owner of a document and who has permission to view the curr
 
 | Permission Options | Description |
 | :------------------| :---------- |
-| Admin              |  - Change access control levels <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents   |
+| Admin              |  As Admin, you have the ability to: <br> - Change access control levels <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents   |
+| Edit               |  With Edit status, you can: <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents |
+| Augment            |  With Augment permissions, you can: <br> - Delete  only your own content <br> - Add content <br> - Resize documents <br> - Move documents | 
+| View               |  Under View permissions, you cannot edit, delete, or move any documents |
+| Not shared         |  You will not be able to view the contents of the Dashboard or document. |
