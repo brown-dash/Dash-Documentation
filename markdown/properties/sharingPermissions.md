@@ -26,4 +26,4 @@ Displays the current owner of a document and who has permission to view the curr
 
 | Permission Options | Description |
 | :------------------| :---------- |
-| Admin              |  First<br>Second<br>Third |
+| Admin              |  - Change access control levels <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents   |
