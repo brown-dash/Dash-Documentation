@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing and Permissions
+title: Sharing & Permissions
 parent: Properties
 permalink: /properties/sharing-and-permissions/
 nav_order: 5
@@ -26,4 +26,4 @@ Displays the current owner of a document and who has permission to view the curr
 
 | Permission Options | Description |
 | :------------------| :---------- |
-| Admin              | <ul><li>First</li><li>Second</li></ul>|s
+| Admin              |  First<br>Second<br>Third |
