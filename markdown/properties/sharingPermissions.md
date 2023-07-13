@@ -7,7 +7,6 @@ nav_order: 5
 ---
 
 # Sharing & Permissions
-ONLY AVAILABLE IN DEVELOPER MODE
 
 {: .no_toc }
 
@@ -21,13 +20,13 @@ ONLY AVAILABLE IN DEVELOPER MODE
 </details>
 
 ## Description 
-Sharing & Permissions displays the current owner of a document and who has permission to view the current document. Permission levels depend on the authorization of the Admin. These choices include:
+Sharing & Permissions for a selected document displays the degree to which users (including the owner, guest users, and all individuals and groups that the selected document has been shared with) can modify the document. These permission options include:
 
 
-| Permission Options | Description |
+| Permission Option | Description |
 | :------------------| :---------- |
-| Admin              |  As Admin, you have the ability to: <br> - Change access control levels <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents   |
-| Edit               |  With Edit status, you can: <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents |
-| Augment            |  With Augment permissions, you can: <br> - Delete  only your own content <br> - Add content <br> - Resize documents <br> - Move documents | 
-| View               |  Under View permissions, you cannot edit, delete, or move any documents |
-| Not shared         |  You will not be able to view the contents of the Dashboard or document. |
+| Admin              |  Users with Admin permission can: <br> - Change access control levels <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents   |
+| Edit               |  Users with Edit permission can: <br> - Delete and minimize documents <br> - Delete and add content <br> - Resize documents <br> - Move documents |
+| Augment            |  Users with Augment permission can: <br> - Delete  only their own content <br> - Add content <br> - Resize documents <br> - Move documents | 
+| View               |  Users with View permission cannot edit, delete, or move any documents |
+| Not shared         |  These users will not be able to view the contents of the Dashboard or document. |
