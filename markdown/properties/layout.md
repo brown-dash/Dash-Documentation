@@ -19,3 +19,6 @@ ONLY AVAILABLE IN DEVELOPER MODE
 1. TOC
 {:toc}
 </details>
+
+## Description
+The layout sub-panel displays a live preview of the selected document. 

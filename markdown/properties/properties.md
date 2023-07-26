@@ -16,3 +16,6 @@ The Properties Menu allows you to look at the characteristics of a document or c
 | Linked To | Displays any existing documents linked to the currently selected document |
 | Options | Contains features to adjust the view and characteristics of the currently selected document or perspective |
 | Fields & Tags | Shares information about the current Dashboard | 
+
+## How to Access the Properties Menu
+You can access the Properties Menu by clicking the left-facing caret on the right side of the screen. You can also open the Properties Menu by selecting the double left-facing carets in the top right corner, right below the heart icon. 
