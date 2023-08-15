@@ -3,7 +3,7 @@ layout: default
 title: Data Visualization
 parent: Documents
 permalink: /documents/dataViz/
-nav_order: 1
+nav_order: 3
 ---
 
 # Data Visualization
