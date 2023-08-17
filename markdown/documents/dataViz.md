@@ -33,3 +33,6 @@ To create a DataViz box, either import / drag a CSV file into your canvas or cop
 
 - **Filtering:** To filter the data, drag off a column of data. Selected rows from the original DataViz box to showing on the DataViz box displaying the filtered data.
 ![](../../assets/gifs/dataViz/filtering.gif){:.img}
+
+- **2D Graphs:** The first column selected will turn green and be the x-axis, and the second column selected will turn red and be the y-axis.
+![](../../assets/gifs/dataViz/2D_graph.gif){:.img}
