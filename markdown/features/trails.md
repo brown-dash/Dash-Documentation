@@ -33,7 +33,7 @@ There are two ways to open up the Presentation Trails sidebar:
 - <img align="left" src="../../assets/icons/trails-upscaled.png" width="100" height="100"/>
 **Menu panel:** The trails button in the lefthand menu will open up a list of your existing trails which you can open by double clicking, as well as a "New Trail" button to create a new presentation.
 
-  
+<br>
 - <img align="left" src="../../assets/icons/pin-upscaled.png" width="100" height="100"/>
  **Pinning a document:** Using the document decorations ‘Pin to Presentation’ button, you can pin any document to the Active Presentation. If you have not created a presentation yet, this will begin a new one and open the Trails sidebar on the right side of your workspace. If you have a previous presentation (or multiple) you closed, it will pin the document to the most recent presentation and open it up.
 
