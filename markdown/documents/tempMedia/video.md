@@ -9,7 +9,7 @@ nav_order: 2
 
 # Videos
 
-![](../../../assets/images/environment/temp_video_doc.png){:.img}
+![](../../../assets/images/environment/video_doc.png){:.img}
 {: .no_toc }
 
 <details open markdown="block">
