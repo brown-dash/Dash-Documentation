@@ -9,7 +9,7 @@ nav_order: 1
 
 # Audio
 
-![](../../../assets/images/environment/audio_doc.png){:.img}
+![](../../../assets/images/environment/temp_audio_doc.png){:.img}
 {: .no_toc }
 
 <details open markdown="block">
