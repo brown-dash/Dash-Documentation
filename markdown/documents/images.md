@@ -7,9 +7,8 @@ nav_order: 1
 ---
 
 # Images
-<div class="img-container">
-  <img src="../../assets/images/environment/image_doc.png" alt="overall environment" style="height:400px;"/>
-</div>
+
+![](../../assets/images/environment/image_doc.png){:.img}
 {: .no_toc }
 
 <details open markdown="block">
@@ -21,13 +20,16 @@ nav_order: 1
 {:toc}
 </details>
 
-## Description: 
+## Description:
+
 Digital images created outside of Dash
 
-## Access: 
+## Access:
+
 Dragged and dropped into Dash from an external source (i.e., internet, own desktop, etc)
 
-## Objects & Actions: 
-- **Markup**: Embed marquee selections, annotations, and ink (overlay pane) 
-- Make background: an image can be converted into a background image by selecting “Make Background” in the image’s right-click menu. A background image is indicated by the red lock icon at the top right corner of the image. It cannot be selected, which means it essentially becomes part of the canvas. left-clicking on the red lock icon converts the image back into a normal image. 
+## Objects & Actions:
+
+- **Markup**: Embed marquee selections, annotations, and ink (overlay pane)
+- Make background: an image can be converted into a background image by selecting “Make Background” in the image’s right-click menu. A background image is indicated by the red lock icon at the top right corner of the image. It cannot be selected, which means it essentially becomes part of the canvas. left-clicking on the red lock icon converts the image back into a normal image.
 - Rotate: users can rotate the image 90 degrees clockwise by selecting “Rotate Clockwise 90” in the right-click menu.

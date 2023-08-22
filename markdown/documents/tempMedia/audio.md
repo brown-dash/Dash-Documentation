@@ -9,9 +9,7 @@ nav_order: 1
 
 # Audio
 
-<div class="img-container">
-  <img src="../../../assets/images/environment/audio_doc.png" alt="overall environment" style="height:400px;"/>
-</div>
+![](../../../assets/images/environment/audio_doc.png){:.img}
 {: .no_toc }
 
 <details open markdown="block">

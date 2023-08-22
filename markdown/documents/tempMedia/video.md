@@ -9,9 +9,7 @@ nav_order: 2
 
 # Videos
 
-<div class="img-container">
-  <img src="../../../assets/images/environment/video_doc.png" alt="overall environment" style="height:400px;"/>
-</div>
+![](../../../assets/images/environment/video_doc.png){:.img}
 {: .no_toc }
 
 <details open markdown="block">
