@@ -50,9 +50,9 @@ To pin any document to the presentation trail simply select a document and use t
 #### Pin with view:
 Pinning with view pins the canvas with the specific pan and zoom you have it set to, allowing you to show a view of multiple documents laid out on a collection. There are two places where you can pin with view:
 - **Top menu bar:** this pins the canvas with the pan and zoom of the tab as you are currently viewing it
-  ![](../../assets/gifs/trails/pinwithview1.gif){:.img}
+  ![](../../assets/gifs/trails/pinwmenuview.gif){:.img}
 - **Marquee menu:** this option appears when you right click and drag on the canvas to create a marquee selection and pins the canvas with the marquee bounds as the viewport
-  ![](../../assets/gifs/trails/pinwithview2.gif){:.img}
+  ![](../../assets/gifs/trails/pinmarqueeview.gif){:.img}
 
 #### Other pinning options:
 Other ways to pin documents are available when hovering over the pin button in the document decorations. Each of these track different aspects of the document's state, allowing you to pin them, make changes, and then pin them again to display transitions between the document's layout or content. This is different than the default pin, where any changes made to the document after pinning are reflected in the presentation slide.
