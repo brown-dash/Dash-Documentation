@@ -33,7 +33,7 @@ You can invoke GPT-3 to respond to a text prompt inside of a text node by openin
 
 You can also summarize sections of text on both pdfs and webpages by selecting a piece of text and selecting the `Summarize with AI` icon that appears in the anchor menu. A small box will appear in the bottom right with the summarized result. You can save it as an annotation on the pdf, which will link back to the original text selection.
 
-![](../../assets/gifs/ai/ai-pdf.gif.gif){:.img}
+![](../../assets/gifs/ai/ai-pdf.gif){:.img}
 
 ## Images
 
