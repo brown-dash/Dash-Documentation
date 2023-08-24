@@ -26,7 +26,7 @@ nav_order: 1
 
 Invoked by clicking anywhere on the blank canvas in freeform perspective
 
-## Objects
+## Objects & Actions
 
 - Rich text editor that appears in the context-sensitive toolbar and allows for:
   - Basic rich text editing functionality (bold, italicize, underline, etc)
