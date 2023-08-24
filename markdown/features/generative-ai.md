@@ -54,10 +54,16 @@ From the image context menu, go to options => Open Image Editor, which will pull
 
 #### Step 2
 
-Using the eraser tool, erase the part of the image you would like to fill with new content. You can undo/redo and adjust the brush size with the controls on the left. Then, click `Get Edits` to generate the image edits. Variations will pop up on the right, and clicking them will draw the result to the main canvas. You can generate further edits from the results following the same process.
+Using the eraser tool, erase the part of the image you would like to fill with new content. Then, click `Get Edits` to generate the image edits. Variations will pop up on the right, and clicking them will draw the result to the main canvas. You can generate further edits from the results following the same process.
 ![](../../assets/gifs/ai/edit-2.gif){:.img}
 
 #### Step 3
 
 Once you close out of the editor, you'll see a tree that represents the edit version history in a new collection. You can drag that collection back into the main canvas.
 ![](../../assets/gifs/ai/edit-3.gif){:.img}
+
+#### Additional Editor Features
+
+- You can undo/redo and adjust the brush size with the controls on the left.
+- You can remove all erase strokes with the reset button at the top
+- For the version history, you can choose to branch directly from the original image rather than creating a new collection.
