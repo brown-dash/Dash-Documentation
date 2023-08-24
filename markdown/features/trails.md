@@ -72,11 +72,13 @@ Slides are used to visually represent the path that the trail would follow. Unli
 Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find: 
 - **Slide index:** number that appears before the slide title that indicates presentation order
 - **Slide title:** in bold on the far left hand side of the slide, can be retitled by double clicking (this retitles the presentation slide NOT the pinned document)
-- **Trash:** removes the slide from the presentation (not from the collection or database)
-- **Eye:** expand/minimize a preview of the slide
-- **Arrow:** groups slide with the one above it, when presenting both slides will transition in together. By default they play in parallel, but clicking the blue arrow line when grouped will switch to series and play one after the other (indicated a the black outline around the arrow)
 - **L:** for slides pinned with layout, allows you to update the layout associated with the slide to the document's current state
 - **C:** for slides pinned with content, allows you to update the content associated with the slide to the document's current state
+- **Arrow:** groups slide with the one above it, when presenting both slides will transition in together. By default they play in parallel, but clicking the blue arrow line when grouped will switch to series and play one after the other (indicated a the black outline around the arrow)
+- **Camera:** records video following your mouse movements while presenting the trail
+- **Eye:** expand/minimize a preview of the slide
+- **Trash:** removes the slide from the presentation (not from the collection or database)
+
 
 Slides can be rearranged by dragging and dropping.
 
