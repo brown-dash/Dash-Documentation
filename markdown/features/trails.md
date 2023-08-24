@@ -107,6 +107,7 @@ Clicking the dropdown next to the present button gives you the option to start p
 
 ### Views
 When outside of presentation mode, the presentation player above the slides is replaced with a dropdown of the available views for the trail. Each available view allows you to view the slides in a different manner, allowing for different ways of presentation to be created. 
+
 **List:** 
 The default view selected, list view is a linear way of presenting the presentation slides. As the name suggests, the slides are in a linear list, being called one after the other from the top to the bottom. Dragging a slide in this view allows the user to change the order of the trail. 
 
