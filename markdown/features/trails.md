@@ -85,6 +85,8 @@ Slides can be rearranged by dragging and dropping.
 ### Transitions
 Selecting a slide and opening the properties menu (the gray arrow tab in the middle right edge of the screen) displays the transitions menu where you can edit many aspects of how the slide is played when in presentation mode. Multiple slides can be selected by holding down shift and clicking more slides. You can choose to apply any changes you make in the properties menu to all the slides in a presentation by clicking "Apply to all".
 
+![](../../assets/images/trails/properties.png){:img}
+
 **Movement:** Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
 - **Zoom:** Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
 - **Pan:** Pan to display the document within view maintaining the current scale of the containing collection
