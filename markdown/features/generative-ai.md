@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linking
+title: Generative AI
 parent: Features
 permalink: /features/generativeai/
 ---
@@ -27,13 +27,13 @@ Dash supports different types of text and image generation through the OpenAI AP
 
 You can invoke GPT-3 to respond to a text prompt inside of a text node by opening the context menu (three bars icon) => options => Ask GPT-3. It will type in its response in the text node containing the prompt.
 
-![](../../assets/gifs/ai/ai-text-giphy.gif){:.img}
+![](../../assets/gifs/ai/ai-gen-text.gif){:.img}
 
 ## PDFs and Webpages
 
 You can also summarize sections of text on both pdfs and webpages by selecting a piece of text and selecting the `Summarize with AI` icon that appears in the anchor menu. A small box will appear in the bottom right with the summarized result. You can save it as an annotation on the pdf, which will link back to the original text selection.
 
-![](../../assets/gifs/ai/ai-pdf-giphy.gif){:.img}
+![](../../assets/gifs/ai/ai-gen-pdf.gif.gif){:.img}
 
 ## Images
 
@@ -41,4 +41,23 @@ You can also summarize sections of text on both pdfs and webpages by selecting a
 
 You can generate an image from a text prompt inside of a text node by opening the context menu (three bars icon) => options => Ask GPT-3. It will type in its response in the text node containing the prompt.
 
-![](../../assets/gifs/ai/ai-gen.gif){:.img}
+![](../../assets/gifs/ai/ai-gen-image.gif){:.img}
+
+### Editing
+
+You can edit images within dash to generate new visual content based on existing imagery.
+
+#### Step 1
+
+From the image context menu, go to options => Open Image Editor, which will pull up an editor view.
+![](../../assets/gifs/ai/edit-1.gif){:.img}
+
+#### Step 2
+
+Using the eraser tool, erase the part of the image you would like to fill with new content. You can undo/redo and adjust the brush size with the controls on the left. Then, click `Get Edits` to generate the image edits. Variations will pop up on the right, and clicking them will draw the result to the main canvas. You can generate further edits from the results following the same process.
+![](../../assets/gifs/ai/edit-2.gif){:.img}
+
+#### Step 3
+
+Once you close out of the editor, you'll see a tree that represents the edit version history in a new collection. You can drag that collection back into the main canvas.
+![](../../assets/gifs/ai/edit-3.gif){:.img}
