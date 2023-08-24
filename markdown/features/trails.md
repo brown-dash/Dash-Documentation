@@ -67,32 +67,38 @@ Other ways to pin documents are available when hovering over the pin button in t
 ### Slides
 Slides are used to visually represent the path that the trail would follow. Unlike the conventional Powerpoint "slide", a trails slide is just any pinned item in a presentation, whether it's a document, collection, view, etc. A single node can be pinned multiple times throughout a presentation, potentially with different content or layout aspects that change, but each of these instances is a unique slide.
 
+![](../../assets/images/trails/slide.png){:img}
+
 Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find: 
-- Slide index: number that appears before the slide title that indicates presentation order
-- Slide title: in bold on the far left hand side of the slide, can be retitled by double clicking (this retitles the presentation slide NOT the pinned document)
-- Trash: removes the slide from the presentation (not from the collection or database)
-- Eye: expand/minimize a preview of the slide
-- Arrow: groups slide with the one above it, when presenting both slides will transition in together. By default they play in parallel, but clicking the blue arrow line when grouped will switch to series and play one after the other (indicated a the black outline around the arrow)
-- L: for slides pinned with layout, allows you to update the layout associated with the slide to the document's current state
-- C: for slides pinned with content, allows you to update the content associated with the slide to the document's current state
+- **Slide index:** number that appears before the slide title that indicates presentation order
+- **Slide title:** in bold on the far left hand side of the slide, can be retitled by double clicking (this retitles the presentation slide NOT the pinned document)
+- **L:** for slides pinned with layout, allows you to update the layout associated with the slide to the document's current state
+- **C:** for slides pinned with content, allows you to update the content associated with the slide to the document's current state
+- **Arrow:** groups slide with the one above it, when presenting both slides will transition in together. By default they play in parallel, but clicking the blue arrow line when grouped will switch to series and play one after the other (indicated a the black outline around the arrow)
+- **Camera:** records video following your mouse movements while presenting the trail
+- **Eye:** expand/minimize a preview of the slide
+- **Trash:** removes the slide from the presentation (not from the collection or database)
+
 
 Slides can be rearranged by dragging and dropping.
 
 ### Transitions
 Selecting a slide and opening the properties menu (the gray arrow tab in the middle right edge of the screen) displays the transitions menu where you can edit many aspects of how the slide is played when in presentation mode. Multiple slides can be selected by holding down shift and clicking more slides. You can choose to apply any changes you make in the properties menu to all the slides in a presentation by clicking "Apply to all".
 
+![](../../assets/images/trails/properties.png){:img}
+
 **Movement:** Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
-- Zoom: Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
-- Pan: Pan to display the document within view maintaining the current scale of the containing collection
-- Center: Center the document maintaining the current scale of the containing collection
-- Jump Switch: Switch to the zoomed in document with no transition time
-- None: Nothing happens when this slide is the active one in the trail.
+- **Zoom:** Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
+- **Pan:** Pan to display the document within view maintaining the current scale of the containing collection
+- **Center:** Center the document maintaining the current scale of the containing collection
+- **Jump Switch:** Switch to the zoomed in document with no transition time
+- **None:** Nothing happens when this slide is the active one in the trail.
 
 **Visibility & Duration**
-- Hide before: When this toggle is on the document will appear hidden before it is presented in the presentation trail
-- Hide after: When this option is toggled on after the slide is presented it will not appear in the presentation trail.
-- Lightbox: Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.
-- Slide duration: Choose the amount of time that the slide will remain in focus when in Auto-present mode.
+- **Hide before:** When this toggle is on the document will appear hidden before it is presented in the presentation trail
+- **Hide after:** When this option is toggled on after the slide is presented it will not appear in the presentation trail.
+- **Lightbox:** Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.
+- **Slide duration:** Choose the amount of time that the slide will remain in focus when in Auto-present mode.
 
 **Effects**
 Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll. You can adjust the effect direction.
@@ -104,3 +110,16 @@ Pressing the present button enters presentation mode which begins cycling throug
 Clicking the dropdown next to the present button gives you the option to start presenting with the **mini-player** which hides the presentation menu and shows you a small hovering set of controls that obstructs less of your workspace while presenting.
 
 ![](../../assets/gifs/trails/miniplayer.gif){:.img}
+
+### Views
+When outside of presentation mode, the presentation player above the slides is replaced with a dropdown of the available views for the trail. Each available view allows you to view the slides in a different manner, allowing for different ways of presentation to be created. 
+
+**List:** 
+The default view selected, list view is a linear way of presenting the presentation slides. As the name suggests, the slides are in a linear list, being called one after the other from the top to the bottom. Dragging a slide in this view allows the user to change the order of the trail. 
+
+![](../../assets/images/trails/preslist.png){:img}
+
+**Tree:**
+The tree view allows you to represent your slides in a tree-like structure. Slides can be dropped on top of another slide to create a system of nesting. When expanded, the children slides will play from top to bottom like in list view, but the user is also able to hide children slides by clicking to the lift of the title. Doing this will hide the children slides and during presentation, skip these hidden children. 
+
+![](../../assets/images/trails/prestree.png){:img}
