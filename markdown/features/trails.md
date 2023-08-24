@@ -111,5 +111,9 @@ When outside of presentation mode, the presentation player above the slides is r
 **List:** 
 The default view selected, list view is a linear way of presenting the presentation slides. As the name suggests, the slides are in a linear list, being called one after the other from the top to the bottom. Dragging a slide in this view allows the user to change the order of the trail. 
 
+![](../../assets/images/trails/preslist.png){:img}
+
 **Tree:**
 The tree view allows you to represent your slides in a tree-like structure. Slides can be dropped on top of another slide to create a system of nesting. When expanded, the children slides will play from top to bottom like in list view, but the user is also able to hide children slides by clicking to the lift of the title. Doing this will hide the children slides and during presentation, skip these hidden children. 
+
+![](../../assets/images/trails/prestree.png){:img}
