@@ -67,6 +67,8 @@ Other ways to pin documents are available when hovering over the pin button in t
 ### Slides
 Slides are used to visually represent the path that the trail would follow. Unlike the conventional Powerpoint "slide", a trails slide is just any pinned item in a presentation, whether it's a document, collection, view, etc. A single node can be pinned multiple times throughout a presentation, potentially with different content or layout aspects that change, but each of these instances is a unique slide.
 
+![](../../assets/images/trails/slide.png){:img}
+
 Selected slides are indicated by the blue outline and the light blue background, on each slide the user can find: 
 - **Slide index:** number that appears before the slide title that indicates presentation order
 - **Slide title:** in bold on the far left hand side of the slide, can be retitled by double clicking (this retitles the presentation slide NOT the pinned document)
