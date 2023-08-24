@@ -104,3 +104,11 @@ Pressing the present button enters presentation mode which begins cycling throug
 Clicking the dropdown next to the present button gives you the option to start presenting with the **mini-player** which hides the presentation menu and shows you a small hovering set of controls that obstructs less of your workspace while presenting.
 
 ![](../../assets/gifs/trails/miniplayer.gif){:.img}
+
+### Views
+When outside of presentation mode, the presentation player above the slides is replaced with a dropdown of the available views for the trail. Each available view allows you to view the slides in a different manner, allowing for different ways of presentation to be created. 
+**List:** 
+The default view selected, list view is a linear way of presenting the presentation slides. As the name suggests, the slides are in a linear list, being called one after the other from the top to the bottom. Dragging a slide in this view allows the user to change the order of the trail. 
+
+**Tree:**
+The tree view allows you to represent your slides in a tree-like structure. Slides can be dropped on top of another slide to create a system of nesting. When expanded, the children slides will play from top to bottom like in list view, but the user is also able to hide children slides by clicking to the lift of the title. Doing this will hide the children slides and during presentation, skip these hidden children. 
