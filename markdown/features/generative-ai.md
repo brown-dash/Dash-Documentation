@@ -25,7 +25,7 @@ Dash supports different types of text and image generation through the OpenAI AP
 
 ## Text
 
-You can invoke GPT-3 to respond to a text prompt inside of a text node by opening the context menu (three bars icon) => options => Ask GPT-3. It will type in its response in the text node containing the prompt.
+You can invoke GPT-3 to respond to a text prompt inside of a text node by opening the context menu (three bars icon) => `Ask GPT-3`. It will type in its response in the text node containing the prompt.
 
 ![](../../assets/gifs/ai/ai-text.gif){:.img}
 
@@ -39,9 +39,9 @@ You can also summarize sections of text on both pdfs and webpages by selecting a
 
 ### Generation
 
-You can generate an image from a text prompt inside of a text node by opening the context menu (three bars icon) => options => Ask GPT-3. It will type in its response in the text node containing the prompt.
+You can generate an image from a text prompt through a text node by opening the context menu (three bars icon) => `Generate Dall-e Image`. You can preview the image once it is done generating in the bottom right box and save generations you like to the main freeform.
 
-`Note` Images take some time to generate. Additionally, the image model may not always produce a result that aligns with the prompt.
+`Note` Images take some time to generate.
 
 ![](../../assets/gifs/ai/ai-image.gif){:.img}
 
@@ -58,7 +58,7 @@ From the image context menu, click on Open Image Editor, which will pull up an e
 
 Using the eraser tool, erase the part of the image you would like to fill with new content and optionally provide a prompt. Then, click `Get Edits` to generate the image edits. Variations will pop up on the right, and clicking them will draw the result to the main canvas. You can generate further edits from the results following the same process.
 
-`Note` Images take some time to generate
+`Note` Images take some time to generate. Additionally, the image model may not always produce a result that aligns with the prompt.
 ![](../../assets/gifs/ai/ai-edit-2.gif){:.img}
 
 #### Step 3
