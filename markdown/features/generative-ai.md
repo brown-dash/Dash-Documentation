@@ -58,7 +58,7 @@ From the image context menu, click on Open Image Editor, which will pull up an e
 
 Using the eraser tool, erase the part of the image you would like to fill with new content and optionally provide a prompt. Then, click `Get Edits` to generate the image edits. Variations will pop up on the right, and clicking them will draw the result to the main canvas. You can generate further edits from the results following the same process.
 
-`Note` Images take some time to generate. Additionally, the image model may not always produce a result that aligns with the prompt.
+`Note` Images take some time to generate. Additionally, the image model may not always produce a result that aligns with the prompt. To achieve better results, provide as much context about the image in your prompt as possible, including areas of the image you are leaving as is.
 ![](../../assets/gifs/ai/ai-edit-2.gif){:.img}
 
 #### Step 3
