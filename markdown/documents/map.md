@@ -8,7 +8,7 @@ nav_order: 1
 
 # Map in Dash
 <div class="img-container">
-  <img src="../../assets/images/environment/map_doc.png" alt="overall environment" style="height:400px;"/>
+  <img src="../../assets/gif/environment/create_map.gif" alt="overall environment" style="height:400px;"/>
 </div>
 {: .no_toc }
 
@@ -22,22 +22,50 @@ nav_order: 1
 </details>
 
 ## Description: 
-Map document makes geospatial linking, file storage and display possible. Users could create their own maps by importing other forms of documents with gps location into the sidebar or simply create a pin to drop on the desired location and drag and drop relevant files into the info window. 
-## Access
-Type colon on your canvas to invoke the node menu, under "CREATE DOCUMENT", select "MAP" to create an empty map.
-## Objects & Actions
-- Drag and drop images or other documents with gps data into the sidebar and they will automatically be rendered in the corresponding geolocation inside the info window of a pin on the map. (Click the pin on the map to expand info window and contents inside)
-- Add marker by clicking on "Add Marker" button, then click on a desired location on map to create a new pin. 
-- Click on any pin on the map to expand info window. Drag and drop other kinds of documents (regardless of whether they have geolocation or not) into the info window to form a collection of documents inside the info window.
-- Same as Google Maps, drag and drop pegman onto map to open street view.
+Map document supports searching, pushpins, pushpin selection, content view pinning, text note linking, and link to pin following. Details can be found below. 
 
+## Creating a MapBox
+Type colon on your canvas to invoke the node menu and type "MAP" or click and drag map icon from tools menu
+<div class="img-container">
+  <img src="../../assets/gif/environment/create_map.gif" alt="overall environment" style="height:400px;"/>
+</div>
 
-## Upcoming Functionalities
-- Map auto recentering to documents during link navigation
-- Linking from external documents directly to a pin, on top of existing linking behavior of linking to individual documents inside the pin.
-- Drawing on top of map
-- Ability to select region on the map (semi-transparent circle or square overlay) and not just specific latitude and longitude.
-- More to come!
+## Searching 
+Type a location in the top bar and click search. 
+<div class="img-container">
+  <img src="../../assets/gif/environment/map_search.gif" alt="overall environment" style="height:400px;"/>
+</div>
+
+## Pushpins
+- Drag and drop pushpin icon onto map to place pushpin
+- Click pushpin icon to place icon on center of map
+
+## Pin Selection
+- Select upon clicking pin
+- Delete pin by clicking trash icon on anchor map
+- Center pin by clicking center icon on anchor map
+
+## Linked Text Notes
+- Create a note document in the sidebar linked to the selected pin
+- Follow the link of a note by clicking it, and the map will center on the linked pin and highlight the view/pin orange
+<div class="img-container">
+  <img src="../../assets/gif/environment/map_search.gif" alt="overall environment" style="height:400px;"/>
+</div>
+- Selecting a pin will filter the notes to those linked to the selected pin
+- Deselecting a pin will reveal all notes made on that map
+<div class="img-container">
+  <img src="../../assets/gif/environment/map_search.gif" alt="overall environment" style="height:400px;"/>
+</div>
+
+## Storytelling Applications
+<div class="img-container">
+  <img src="../../assets/gif/environment/map_search.gif" alt="overall environment" style="height:400px;"/>
+</div>
+Using trails, we can pin a specific view of the map, preserving its location, zoom, and map view type. With that, we can create some pretty cool results:
+<div class="img-container">
+  <img src="../../assets/gif/environment/map_search.gif" alt="overall environment" style="height:400px;"/>
+</div>
+
 
 ## Feedback
-Map is currently a beta feature and might have unstable/unexpected behavior; Please fill in this [Google form](https://forms.gle/bZaELZDyLDVVtZEV9) to report any issues you might have! You can also use the same form to give suggestions on new functionalities you wish map to have.
+If you are having trouble with any features or encounter unexpected behavior, email me at eric_ma@brown.edu!
