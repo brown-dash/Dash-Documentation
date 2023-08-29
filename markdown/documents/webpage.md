@@ -26,7 +26,9 @@ You can include embedded HTML webpages in Dash.
 
 ## Access
 
-Dragged and dropped into Dash from an external tab. Alternatively, an empty webpage using the colon menu will open a Bing search (https://www.bing.com). Users can then enter a specific URL in the horizontal toolbar.
+Dragged and dropped into Dash from an external tab (Navigate to the page you want to embed and drag the lock icon next to the page url to the tab running Dash). Alternatively, an empty webpage using the colon menu will open a Bing search (https://www.bing.com). Users can then enter a specific URL in the horizontal toolbar.
+
+![](../../assets/gifs/webpage/dash-website-embed.gif){:.img}
 
 ## Objects & Actions
 
