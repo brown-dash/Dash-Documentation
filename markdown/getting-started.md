@@ -55,7 +55,7 @@ There are three ways to select a document in Dash. To select a single document, 
 
 You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.
 
-![](../assets/gifs/gettingstarted/groupselection.gif){:.img}
+![](../assets/gifs/gettingstarted/dash-marquee.gif){:.img}
 
 To select text in PDFs and webpages (not text documents), click and drag to highlight the desired text.
 
@@ -71,6 +71,8 @@ The following editing functions are universal to all document types:
   - Accessed by right-clicking anywhere on the target document or left-clicking the settings icon on each document
 
 All documents also have a context-sensitive toolbar. The toolbar contents vary depending on the document type.
+
+![](../assets/images/getting-started/context-toolbar.png){:.img}
 
 ### Transforming Documents
 
@@ -177,17 +179,22 @@ Linkboards function as a clipboard: they "copy" source documents to the linkboar
    1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
 3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
 
-![](../assets/gifs/gettingstarted/linking.gif){:.img}
+![](../assets/gifs/gettingstarted/dash-drag-drop-link.gif){:.img}
 
 ### Editing links
 
-Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows several link editing options, as well as a preview of the document it links to. The link editing options are as follows:
+Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to. Clicking the pencil icon to the left will open up the properties pan on the right, where you can edit the link.
+
+![](../assets/gifs/gettingstarted/dash-edit-link.gif){:.img}
+
+<!-- The link editing options are as follows:
 
 - Show/hide anchor: renders a trail visually representing the link and its anchors. Anchors are indicated as colored dots on the bottom right of the document; links are shown as a dotted line.
 - Show/hide link: toggles the dotted line created by the show/hide anchor tool above.
+  ![](../assets/gifs/gettingstarted/dash-toggle-show-link.gif){:.img}
 - Move/freeze dot: toggles the user's ability to reposition anchor dots.
 - Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.
-- Delete link: removes the selected link.
+- Delete link: removes the selected link. -->
 
 ## Annotation and Markup
 
