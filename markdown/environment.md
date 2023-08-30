@@ -46,14 +46,14 @@ Each icon has an associated flyout panel with additional functionality. Flyouts 
 
 Permanently pinned on the left. Flyouts can be toggled open & closed by clicking on the specific icon, or by clicking on the grey drag handle.
 
-| Icon                                     | Title           | Description                                                                                                                                                                                                                                    |
-| :--------------------------------------- | :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](../assets/icons/search.png){:.icon}  | **Search**      | Search for any documents within the currently selected Dashboard. The dropdown panel can be used to filter the search results by the type of document. In addition to clicking the search icon, Ctrl+F also toggles this flyout open & closed. |
-| ![](../assets/icons/files.png){:.icon}   | **Files**       | This is your file manager where you can create folders to keep track of documents independently of your dashboard. You can also view recenly closed documents.                                                                                 |
-| ![](../assets/icons/tools.png){:.icon}   | **Tools**       | Tools provides an alternative way to create certain types of documents, including maps, audio, and notes.                                                                                                                                      |
-| ![](../assets/icons/imports.png){:.icon} | **Imports**     | This is where documents that are imported into Dash weill go.                                                                                                                                                                                  |
-| ![](../assets/icons/shared.png){:.icon}  | **Shared Docs** | This is where documents of dashboards that other users have shared with you will appear. To share a document or dashboard right click and select `Share`.                                                                                      |
-| ![](../assets/icons/trails.png){:.icon}  | **Trails**      | All of the trails that you have created will appear here.                                                                                                                                                                                      |
+| Icon                                     | Title       | Description                                                                                                                                                                                                                                    |
+| :--------------------------------------- | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../assets/icons/search.png){:.icon}  | **Search**  | Search for any documents within the currently selected Dashboard. The dropdown panel can be used to filter the search results by the type of document. In addition to clicking the search icon, Ctrl+F also toggles this flyout open & closed. |
+| ![](../assets/icons/files.png){:.icon}   | **Files**   | This is your file manager where you can create folders to keep track of documents independently of your dashboard. You can also view recenly closed documents.                                                                                 |
+| ![](../assets/icons/tools.png){:.icon}   | **Tools**   | Tools provides an alternative way to create certain types of documents, including maps, audio, and notes.                                                                                                                                      |
+| ![](../assets/icons/imports.png){:.icon} | **Imports** | This is where documents that are imported into Dash will go.                                                                                                                                                                                   |
+| ![](../assets/icons/shared.png){:.icon}  | **Shared**  | This is where documents of dashboards that other users have shared with you will appear. To share a document or dashboard right click and select `Share`.                                                                                      |
+| ![](../assets/icons/trails.png){:.icon}  | **Trails**  | All of the trails that you have created will appear here.                                                                                                                                                                                      |
 
 <!--
 
@@ -100,4 +100,4 @@ We display dash documents in the window manager with tabs. A tab can contain any
 
 Tiles can contain multiple tabs, you can drag and drop a tab into a tile such that you have multiple tabs in the same way that a browser like Chrome has multiple tabs.
 
-Not sure where to start? Check out our **[Getting Started](getting-started)** page!
+Not sure where to start? Check out our **[Getting Started](getting-started.md)** page!

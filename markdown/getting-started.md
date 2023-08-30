@@ -143,14 +143,14 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Sorting documents into categories
 - Navigating Dash as a "Trello board" or table
 
-### Masonry
+<!-- ### Masonry
 
 **Description**: 2D grid of tiles that avoids empty space. Documents automatically reflow and wrap as the aspect ratio is resized. Documents can be categorized via unique keys, which displays each category in a separate grid. Multiple categories are vertically stacked.
 
 **Good for**:
 
 - Avoiding vertical or horizontal padding required by grid perspectives
-- Navigating Dash as a “Pinterest Board”
+- Navigating Dash as a “Pinterest Board” -->
 
 ## **[Links and Anchors](features/linking.md)**
 
