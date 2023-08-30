@@ -213,14 +213,23 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 There are several ways to add annotations:
 
 - `Top-right Icon` Click on the annotation icon at the top right of a document to open the annotation sidebar.
+
   ![](../assets/gifs/gettingstarted/dash-annotation-icon.gif){:.img}
+
 - `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears.
+
   ![](../assets/gifs/gettingstarted/dash-annotation-highlight.gif){:.img}
+
 - `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation.
+
   ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
+
 - `Embed` Type directly on a media document.
+
   ![](../assets/gifs/gettingstarted/dash-annotation-embed.gif){:.img}
+
 - `Ink` Draw ink strokes directly on a document.
+
   ![](../assets/gifs/gettingstarted/dash-annotation-ink.gif){:.img}
 
 <!-- Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
@@ -302,3 +311,5 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 4. Click on the blue _i_ to view or edit group members. You can add or remove members or delete the group from this menu.
 
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img}
+
+Unsure of how to navigate the overall Dash interface? Check out the **[Overall Environment page](environment.md)**.
