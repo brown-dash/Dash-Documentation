@@ -63,7 +63,7 @@ Type a location in the top bar and click search (or press enter/return).
 ![](../../assets/gifs/environment/map_link.gif){:.img}
 
 With this functionality, we can create some pretty cool results:
-![](../../assets/gif/environment/map_story.gif){:.img}
+![](../../assets/gifs/environment/map_story.gif){:.img}
 
 
 ## Feedback
