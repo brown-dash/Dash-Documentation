@@ -9,20 +9,20 @@ nav_order: 3
 
 {: .no_toc }
 
-<!-- <details open markdown="block">
+<details open markdown="block">
   <summary>
     Table of contents
   </summary>
   {: .text-delta }
 1. TOC
 {:toc}
-</details> -->
+</details>
 
 ## Import and Content Creation
 
 There are multiple ways that you can import into Dash. The essential ways are as follows:
 
-- **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard.
+- **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard. This includes images, videos, audio, pdfs, and more!
   ![](../assets/gifs/gettingstarted/dash-drag-drop.gif){:.img}
 - **Import**: import using the import menu on the left hand side
   ![](../assets/gifs/gettingstarted/dash-import.gif){:.img}
@@ -34,7 +34,7 @@ There are multiple ways that you can import into Dash. The essential ways are as
   <img src="../assets/gifs/environment/colon-stack.gif" alt="colon menu" style="height:300px;"/>
 </div> -->
 
-## Documents
+## **[Documents](documents/documents.md)**
 
 Everything in Dash is considered a document. Documents store data as arbitrary key-value pairs.
 
@@ -48,6 +48,16 @@ Dash supports several document types, each with unique capabilities. The primary
 - **[Temporal Media](documents/tempMedia/temporal-media.md)**: audio and video files
 - **[Ink](features/ink.md)**: ink strokes drawn with the pen or polygon tool
 - **[Images](documents/images.md)**: digital images from external sources
+
+#### Nested collections
+
+You can also created nested collections in Dash. The easiest way is through the colon menu (type : anywhere to bring it up). You can add any document to the new collection as you would to the main freeform, and zoom and pan as well.
+
+![](../assets/gifs/gettingstarted/dash-nested-collection.gif){:.img}
+
+You can also create a collection through right clicking and dragging on the documents you want to group into a new collection (marquee selection).
+
+![](../assets/gifs/gettingstarted/dash-create-collection-marquee.gif){:.img}
 
 ### Selecting Documents
 
@@ -136,17 +146,15 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Having a structured list view of all the documents of the collection while still seeing live previews of the documents
 - Navigating Dash as a vertical scrolling page
 
-### Notetaking
+<!-- ### Notetaking
 
 **Description**: multiple scrollable stacks of documents. A multicolumn version of stacking view.
-
-<!-- All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key. -->
 
 **Good for**:
 
 - Viewing documents side by side for comparison or note-taking
 - Sorting documents into categories
-- Navigating Dash as a "Trello board" or table
+- Navigating Dash as a "Trello board" or table -->
 
 <!-- ### Masonry
 
