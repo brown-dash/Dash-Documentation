@@ -262,6 +262,18 @@ There are several ways to add annotations:
 
 - By default, dragging an annotation outside of its parent document will leave a pushpin at the original location the annotation was created. -->
 
+## **[Presentation Trails](features/trails.md)**
+
+Presentation trails allow the user to navigate through documents in a predefined path, similar to a Prezi or Slides presentation, but with added, flexible functionality. You can pin any document to a presentation trail.
+
+- **Pin with layout:** this pins the document saving its current layout state: xy position, width, and height
+- **Pin with content:** this pins the document content saving its content state such as the text of a text document, the pan and zoom of a collection, the scroll position of a PDF, etc.
+- **Pin with layout and content:** this saves both layout and content
+
+Aside from the above, the pinned documents' transition type/speed, and behavior can be changed even further. Check presentation trails [page](features/trails.md) for a deeper explanation.
+
+![](../assets/gifs/trails/pinlayoutcontent.gif){:img}
+
 ## Collaboration
 
 Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:
@@ -282,17 +294,3 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 4. Click on the blue _i_ to view or edit group members. You can add or remove members or delete the group from this menu.
 
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img}
-
-## Presentation Trails
-
-[More about presentation trails](features/trails.md)
-
-Presentation trails alllow the user to navigate through documents in a predefined path. Dash documents are able to be pinned to a presentation trail. Currently, dash documents have 3 options when being pinned:
-
-- **Pin with layout:** this pins the document saving its current layout state: xy position, width, and height
-- **Pin with content:** this pins the document content saving its content state such as the text of a text document, the pan and zoom of a collection, the scroll position of a PDF, etc.
-- **Pin with layout and content:** this saves both layout and content
-
-Aside from the above, the pinned documents' transition type/speed, and behavior can be changed even further. Check presentation trails [page](features/trails.md) for a deeper explanation.
-
-![](../assets/gifs/trails/pinlayoutcontent.gif){:img}
