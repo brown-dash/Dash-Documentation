@@ -7,9 +7,7 @@ nav_order: 1
 ---
 
 # Map in Dash
-<div class="img-container">
-  <img src="../../assets/gif/environment/create_map.gif" alt="overall environment" style="height:400px;"/>
-</div>
+![](../../assets/gif/environment/create_map.gif){:.img}
 {: .no_toc }
 
 <details open markdown="block">
