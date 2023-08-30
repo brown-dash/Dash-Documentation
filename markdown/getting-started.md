@@ -24,7 +24,7 @@ There are multiple ways that you can import into Dash. The essential ways are as
 
 - **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard.
 - **Import**: import using the import menu on the left hand side
-- **Begin typing `:`** to bring up the document menu, from which you can create a document. If you are in Stacking or Schema view, you can click on `+ New`, and type a colon to open the colon menu. 
+- **Begin typing `:`** to bring up the document menu, from which you can create a document. If you are in Stacking or Schema view, you can click on `+ New`, and type a colon to open the colon menu.
 
 <div class="img-container">
   <img src="../assets/gifs/environment/colon-menu.gif" alt="colon menu" style="height:300px;"/>
@@ -44,7 +44,7 @@ Dash supports several document types, each with unique capabilities. The primary
 - **[PDFs](documents/pdf.md)**: PDF files created outside of Dash
 - **[Temporal Media](documents/tempMedia/temporal-media.md)**: audio and video files
 - **[Ink](features/ink.md)**: ink strokes drawn with the pen or polygon tool
-- **Images**: digital images from external sources
+- **[Images](documents/images.md)**: digital images from external sources
 
 ### Selecting Documents
 
@@ -85,11 +85,11 @@ There are four main ways to transform a document: move, resize, open in a new ta
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
 
-## Views
+## **[Views](views/views.md)**
 
 Views represent various ways to visualize a collection. Users can toggle different views through the pull-down menu in the leftmost region of the context-sensitive toolbar. Alternatively, they can open a new view as an alias by right-clicking on the current collection and selecting the desired perspective. The default view is freeform.
 
-### Freeform
+### **[Freeform](views/freeform.md)**
 
 **Description**: unbounded 2D space in the form of a canvas
 
@@ -99,7 +99,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking
 - “Raw” document views to get a sense of individual layouts
 
-### Schema
+### **[Schema](views/schema.md)**
 
 **Description**: table view of documents. Each document is a row, and each column displays the contents (values) stored with the unique document key. Nested collections can be expanded in-line. The title, author, date last modified, text, and context columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys.
 
@@ -110,7 +110,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Working with search functionality
 - Navigating Dash an an “Excel sheet”
 
-### Tree
+<!-- ### Tree
 
 **Description**: a hierarchal outline of documents. Each item is expandable into sub-items, and sub-items range from a sub-tree of documents stored inside the current document to a live preview of the current document.
 
@@ -118,11 +118,12 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 - Viewing hierarchical relationships between documents
 - Navigating Dash as a file directory
-- Manipulating document z-indices (overlay layer)
+- Manipulating document z-indices (overlay layer) -->
 
-### Stacking
+### **[Stacking](views/stacking.md)**
 
 **Description**: scrollable stack of documents.
+
 <!-- All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key. -->
 
 **Good for**:
@@ -133,6 +134,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 ### Notetaking
 
 **Description**: multiple scrollable stacks of documents. A multicolumn version of stacking view.
+
 <!-- All documents are placed in a single stack by default. If a key is specified, multiple stacks will show up side-by-side, each containing documents sharing the same value for that key. -->
 
 **Good for**:
@@ -150,7 +152,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Avoiding vertical or horizontal padding required by grid perspectives
 - Navigating Dash as a “Pinterest Board”
 
-## Links and Anchors
+## **[Links and Anchors](features/linking.md)**
 
 A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)
 
@@ -185,6 +187,8 @@ Once a link is created, a blue dot will appear in the document's bottom left cor
 - Delete link: removes the selected link.
 
 ## Annotation and Markup
+
+**[More about markup](features/markup.md)**
 
 Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
 
@@ -250,6 +254,6 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 1. Click on the settings button on the top right in the menu and select the Modes submenu. Click on the Manage Groups Button.
 2. Click on the Create Group button to open the group creation menu.
 3. Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.
-4. Click on the blue *i* to view or edit group members. You can add or remove members or delete the group from this menu.
+4. Click on the blue _i_ to view or edit group members. You can add or remove members or delete the group from this menu.
 
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img}

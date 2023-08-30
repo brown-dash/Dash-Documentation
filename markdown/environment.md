@@ -99,3 +99,5 @@ We display dash documents in the window manager with tabs. A tab can contain any
 ### What is a tile?
 
 Tiles can contain multiple tabs, you can drag and drop a tab into a tile such that you have multiple tabs in the same way that a browser like Chrome has multiple tabs.
+
+Not sure where to start? Check out our **[Getting Started](getting-started)** page!
