@@ -270,6 +270,7 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 
 ## Presentation Trails
 [More about presentation trails](features/trails.md)
+
 Presentation trails alllow the user to navigate through documents in a predefined path. Dash documents are able to be pinned to a presentation trail. Currently, dash documents have 3 options when being pinned:
 
 - **Pin with layout:** this pins the document saving its current layout state: xy position, width, and height
