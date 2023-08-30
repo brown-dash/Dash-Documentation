@@ -59,14 +59,10 @@ Type a location in the top bar and click search.
 - If a pin is selected when the link was made, following the link will bring you to the map centered on the (highlighted) link
 - If a pin is not selected when the link was made, following the link will bring you to the same location as when the link was made
 
-<div class="img-container">
-  <img src="../../assets/gif/environment/map_link.gif" alt="overall environment" style="height:400px;"/>
-</div>
+![](../../assets/gif/environment/map_link.gif){:.img}
 
 With this functionality, we can create some pretty cool results:
-<div class="img-container">
-  <img src="../../assets/gif/environment/map_story.gif" alt="overall environment" style="height:400px;"/>
-</div>
+![](../../assets/gif/environment/map_story.gif){:.img}
 
 
 ## Feedback
