@@ -172,14 +172,16 @@ Drag and drop creates a 1:1 link between documents that both appear on the scree
 
 Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.
 
+![](../assets/gifs/gettingstarted/dash-drag-drop-link.gif){:.img}
+
 Linkboards function as a clipboard: they "copy" source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.
 
 1. Select the desired source document and navigate to its bottom toolbar.
-2. Left-click the "make link" button.
-   1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to clear the current linkboard.
-3. Complete the link by clicking the "complete link" button in the bottom toolbar of the target document.
+2. Left-click the link icon.
+   1. A popup bar will display at the bottom of the screen with two options: one to toggle displaying or hiding optional link labels, and one to exit linking mode.
+3. Complete the link by clicking on the desired target document and selecting the second link icon that appears in the bottom menu.
 
-![](../assets/gifs/gettingstarted/dash-drag-drop-link.gif){:.img}
+![](../assets/gifs/gettingstarted/dash-create-link-board.gif){:.img}
 
 ### Editing links
 
@@ -203,10 +205,15 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 There are several ways to add annotations:
 
 - `Top-right Icon` Click on the annotation icon at the top right of a document to open the annotation sidebar.
+  ![](../assets/gifs/gettingstarted/dash-annotation-icon.gif){:.img}
 - `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears.
-- `Embed` Type directly on a media document.
+  ![](../assets/gifs/gettingstarted/dash-annotation-highlight.gif){:.img}
 - `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation.
+  ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
+- `Embed` Type directly on a media document.
+  ![](../assets/gifs/gettingstarted/dash-annotation-embed.gif){:.img}
 - `Ink` Draw ink strokes directly on a document.
+  ![](../assets/gifs/gettingstarted/dash-annotation-ink.gif){:.img}
 
 <!-- Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
 
@@ -277,6 +284,7 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img}
 
 ## Presentation Trails
+
 [More about presentation trails](features/trails.md)
 
 Presentation trails alllow the user to navigate through documents in a predefined path. Dash documents are able to be pinned to a presentation trail. Currently, dash documents have 3 options when being pinned:
