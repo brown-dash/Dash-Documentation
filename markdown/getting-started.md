@@ -267,3 +267,15 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 4. Click on the blue _i_ to view or edit group members. You can add or remove members or delete the group from this menu.
 
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img}
+
+## Presentation Trails
+[More about presentation trails](features/trails.md)
+Presentation trails alllow the user to navigate through documents in a predefined path. Dash documents are able to be pinned to a presentation trail. Currently, dash documents have 3 options when being pinned:
+
+- **Pin with layout:** this pins the document saving its current layout state: xy position, width, and height
+- **Pin with content:** this pins the document content saving its content state such as the text of a text document, the pan and zoom of a collection, the scroll position of a PDF, etc.
+- **Pin with layout and content:** this saves both layout and content
+
+Aside from the above, the pinned documents' transition type/speed, and behavior can be changed even further. Check presentation trails [page](features/trails.md) for a deeper explanation.
+
+![](../assets/gifs/trails/pinlayoutcontent.gif){:img}
