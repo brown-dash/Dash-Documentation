@@ -28,7 +28,7 @@ Type colon on your canvas to invoke the node menu and type "MAP" or click and dr
 ![](../../assets/gifs/environment/create_map.gif){:.img}
 
 ## Searching 
-Type a location in the top bar and click search.
+Type a location in the top bar and click search (or press enter/return).
 ![](../../assets/gifs/environment/map_search.gif){:.img}
 
 ## Pushpins
