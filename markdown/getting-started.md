@@ -72,7 +72,7 @@ The following editing functions are universal to all document types:
 
 All documents also have a context-sensitive toolbar. The toolbar contents vary depending on the document type.
 
-![](../assets/images/getting-started/context-toolbar.png){:.img}
+![](../assets/images/getting-started/context-toolbar.png)
 
 ### Transforming Documents
 
@@ -196,11 +196,19 @@ Once a link is created, a blue dot will appear in the document's bottom left cor
 - Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.
 - Delete link: removes the selected link. -->
 
-## Annotation and Markup
+## **[Annotation and Markup](features/markup.md)**
 
-**[More about markup](features/markup.md)**
+Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups.
 
-Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
+There are several ways to add annotations:
+
+- `Top-right Icon` Click on the annotation icon at the top right of a document to open the annotation sidebar.
+- `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears.
+- `Embed` Type directly on a media document.
+- `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation.
+- `Ink` Draw ink strokes directly on a document.
+
+<!-- Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. There are four types of annotations:
 
 ### Text
 
@@ -245,7 +253,7 @@ Media documents (eg. PDFs, webpages, images, videos, audio) currently support us
 
 **Access**:
 
-- By default, dragging an annotation outside of its parent document will leave a pushpin at the original location the annotation was created.
+- By default, dragging an annotation outside of its parent document will leave a pushpin at the original location the annotation was created. -->
 
 ## Collaboration
 
