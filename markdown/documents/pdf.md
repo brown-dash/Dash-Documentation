@@ -22,11 +22,13 @@ nav_order: 2
 
 ## Description
 
-PDF files created outside of Dash
+PDF files created outside of Dash.
 
-## Access
+## How to Create
 
-Dragged & dropped into Dash from an external source (i.e., own desktop)
+Dragged & dropped into Dash from an external source (i.e., your own desktop)
+
+![](../../assets/gifs/environment/pdf.gif){:.img}
 
 ## Objects & Actions:
 
