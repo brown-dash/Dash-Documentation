@@ -193,9 +193,11 @@ Linkboards function as a clipboard: they "copy" source documents to the linkboar
 
 ### Editing links
 
-Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to. Clicking the pencil icon to the left will open up the properties pan on the right, where you can edit the link.
+Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to. Clicking the pencil icon to the left will open up the properties pane on the right, where you can edit the link.
 
 ![](../assets/gifs/gettingstarted/dash-edit-link.gif){:.img}
+
+In the link editing section of the properties pane, you can add a link relationship and description, toggle the display of the link line, control the link following animation behavior, and more.
 
 <!-- The link editing options are as follows:
 
@@ -224,7 +226,7 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
 
-- `Embed` Type directly on a media document.
+- `Embed` Type directly on a media document (This can be done on images, pdfs, webpages, and videos).
 
   ![](../assets/gifs/gettingstarted/dash-annotation-embed.gif){:.img}
 
@@ -283,13 +285,58 @@ There are several ways to add annotations:
 
 Presentation trails allow the user to navigate through documents in a predefined path, similar to a Prezi or Slides presentation, but with added, flexible functionality. You can pin any document to a presentation trail.
 
-- **Pin with layout:** this pins the document saving its current layout state: xy position, width, and height
-- **Pin with content:** this pins the document content saving its content state such as the text of a text document, the pan and zoom of a collection, the scroll position of a PDF, etc.
-- **Pin with layout and content:** this saves both layout and content
+### Creating a Trail
 
-Aside from the above, the pinned documents' transition type/speed, and behavior can be changed even further. Check presentation trails [page](features/trails.md) for a deeper explanation.
+There are two ways to create a trail:
 
-![](../assets/gifs/trails/pinlayoutcontent.gif){:img}
+1. Creating a new trail from the trails panel on the left sidebar.
+
+![](../assets/gifs/gettingstarted/dash-create-trail-side.gif){:.img}
+
+2. Pinning a document or a view.
+
+![](../assets/gifs/gettingstarted/dash-pin-doc.gif){:.img}
+
+After creating a trail, a new tab will open up displaying the slides of the trail. You can click on each slide to view and transition between the different views and documents you've pinned.
+
+![](../assets/gifs/gettingstarted/dash-trail-transition.gif){:.img}
+
+### Adding documents to a trail
+
+#### Regular pin:
+
+To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail.
+
+![](../assets/images/trails/regularpin.png){:.img}
+
+#### Pin with view:
+
+Pinning with view pins the canvas with the specific pan and zoom you have it set to, allowing you to show a view of multiple documents laid out on a collection. There are two places where you can pin with view:
+
+- **Top menu bar:** this pins the canvas with the pan and zoom of the tab as you are currently viewing it
+  ![](../assets/gifs/gettingstarted/dash-pin-with-view.gif){:.img}
+- **Marquee menu:** this option appears when you right click and drag on the canvas to create a marquee selection and pins the canvas with the marquee bounds as the viewport
+  ![](../assets/gifs/trails/pinmarqueeview.gif){:.img}
+
+You can customize how the document should be pinned by hovering over the pin icon, allowing you to pin documents while preserving their layout and content. Check out the details on this [here](features/trails.md#other-pinning-options).
+
+### Customization
+
+Clicking the double arrows in the trail tab wil open up a pane where you can customize the transition behavior of each slide.
+
+![](../assets/gifs/gettingstarted/dash-slide-editing.gif){:.img}
+
+### Presenting a trail
+
+Now that you've created a trail, you can walk through it by entering presention mode!
+
+Click on the present button in the top right to enter present mode. You can use the arrows to navigate between slides, or select the play icon to autoplay the presentation.
+
+![](../assets/gifs/gettingstarted/dash-present-trail.gif){:.img}
+
+Alternatively, you can select the mini-player option from the dropdown to present with a mini-player instead.
+
+![](../assets/gifs/gettingstarted/dash-pres-miniplayer.gif){:.img}
 
 ## Collaboration
 
