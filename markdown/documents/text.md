@@ -24,7 +24,7 @@ nav_order: 1
 
 ## Access:
 
-![](../../assets/images/environment/text_doc2.png){:.img}
+![](../../assets/images/environment/text_doc2.gif){:.img}
 Invoked by clicking anywhere on the blank canvas in freeform perspective
 
 ## Objects & Actions
