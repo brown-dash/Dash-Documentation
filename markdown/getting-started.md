@@ -63,22 +63,35 @@ You can also create a collection through right clicking and dragging on the docu
 
 There are three ways to select a document in Dash. To select a single document, simply left-click or right-click the desired document to bring it into focus.
 
-You can select multiple documents via marquee or shift-click. To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents. To use shift-click, hold down the shift key while left-clicking on multiple documents.
+You can select multiple documents via marquee or shift-click.
+
+To use the marquee tool, right-click on the canvas to invoke the marquee; then, drag the bounding area to include your desired documents.
 
 ![](../assets/gifs/gettingstarted/dash-marquee.gif){:.img}
 
+To use shift-click, hold down the shift key while left-clicking on multiple documents.
+
+![](../assets/gifs/gettingstarted/dash-shift-click.gif){:.img}
+
 To select text in PDFs and webpages (not text documents), click and drag to highlight the desired text.
+
+![](../assets/gifs/gettingstarted/dash-highlight-select.gif){:.img}
 
 ### Editing Documents
 
 The following editing functions are universal to all document types:
 
 - **Document chrome**: floating set of tools to change document properties
+
   - Accessed via single selection (left or right click)
+    ![](../assets/images/getting-started/document-chrome.png){:.img}
+
 - **Properties panel**: panel displaying document type-specific actions
   - Accessed via (A) the double arrows in the top right or (B) the single arrow on the right edge of the screen
-- **Right-click menu**: menu displaying actions on documents
-  - Accessed by right-clicking anywhere on the target document or left-clicking the settings icon on each document
+    ![](../assets/gifs/gettingstarted/dash-properties-pane.gif){:.img}
+- **Right-click/Context menu**: menu displaying actions on documents
+  - Accessed by right-clicking anywhere on the target document or selecting the three bars menu at the bottom of the document chrome
+    ![](../assets/gifs/gettingstarted/dash-context-menu.gif){:.img}
 
 All documents also have a context-sensitive toolbar. The toolbar contents vary depending on the document type.
 
@@ -86,7 +99,7 @@ All documents also have a context-sensitive toolbar. The toolbar contents vary d
 
 ### Transforming Documents
 
-There are four main ways to transform a document: move, resize, open in a new tab or tile, and close.
+There are three main ways to transform a document: move, resize, and close.
 
 - **Move**
   - **Selected documents**: click and drag on the title to move the document, then drop at the desired location.
@@ -94,15 +107,15 @@ There are four main ways to transform a document: move, resize, open in a new ta
 - **Resize**
   - **Size**: click and drag the corner handles in the border chrome.
   - **Border radius**: click and drag the small circle in the bottom right corner of the border chrome.
-- **Open in a new tab or tile**
-  - Click on the rightmost “open in a new tile” icon in the header chrome to open a full view of the document in a new tile (defaults to alias).
+  <!-- - **Open in a new tab or tile**
+  - Click on the rightmost “open in a new tile” icon in the header chrome to open a full view of the document in a new tile (defaults to alias). -->
 - **Close**
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
 
 ## **[Views](views/views.md)**
 
-Views represent various ways to visualize a collection. Users can toggle different views through the pull-down menu in the leftmost region of the context-sensitive toolbar. Alternatively, they can open a new view as an alias by right-clicking on the current collection and selecting the desired perspective. The default view is freeform.
+Views represent various ways to visualize a collection. Users can toggle different views through the dropdown menu in the leftmost region of the context-sensitive toolbar. Alternatively, they can open a new view as an alias by right-clicking on the current collection and selecting the desired perspective. The default view is freeform.
 
 ### **[Freeform](views/freeform.md)**
 
@@ -199,6 +212,8 @@ Once a link is created, a blue dot will appear in the document's bottom left cor
 
 In the link editing section of the properties pane, you can add a link relationship and description, toggle the display of the link line, control the link following animation behavior, and more.
 
+![](../assets/gifs/gettingstarted/dash-editing-link.gif){:.img}
+
 <!-- The link editing options are as follows:
 
 - Show/hide anchor: renders a trail visually representing the link and its anchors. Anchors are indicated as colored dots on the bottom right of the document; links are shown as a dotted line.
@@ -221,6 +236,10 @@ There are several ways to add annotations:
 - `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears.
 
   ![](../assets/gifs/gettingstarted/dash-annotation-highlight.gif){:.img}
+
+- `Search` After highlighting, you can also click the search icon to search for a document to link to.
+
+  ![](../assets/gifs/gettingstarted/dash-link-search.gif){:.img}
 
 - `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation.
 
