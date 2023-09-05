@@ -24,6 +24,7 @@ nav_order: 1
 
 ## Access:
 
+![](../../assets/images/environment/text_doc2.png){:.img}
 Invoked by clicking anywhere on the blank canvas in freeform perspective
 
 ## Objects & Actions
@@ -36,6 +37,17 @@ Invoked by clicking anywhere on the blank canvas in freeform perspective
 - Sidebar that allows for additional “comments” in the form of text documents:
   - Click on the `Comment` icon on the top right corner of a text document to turn on the sidebar. This allows you, or others with augmentation/edit/admin permissions to the document, to add additional “comments” in the form of text documents
   - To turn off the sidebar, click on the same small grey vertical rectangle. Note that this will not erase any existing documents in the sidebar.
+  - Change style by opening context menu (3 horizontal lines, last icon under the node when the text doc is selected) and clicking Change Style
+ 
+## Ask GPT3
+![](../../assets/images/environment/text_doc3.gif){:.img}
+- Type your prompt and click Ask GPT3 in the context menu
+
+## Generate Dall-E Image
+![](../../assets/images/environment/text_doc4.gif){:.img}
+- Type your prompt and click Generate Dall-E Image.
+- Wait for generation at bottom right of screen
+- Hover over image and save to canvas
 
 ## Markdown commands
 
