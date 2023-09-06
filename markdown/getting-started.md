@@ -244,6 +244,10 @@ In the link editing section of the properties pane, you can add a link relations
 
 ![](../assets/gifs/gettingstarted/dash-editing-link.gif){:.img}
 
+One common adjustment you might want to make to the link following behavior is centering and zooming into the destination document rather than just panning the freeform until it is in view. To do this, toggle the **Zoom %** option on. You can also adjust the zoom level.
+
+![](../assets/gifs/gettingstarted/dash-link-center-zoom.gif){:.img}
+
 <!-- The link editing options are as follows:
 
 - Show/hide anchor: renders a trail visually representing the link and its anchors. Anchors are indicated as colored dots on the bottom right of the document; links are shown as a dotted line.
