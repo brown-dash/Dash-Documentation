@@ -136,4 +136,10 @@ To close a tab, click the x icon at the top-right of a tile.
 
 ![](../assets/gifs/environment/dash-close-tile.gif){:.img}
 
+### Reporting Bugs
+
+Dash is constantly developing and trying out new features and interfaces. Bugs and issues exist, and we need your help to catch them! To report issues and bugs, please click on the bug icon in the top bar, where you can view open issues, and report any issues that you find. Feel free to also suggest new features here!
+
+![](../assets/gifs/environment/dash-report.gif){:.img}
+
 Not sure where to go from here? Check out our **[Getting Started](getting-started.md)** page!
