@@ -14,7 +14,7 @@ Views are the different ways that you can view a collection of documents. Dash s
 | :--------- | :------------------------------------------------------------------------------------------------------------------ |
 | Freeform   | Unbounded 2D space in the form of a canvas. This is Dash’s primary view                                             |
 | Schema     | Manipulating documents via key-value pairs and maintaining structured viewing and sorting of data                   |
-| Stack      | Categorizing documents by specified keys while maintaining a live preview of each document                          |
+| Stacking      | Categorizing documents by specified keys while maintaining a live preview of each document                          |
 | Notetaking | Create multiple columns of documents, allowing you to take notes in one column while having your content in others. |
 
 ## Changing Views
