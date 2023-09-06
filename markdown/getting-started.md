@@ -18,6 +18,12 @@ nav_order: 3
 {:toc}
 </details>
 
+## Before you start
+
+If you haven't already, sign up for an account and get started at [browndash.com](https://browndash.com/signup).
+
+For an overview of the Dash interface, check out the **[Overall Environment page](environment.md)**, which will introduce you to how to navigate and organize your Dashboards.
+
 ## Import and Content Creation
 
 There are multiple ways that you can import into Dash. The essential ways are as follows:
