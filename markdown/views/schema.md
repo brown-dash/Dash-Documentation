@@ -24,7 +24,7 @@ nav_order: 2
 
 ## Description:
 
-Displays each document as a row, where each column displays the contents (values) stored with the specific key for that document. Nested collections can be expanded in-line. The title, author, date last modified, text, and context columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys.
+Displays each document as a row, where each column displays the contents (values) stored with the specific key for that document. Nested collections can be expanded in-line. The title, type, author, date last modified, and text columns are displayed by default, and users can manually add more columns with existing keys or user-defined keys.
 
 ## Good for:
 

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Carousel
 parent: Views
@@ -20,4 +20,4 @@ nav_order: 5
 {:toc}
 </details>
 
-Coming soon!
+Coming soon! -->
