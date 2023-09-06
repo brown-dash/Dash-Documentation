@@ -11,7 +11,7 @@ For more infomation on joining dash, go to the [joining dash](/Dash-Documentatio
 
 **Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates.
 
-To learn how to use Dash, check out our [Getting Started](getting-started.md) page. For an overview of the Dash interface, check out our [Overall Environment](environment.md) page.
+To learn how to use Dash, check out our [Getting Started](/markdown/getting-started.md) page. For an overview of the Dash interface, check out our [Overall Environment](/markdown/environment.md) page.
 
 You can find the release notes [here](/Dash-Documentation/release-notes). You can also find video documentation [here](/Dash-Documentation/videos).
 
