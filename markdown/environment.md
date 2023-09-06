@@ -42,7 +42,7 @@ The first view in a new dashboard is an empty pannable freeform canvas, one of m
 
 Each icon has an associated flyout panel with additional functionality. Flyouts can be toggled open by clicking on corresponding icons.
 
-![](../assets/gifs/environment/menu-panel.gif){:.img}
+![](../assets/gifs/environment/dash-flyout.gif){:.img}
 
 ### Access
 
@@ -102,17 +102,17 @@ We display dash documents in the window manager with tabs. This is similar to a 
 
 #### Creating/Deleting Tabs
 
-You can create a tab by clicking on the plus at the top right of a tile. You can delete a tab by clicking on the x icon of each tab.
+You can create a tab by clicking on the plus at the top right of a [tile](environment.md#what-is-a-tile). You can delete a tab by clicking on the x icon of each tab.
 
 ![](../assets/gifs/environment/dash-create-delete-tab.gif){:.img}
 
 To open a document in a new tab, drag the document title bar to the tabs manager, and release.
 
-From there, if you click on the tab manager region, you'll create a new tab in the current [tile](environment.md#what-is-a-tile).
+From there, if you click on the darkened tabs manager region indicating the potential new tab, you'll create a new tab in the current [tile](environment.md#what-is-a-tile).
 
 ![](../assets/gifs/environment/dash-drag-tab.gif){:.img}
 
-If you want to place the new document tab in a new [tile](environment.md#what-is-a-tile), rather than clicking on the tabs manager, you can instead drag the document to the region of the freeform where you want to create a new tile.
+If you want to place the new document tab in a new [tile](environment.md#what-is-a-tile), rather than clicking on the tabs manager, you can instead move your cursor to the region of the freeform where you want to create a new tile, then click.
 
 ![](../assets/gifs/environment/dash-drag-tab-tile.gif){:.img}
 
@@ -130,7 +130,7 @@ To create a new tile with tabs, drag the header of an existing tab to the sectio
 
 ![](../assets/gifs/environment/dash-drag-tab-create-tile.gif){:.img}
 
-#### Closing a Tab
+#### Closing a Tile
 
 To close a tab, click the x icon at the top-right of a tile.
 
