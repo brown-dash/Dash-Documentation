@@ -67,7 +67,7 @@ The topbar is the topmost section of the interface. It mainly contains global co
 | <img src="../assets/icons/issue-reporter.png" style="height:25px"/> | **Bug Reporter**      | View and report issues with Dash.                                                                                                                                          |
 | <img src="../assets/icons/documentation.png" style="height:25px"/>  | **Documentation**     | Open up the documentation for Dash (this site!)                                                                                                                            |
 | <img src="../assets/icons/settings.png" style="height:25px"/>       | **Settings**          | Manage global settings, including accounts, modes, and appearance.                                                                                                         |
-| <img src="../assets/icons/server-con.png" height="25"/>             | **Server Connection** | If you see a full heart, the server connection is active. Clicking the heart will display active users. If the server connection is lost, the heart will appear as broken. |
+| <img src="../assets/icons/server-con.png" style="height:25px"/>     | **Server Connection** | If you see a full heart, the server connection is active. Clicking the heart will display active users. If the server connection is lost, the heart will appear as broken. |
 
 ## Toolbar
 

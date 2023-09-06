@@ -173,7 +173,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 - Having a structured list view of all the documents of the collection while still seeing live previews of the documents
 - Navigating Dash as a vertical scrolling page
 
-<!-- ### Notetaking
+### **[Notetaking](views/notetaking.md)**
 
 **Description**: multiple scrollable stacks of documents. A multicolumn version of stacking view.
 
@@ -181,7 +181,7 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 - Viewing documents side by side for comparison or note-taking
 - Sorting documents into categories
-- Navigating Dash as a "Trello board" or table -->
+- Navigating Dash as a "Trello board" or table
 
 <!-- ### Masonry
 

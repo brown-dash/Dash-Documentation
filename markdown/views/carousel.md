@@ -4,9 +4,11 @@ title: Carousel
 parent: Views
 nav_exclude: true
 permalink: /Views/carousel/
-nav_order: 4
+nav_order: 5
 ---
+
 # Carousel View
+
 {: .no_toc }
 
 <details open markdown="block">
