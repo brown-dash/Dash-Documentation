@@ -90,7 +90,7 @@ The following editing functions are universal to all document types:
 - **Document chrome**: floating set of tools to change document properties
 
   - Accessed via single selection (left or right click)
-    ![](../assets/images/getting-started/document-chrome.png){:.img}
+    ![](../assets/images/getting-started/document-chrome.png)
 
 - **Properties panel**: panel displaying document type-specific actions
   - Accessed via (A) the double arrows in the top right or (B) the single arrow on the right edge of the screen
@@ -118,6 +118,14 @@ There are three main ways to transform a document: move, resize, and close.
 - **Close**
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
+
+### Viewing Documents
+
+In addition to viewing your documents in the freeform, you can also open documents in an overlay view called `Lightbox View`. To open this view, either `double-click` a document, or click on the green icon at the top-right of the document chrome.
+
+![](../assets/gifs/gettingstarted/dash-lightbox.gif)
+
+Note that you can interact with the document in the same way you would a document in the freeform.
 
 ## **[Views](views/views.md)**
 
@@ -231,7 +239,7 @@ In the link editing section of the properties pane, you can add a link relations
 
 ## **[Annotation and Markup](features/markup.md)**
 
-Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups.
+Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. Note that annotations provide a way to link between `parts` of documents rather than whole documents.
 
 There are several ways to add annotations:
 
@@ -239,15 +247,15 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-annotation-icon.gif){:.img}
 
-- `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears.
+- `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears. This also creates a `link` between the annotation and selected text.
 
-  ![](../assets/gifs/gettingstarted/dash-annotation-highlight.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-pdf-select-annotate.gif){:.img}
 
-- `Search` After highlighting, you can also click the search icon to search for a document to link to.
+- `Search` After highlighting, you can also click the search icon to search for a document to link to. This also creates a `link` between the annotation and selected text.
 
   ![](../assets/gifs/gettingstarted/dash-link-search.gif){:.img}
 
-- `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation.
+- `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation. This also creates a `link` between the annotation and marquee selection.
 
   ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
 
@@ -332,7 +340,7 @@ After creating a trail, a new tab will open up displaying the slides of the trai
 
 To pin any document to the presentation trail simply select a document and use the ‘Pin’ button in the document decorations to add it to the presentation trail. If the user has not yet created a presentation trail, then this button will also create a new presentation trail and add that specific document as the first slide in the trail.
 
-![](../assets/images/trails/regularpin.png){:.img}
+![](../assets/images/trails/regularpin.png)
 
 #### Pin with view:
 
@@ -344,6 +352,12 @@ Pinning with view pins the canvas with the specific pan and zoom you have it set
   ![](../assets/gifs/trails/pinmarqueeview.gif){:.img}
 
 You can customize how the document should be pinned by hovering over the pin icon, allowing you to pin documents while preserving their layout and content. Check out the details on this [here](features/trails.md#other-pinning-options).
+
+#### Reorganizing slides
+
+To reorganize the slides in your trail, simply drag and drop the slides to the order you want.
+
+![](../assets/gifs/gettingstarted/dash-reorganize-slides.gif){:.img}
 
 ### Customization
 
