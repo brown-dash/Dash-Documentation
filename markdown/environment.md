@@ -55,6 +55,28 @@ Permanently pinned on the left. Flyouts can be toggled open & closed by clicking
 | ![](../assets/icons/shared.png){:.icon}  | **Shared**  | This is where documents of dashboards that other users have shared with you will appear. To share a document or dashboard right click and select `Share`.                                                                                      |
 | ![](../assets/icons/trails.png){:.icon}  | **Trails**  | All of the trails that you have created will appear here.                                                                                                                                                                                      |
 
+## Topbar
+
+The topbar is the topmost section of the interface. It mainly contains global controls.
+
+| Icon                                               | Title                 | Description                                                                                                                                                                |
+| :------------------------------------------------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](../assets/icons/home.png){:.icon}              | **Home**              | Return to the main dashboard view.                                                                                                                                         |
+| ![](../assets/icons/expore.png){:.icon}            | **Explore**           | Enter the explore mode, where clicking on a document will center and zoom it into view, allowing you to browse your documents in a view-only mode.                         |
+| ![](../assets/icons/share.png){:.icon}             | **Share**             | Open up the sharing manager to share your dashboard.                                                                                                                       |
+| ![](../assets/icons/issue-reporter.png){:.icon}    | **Bug Reporter**      | View and report issues with Dash.                                                                                                                                          |
+| ![](../assets/icons/documentation.png.png){:.icon} | **Documentation**     | Open up the documentation for Dash (this site!)                                                                                                                            |
+| ![](../assets/icons/settings.png){:.icon}          | **Settings**          | Manage global settings, including accounts, modes, and appearance.                                                                                                         |
+| ![](../assets/icons/server-con.png){:.icon}        | **Server Connection** | If you see a full heart, the server connection is active. Clicking the heart will display active users. If the server connection is lost, the heart will appear as broken. |
+
+## Toolbar
+
+The toolbar is context specific; if the freeform is selected, you'll see controls related to the overall view, and if a document is selected, you'll see controls related to that document type.
+
+![](../assets/images/environment/dash-freeform-toolbar.png)
+
+![](../assets/images/environment/dash-text-toolbar.png)
+
 <!--
 
 #### Dashboards
