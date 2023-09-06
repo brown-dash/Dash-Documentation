@@ -108,11 +108,11 @@ You can create a tab by clicking on the plus at the top right of a tile. You can
 
 To open a document in a new tab, drag the document title bar to the tabs manager, and release.
 
-From there, if you click on the tab manager region, you'll create a new tab in the current tile.
+From there, if you click on the tab manager region, you'll create a new tab in the current [tile](environment.md#what-is-a-tile).
 
 ![](../assets/gifs/environment/dash-drag-tab.gif){:.img}
 
-Otherwise, you can drag the document to the region of the freeform where you want to create a new tile.
+If you want to place the new document tab in a new [tile](environment.md#what-is-a-tile), rather than clicking on the tabs manager, you can instead drag the document to the region of the freeform where you want to create a new tile.
 
 ![](../assets/gifs/environment/dash-drag-tab-tile.gif){:.img}
 
@@ -128,4 +128,12 @@ Tiles can contain multiple tabs, you can drag and drop a tab into a tile such th
 
 To create a new tile with tabs, drag the header of an existing tab to the section of the freeform where you want to create a new tile.
 
-Not sure where to start? Check out our **[Getting Started](getting-started.md)** page!
+![](../assets/gifs/environment/dash-drag-tab-create-tile.gif){:.img}
+
+#### Closing a Tab
+
+To close a tab, click the x icon at the top-right of a tile.
+
+![](../assets/gifs/environment/dash-close-tile.gif){:.img}
+
+Not sure where to go from here? Check out our **[Getting Started](getting-started.md)** page!
