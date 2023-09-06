@@ -257,7 +257,7 @@ In Dash, you can also create links between **parts of documents**. Read the [Ann
 
 ## **[Annotation and Markup](features/markup.md)**
 
-Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. Note that annotations provide a way to link between `parts` of documents rather than whole documents.
+Media documents (eg. PDFs, webpages, images, videos, audio) currently support user annotations and markups. Note that certains ways of annotating provide a way to link between **parts** of documents rather than whole documents.
 
 There are several ways to add annotations:
 
@@ -273,7 +273,9 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-link-search.gif){:.img}
 
-- `Marquee` Clicking and dragging within an image, webpage, PDF, or video (left-click) will create a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to another part of the document or freeform to create the annotation. This also creates a `link` between the annotation and marquee selection.
+- `Marquee` Clicking (left-click) and dragging within an image, webpage, PDF, or video will create a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to another part of the document or freeform to create the annotation. This also creates a `link` between the annotation and marquee selection.
+
+  ![](../assets/gifs/gettingstarted/dash-pdf-marquee-anno.gif){:.img}
 
   ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
 
@@ -283,7 +285,7 @@ There are several ways to add annotations:
 
 - `Embed` Type directly on a media document (This can be done on images, pdfs, webpages, and videos).
 
-  ![](../assets/gifs/gettingstarted/dash-annotation-embed.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-image-text-embed.gif){:.img}
 
 - `Ink` Draw ink strokes directly on a document.
 
