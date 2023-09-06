@@ -279,9 +279,9 @@ There are several ways to add annotations:
 
 - `Marquee` Clicking (left-click) and dragging within an image, webpage, PDF, or video will create a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to another part of the document or freeform to create the annotation. This also creates a `link` between the annotation and marquee selection.
 
-  ![](../assets/gifs/gettingstarted/dash-pdf-marquee-anno.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-pdf-anno-marquee.gif){:.img}
 
-  ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-image-marquee-anno.gif){:.img}
 
 - `Temporal media` On audio and video documents, you can drag a section of the timeline to create an annotation on that time range. You can link other documents to the annotation, and following that link will play that region of the audio or video.
 
