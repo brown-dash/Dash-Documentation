@@ -24,7 +24,9 @@ nav_order: 2
 <iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-When you first open Dash, you will see a home menu for managing your dashboards. From here you can view, delete, and share your dashboards or view dashboards shared with you by others in the "Shared Dashboards" menu. Selecting the "New+" button or the empty dashboard with the + will create a new empty dashboard.
+If you haven't already, sign up for an account and get started at [browndash.com](https://browndash.com/signup).
+
+When you first open Dash, you will see a home menu for managing your dashboards. From here you can view, delete, and share your dashboards or view dashboards shared with you by others in the "Shared Dashboards" menu. Selecting the "New Dashboard+" button or the empty dashboard with the + will create a new empty dashboard.
 
 <div class="img-container">
   <img src="../assets/images/environment/homemenu.png" alt="home menu" style="height:400px;"/>

@@ -357,7 +357,7 @@ Alternatively, you can select the mini-player option from the dropdown to presen
 
 ![](../assets/gifs/gettingstarted/dash-pres-miniplayer.gif){:.img}
 
-## Collaboration
+## **[Collaboration](features/collaboration.md)**
 
 Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:
 
