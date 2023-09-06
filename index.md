@@ -4,11 +4,16 @@
 nav_exclude: true
 layout: home
 ---
+
 ## Welcome to Dash!
 
 For more infomation on joining dash, go to the [joining dash](/Dash-Documentation/joining-dash) page!
 
-**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates. You can find the release notes [here](/Dash-Documentation/release-notes). You can also find video documentation [here](/Dash-Documentation/videos).
+**Welcome to dash documentation!** Here we will keep record of version updates and include all of the relevant feature tutorials and updates.
+
+To learn how to use Dash, check out our [Getting Started](getting-started.md) page. For an overview of the Dash interface, check out our [Overall Environment](environment.md) page.
+
+You can find the release notes [here](/Dash-Documentation/release-notes). You can also find video documentation [here](/Dash-Documentation/videos).
 
 Dash is an **open component-based hypermedia system** that provides what we believe to be a best of breed set of components. While each component can be used in isolation as less full featured versions of an analogous application, Dash allows users to interoperate components and compose their own workflows without losing data or expending effort while switching between tasks. As hypertext allowed users to flexibly move between texts, Dash allows users to flexibly move between tasks. Read more [here...](/Dash-Documentation/about)
 
@@ -20,29 +25,24 @@ And you can find our **experimental release (V0.5.1)** here, note that there is 
 
 [dash-release.com](dash-release.eastus.cloudapp.azure.com:1050/signup){: .btn }
 
-
-
-<!-- TYPESCRIPT CODE BLOCKS  
+<!-- TYPESCRIPT CODE BLOCKS
 ```typescript
 const list = [10, 20];
 console.log(list.map(x => (x * x)))
 ```
 -->
 
- 
 <!-- HOW TO CHANGE COLOR IN MARKDOWN
 <span style="background:aliceblue">some text with a **lightblue** background</span>
 
-<span style="color:red">some **red** text</span> 
+<span style="color:red">some **red** text</span>
 -->
 
 <!-- These are a list of shortcuts available. -->
-*[HTML]: Hyper Text Markup Language
-*[W3C]:  World Wide Web Consortium
-*[NPM]: Node Package Manager
-*[IDE]: Integrated Development Environment
-*[MERN]: MongoDB, Express, React, NodeJS
-*[Yarn]: Yet Another Resource Negotiator
-*[ACLs]: Access Controls
 
-
+_[HTML]: Hyper Text Markup Language
+_[W3C]: World Wide Web Consortium
+_[NPM]: Node Package Manager
+_[IDE]: Integrated Development Environment
+_[MERN]: MongoDB, Express, React, NodeJS
+_[Yarn]: Yet Another Resource Negotiator \*[ACLs]: Access Controls
