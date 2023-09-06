@@ -279,7 +279,7 @@ There are several ways to add annotations:
 
 - `Temporal media` On audio and video documents, you can drag a section of the timeline to create an annotation on that time range. You can link other documents to the annotation, and following that link will play that region of the audio or video.
 
-  ![](../assets/gifs/gettingstarted/dash-temporal-link.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-audio-anno.gif){:.img}
 
 - `Embed` Type directly on a media document (This can be done on images, pdfs, webpages, and videos).
 
