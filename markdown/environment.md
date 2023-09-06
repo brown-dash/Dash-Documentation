@@ -84,22 +84,48 @@ Sharing
 
 ### What is a Dashboard?
 
-A particular layout of tabs is called a dashboard. A dashboard can consist of one or more tabs. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately. When you first log into Dash you will be placed in Dashboard 1 which is clearly in the topbar.
+A particular layout of tabs is called a dashboard. A dashboard can consist of one or more tabs. A user can have multiple dashboards to support different workflows. For example, one to collect a photo album, and another to take notes during class. Although documents can be linked and moved between dashboards, they are primarily designed to operate seperately.
 
-#### Modifying Dashboards
+#### Managing Dashboards
 
-The home menu allows you to view and manage your dashboards. From here you can create new dashboards as well as rename or share existing ones by right clicking on them.
+The home menu allows you to view and manage your dashboards. From here you can create new dashboards, share existing ones, and delete dashboards.
 
-<div class="img-container">
+![](../assets/gifs/environment/dash-managing.gif){:.img}
+
+<!-- <div class="img-container">
   <img src="../assets/gifs/environment/new-dashboard.gif" alt="new dashboard" style="height:300px;"/>
-</div>
+</div> -->
 
 ### What is a tab?
 
-We display dash documents in the window manager with tabs. A tab can contain any document in dash. In your dashboard, tabs are organised into `Off-screen tabs` and `On-screen tabs`.
+We display dash documents in the window manager with tabs. This is similar to a browser tab. A tab can contain any document in dash.
+
+#### Creating/Deleting Tabs
+
+You can create a tab by clicking on the plus at the top right of a tile. You can delete a tab by clicking on the x icon of each tab.
+
+![](../assets/gifs/environment/dash-create-delete-tab.gif){:.img}
+
+To open a document in a new tab, drag the document title bar to the tabs manager, and release.
+
+From there, if you click on the tab manager region, you'll create a new tab in the current tile.
+
+![](../assets/gifs/environment/dash-drag-tab.gif){:.img}
+
+Otherwise, you can drag the document to the region of the freeform where you want to create a new tile.
+
+![](../assets/gifs/environment/dash-drag-tab-tile.gif){:.img}
+
+To drag a document tab back into another tab, drag the document icon on the tab header back into the main tab.
+
+![](../assets/gifs/environment/dash-drag-tab-back.gif){:.img}
 
 ### What is a tile?
 
 Tiles can contain multiple tabs, you can drag and drop a tab into a tile such that you have multiple tabs in the same way that a browser like Chrome has multiple tabs.
+
+#### Creating a Tile
+
+To create a new tile with tabs, drag the header of an existing tab to the section of the freeform where you want to create a new tile.
 
 Not sure where to start? Check out our **[Getting Started](getting-started.md)** page!
