@@ -26,7 +26,7 @@ nav_order: 2
 
 If you haven't already, sign up for an account and get started at [browndash.com](https://browndash.com/signup).
 
-When you first open Dash, you will see a home menu for managing your dashboards. From here you can view, delete, and share your dashboards or view dashboards shared with you by others in the "Shared Dashboards" menu. Selecting the "New Dashboard+" button or the empty dashboard with the + will create a new empty dashboard.
+When you first open Dash, you will see a home menu for managing your dashboards. From here you can view, delete, and share your dashboards or view dashboards shared with you by others in the "Shared Dashboards" menu. Selecting the "+ New Dashboard" button or the empty dashboard with the + will create a new empty dashboard.
 
 <div class="img-container">
   <img src="../assets/images/environment/homemenu.png" alt="home menu" style="height:400px;"/>
@@ -34,9 +34,7 @@ When you first open Dash, you will see a home menu for managing your dashboards.
 
 The first view in a new dashboard is an empty pannable freeform canvas, one of many views that Dash supports. The freeform view is a pannable and zoomable freeform unbounded 2D canvas where the majority of Dash's workflow takes place. It is surround by toolbars and panels which we will go over below.
 
-<div class="img-container">
-  <img src="../assets/images/environment/overview.png" alt="dashboard environment" style="height:400px;"/>
-</div>
+![](../assets/images/environment/dash-labeled-interface.png)
 
 ## Menu Panel
 
@@ -138,7 +136,7 @@ To close a tab, click the x icon at the top-right of a tile.
 
 ### Reporting Bugs
 
-Dash is constantly developing and trying out new features and interfaces. Bugs and issues exist, and we need your help to catch them! To report issues and bugs, please click on the bug icon in the top bar, where you can view open issues, and report any issues that you find. Feel free to also suggest new features here!
+Dash is constantly developing and trying out new features and interfaces. Bugs and issues exist, and we need your help to catch them! To report issues and bugs, please click on the bug icon in the **topbar**, where you can view open issues, and report any issues that you find. Feel free to also suggest new features here!
 
 ![](../assets/gifs/environment/dash-report.gif){:.img}
 
