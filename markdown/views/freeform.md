@@ -24,10 +24,10 @@ nav_order: 1
 
 ## Description:
 
-Unbounded 2D space in the form of a canvas. This is Dash's primary view
+Unbounded 2D space in the form of a canvas. This is Dash's primary view.
 
 ## Good for:
 
-User-driven spatial organization and layout of documents
-Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking
-Gaining “raw” views of documents to get a sense of their individual layouts
+- User-driven spatial organization and document layouts
+- Visualizing document relationships, e.g., neighborhoods/clusters of related materials, nesting, and linking
+- “Raw” document views to get a sense of individual layouts
