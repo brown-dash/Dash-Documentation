@@ -59,15 +59,15 @@ Permanently pinned on the left. Flyouts can be toggled open & closed by clicking
 
 The topbar is the topmost section of the interface. It mainly contains global controls.
 
-| Icon                                                        | Title                 | Description                                                                                                                                                                |
-| :---------------------------------------------------------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../assets/icons/home.png" height="25"/>           | **Home**              | Return to the main dashboard view.                                                                                                                                         |
-| <img src="../assets/icons/expore.png" height="25"/>         | **Explore**           | Enter the explore mode, where clicking on a document will center and zoom it into view, allowing you to browse your documents in a view-only mode.                         |
-| <img src="../assets/icons/share.png" height="25"/>          | **Share**             | Open up the sharing manager to share your dashboard.                                                                                                                       |
-| <img src="../assets/icons/issue-reporter.png" height="25"/> | **Bug Reporter**      | View and report issues with Dash.                                                                                                                                          |
-| <img src="../assets/icons/documentation.png" height="25"/>  | **Documentation**     | Open up the documentation for Dash (this site!)                                                                                                                            |
-| <img src="../assets/icons/settings.png" height="25"/>       | **Settings**          | Manage global settings, including accounts, modes, and appearance.                                                                                                         |
-| <img src="../assets/icons/server-con.png" height="25"/>     | **Server Connection** | If you see a full heart, the server connection is active. Clicking the heart will display active users. If the server connection is lost, the heart will appear as broken. |
+| Icon                                                                | Title                 | Description                                                                                                                                                                |
+| :------------------------------------------------------------------ | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="../assets/icons/home.png" style="height:25px"/>           | **Home**              | Return to the main dashboard view.                                                                                                                                         |
+| <img src="../assets/icons/expore.png" style="height:25px"/>         | **Explore**           | Enter the explore mode, where clicking on a document will center and zoom it into view, allowing you to browse your documents in a view-only mode.                         |
+| <img src="../assets/icons/share.png" style="height:25px"/>          | **Share**             | Open up the sharing manager to share your dashboard.                                                                                                                       |
+| <img src="../assets/icons/issue-reporter.png" style="height:25px"/> | **Bug Reporter**      | View and report issues with Dash.                                                                                                                                          |
+| <img src="../assets/icons/documentation.png" style="height:25px"/>  | **Documentation**     | Open up the documentation for Dash (this site!)                                                                                                                            |
+| <img src="../assets/icons/settings.png" style="height:25px"/>       | **Settings**          | Manage global settings, including accounts, modes, and appearance.                                                                                                         |
+| <img src="../assets/icons/server-con.png" height="25"/>             | **Server Connection** | If you see a full heart, the server connection is active. Clicking the heart will display active users. If the server connection is lost, the heart will appear as broken. |
 
 ## Toolbar
 
