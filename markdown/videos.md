@@ -6,6 +6,7 @@ nav_order: 7
 ---
 
 # Videos
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,12 +16,11 @@ nav_order: 7
 {:toc}
 </details>
 
-This is a collection of all of the videos included in this documentation. 
+This is a collection of all of the videos included in this documentation. While the interface may be out of date in the videos, the same concepts and functionalities still apply to the current version of Dash!
 
 ## Welcome to Dash!
 
-An introduction to the overall environment. To find out more about the overall environment you can go [here](/environment).
-
+An introduction to the overall environment. To find out more about the overall environment you can go [here](environment.md).
 
 <div class="video">
 <iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
@@ -44,22 +44,19 @@ How to create and import documents into Dash.
 
 ## Selecting Documents
 
-How to select documents in Dash. 
+How to select documents in Dash.
 
 <div class="video">
 <iframe src="https://drive.google.com/file/d/1P0oC6gUnRs79GWN3buydguY3kmRsZP9A/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-
 ## Editing Documents
 
-How to edit documents in Dash. 
+How to edit documents in Dash.
 
 <div class="video">
 <iframe src="https://drive.google.com/file/d/1lyXau8RXxV2BZN22qymJwJvIgcmCsRle/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
-
-
 
 ## Types of Documents
 
@@ -69,10 +66,9 @@ The different types of documents in Dash.
 <iframe src="https://drive.google.com/file/d/1paYEDlKFfr_8fLEEjrXtY6tB5CJMCz0T/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-
 ## Views
 
-An introduction to the 3 basic views available in Dash. 
+An introduction to the 3 basic views available in Dash.
 
 <div class="video">
 <iframe src="https://drive.google.com/file/d/1aepMLRz9_oGsYTG1ZY8n1uJDqL8bX3IX/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
@@ -86,17 +82,13 @@ How to add additional documents within other documents.
 <iframe src="https://drive.google.com/file/d/1ZF8gPqxPnXMmBHabPQs5DjGiJ0YspUMY/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-
-
 ## Search
 
-How to search for any document within your dashboard. 
+How to search for any document within your dashboard.
 
 <div class="video">
 <iframe src="https://drive.google.com/file/d/1ii3ri9fx2R8fpqKaZMdC5pg9herw_te3/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
-
-
 
 ## Filters
 
