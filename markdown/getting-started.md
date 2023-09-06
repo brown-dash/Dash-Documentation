@@ -121,7 +121,7 @@ There are three main ways to transform a document: move, resize, and close.
 
 ### Viewing Documents
 
-In addition to viewing your documents in the freeform, you can also open documents in an overlay view called `Lightbox View`. To open this view, either `double-click` a document, or click on the green icon at the top-right of the document chrome.
+In addition to viewing your documents in the freeform, you can also open documents in an overlay view called **Lightbox View**. To open this view, either **double-click** a document, or click on the green icon at the top-right of the document chrome.
 
 ![](../assets/gifs/gettingstarted/dash-lightbox.gif)
 
@@ -196,6 +196,8 @@ Views represent various ways to visualize a collection. Users can toggle differe
 
 A link is a bidirectional reference from one document to another. The link itself is also a document, so we can add tags and key-value pairs to it. The same source selection (aka anchor) can link to multiple destinations, which range from an entire document to a portion of a document (eg. an annotation in a PDF, highlighted phrase in text, etc.)
 
+For examples on linking between **parts** of documents, check out the [Annotation and Markup](getting-started.md#annotation-and-markup) section below.
+
 ### Creating links
 
 There are two ways to create links: drag and drop or linkboard.
@@ -207,7 +209,7 @@ Drag and drop creates a 1:1 link between documents that both appear on the scree
 
 Once a document is created, two messages will appear: one confirming successful link creation, and another prompting users for an optional link label. Labels may be modified later thorugh the link menu. The document will then display a number displaying the number of links it contains.
 
-![](../assets/gifs/gettingstarted/dash-drag-drop-link.gif){:.img}
+![](../assets/gifs/gettingstarted/dash-creating-link.gif){:.img}
 
 Linkboards function as a clipboard: they "copy" source documents to the linkboard until they are cleared or linked to another source. This is convenient for creating multiple links with the same source and/or creating links while maintaining another workflow.
 
@@ -218,9 +220,23 @@ Linkboards function as a clipboard: they "copy" source documents to the linkboar
 
 ![](../assets/gifs/gettingstarted/dash-create-link-board.gif){:.img}
 
+### Following links
+
+Once a link is created, a blue dot will appear in the document's bottom left corner both when you hover over the document and click on the document. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to.
+
+Selecting an item from the list will follow the link from source to destination.
+
+The default following behavior is to pan the freeform so that the destination document is in view (if it isn't already) and highlight it in orange. You can customize the link following behavior and more in the [link editing](getting-started.md#editing-links) section of the properties menu.
+
+![](../assets/gifs/gettingstarted/dash-following-link.gif){:.img}
+
+If you toggle the hand pointing right icon on, clicking on the document will now follow the first linked document.
+
+![](../assets/gifs/gettingstarted/dash-follow-link-onclick.gif){:.img}
+
 ### Editing links
 
-Once a link is created, a blue dot will appear in the document's bottom left corner. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to. Clicking the pencil icon to the left will open up the properties pane on the right, where you can edit the link.
+Once a link is created, a blue dot will appear in the document's bottom left corner both when you hover over the document and click on the document. The number represents the number of links on the document. Clicking on the dot displays all links in a list; hovering over each list item shows a preview of the document it links to. Clicking the pencil icon to the left will open up the properties pane on the right, where you can edit the link.
 
 ![](../assets/gifs/gettingstarted/dash-edit-link.gif){:.img}
 
@@ -236,6 +252,8 @@ In the link editing section of the properties pane, you can add a link relations
 - Move/freeze dot: toggles the user's ability to reposition anchor dots.
 - Edit link: opens a modal for editing link descriptions, relationships, and follow behavior.
 - Delete link: removes the selected link. -->
+
+In Dash, you can also create links between **parts of documents**. Read the [Annotation and Markup](getting-started.md#annotation-and-markup) section below for examples of how to do this!
 
 ## **[Annotation and Markup](features/markup.md)**
 
@@ -255,9 +273,13 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-link-search.gif){:.img}
 
-- `Marquee` Clicking and dragging within an image, webpage, PDF, or video will display a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to create the annotation. This also creates a `link` between the annotation and marquee selection.
+- `Marquee` Clicking and dragging within an image, webpage, PDF, or video (left-click) will create a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to another part of the document or freeform to create the annotation. This also creates a `link` between the annotation and marquee selection.
 
   ![](../assets/gifs/gettingstarted/dash-annotation-marquee.gif){:.img}
+
+- `Temporal media` On audio and video documents, you can drag a section of the timeline to create an annotation on that time range. You can link other documents to the annotation, and following that link will play that region of the audio or video.
+
+  ![](../assets/gifs/gettingstarted/dash-temporal-link.gif){:.img}
 
 - `Embed` Type directly on a media document (This can be done on images, pdfs, webpages, and videos).
 
