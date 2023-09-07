@@ -34,8 +34,8 @@ Audio documents can be created by:
 
 ### Pre-Recording
 
-- **Record:** Pressing the black record button on a new empty audio document begins a recording
-- **Dictation:** Selecting the grey transcript button before beginning the recording creates a text document that transcribes what you say after you begin recording.
+- **Record:** Pressing the white microphone with record on a new empty audio document begins a recording
+- **Dictation:** Selecting the grey transcript button on the left before beginning the recording creates a text document that transcribes what you say after you begin recording.
 
 ![](../../../assets/gifs/audio/audiocreaterecord.gif){:.img}
 
@@ -51,7 +51,8 @@ Audio documents can be created by:
 ### Post-Recording
 
 - **Pause/Play:** This button pauses or plays the audio document from the current time indicated by the red line on the timeline and the timestamp in the bottom left corner.
-- **Trimming:** Clicking the scissor icon displays the trim controls. Dragging either of the handles at the end of the timeline will change the range the clip is being trimmed to. Double clicking either handle will reset it to the start or end of the clip. Pressing the play button while trimming will preview the trimmed range. Selecting the check icon will finish the trim and display the new altered clip. Trimming is not destructive so a shortened clip can always be lengthened again up to its original duration. Markers that are cut off by trimming a clip will be cut down to the portion that remains in the range of the new clip. If a marker is entirely out of range it will no longer play. Lengthening the clip again will increase the marker up to its initial length.
+- **Trimming:** Clicking the scissor icon displays the trim controls. Dragging either of the handles at the end of the timeline will change the range the clip is being trimmed to. Double clicking either handle will reset it to the start or end of the clip. Pressing the play button while trimming will preview the trimmed range. Selecting the check icon will finish the trim and display the new altered clip. Trimming is  destructive so a shortened clip cannot  be lengthened again up to its original duration. Markers that are cut off by trimming a clip will be cut down to the portion that remains in the range of the new clip. If a marker is entirely out of range it will no longer play. Lengthening the clip again will increase the marker up to its initial length.
+[comment]: <> trimming used to not be destructive
 
 ![](../../../assets/gifs/audio/audiotrimming.gif){:.img}
 
