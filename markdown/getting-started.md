@@ -269,13 +269,13 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-annotation-icon.gif){:.img}
 
-- `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears. This also creates a `link` between the annotation and selected text.
+- `Highlight` For text, pdfs, and webpages, you can highlight a piece of text and select the annotation icon that appears. This also creates a `link` between the annotation and selected text. Following the link from annotation to selected text will scroll the selection into view. Clicking on the selected text will follow the link and scroll the annotation into view.
 
-  ![](../assets/gifs/gettingstarted/dash-pdf-select-annotate.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-highlight-anno.gif){:.img}
 
-- `Search` After highlighting, you can also click the search icon to search for a document to link to. This also creates a `link` between the annotation and selected text.
+- `Search` After highlighting, you can also click the search icon to search for a document to link to.
 
-  ![](../assets/gifs/gettingstarted/dash-link-search.gif){:.img}
+  ![](../assets/gifs/gettingstarted/dash-search-anno.gif){:.img}
 
 - `Marquee` Clicking (left-click) and dragging within an image, webpage, PDF, or video will create a rectangular marquee selection, allowing you to highlight the selected region and create an annotation associated with it. For webpages and pdfs, you can simply click the annotation icon to add an annotation. For other media types, you'll need to drag the annotation icon to another part of the document or freeform to create the annotation. This also creates a `link` between the annotation and marquee selection.
 
