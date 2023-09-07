@@ -113,8 +113,6 @@ There are three main ways to transform a document: move, resize, and close.
 - **Resize**
   - **Size**: click and drag the corner handles in the border chrome.
   - **Border radius**: click and drag the small circle in the bottom right corner of the border chrome.
-  <!-- - **Open in a new tab or tile**
-  - Click on the rightmost “open in a new tile” icon in the header chrome to open a full view of the document in a new tile (defaults to alias). -->
 - **Close**
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
