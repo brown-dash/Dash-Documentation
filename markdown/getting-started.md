@@ -348,11 +348,11 @@ Presentation trails allow the user to navigate through documents in a predefined
 
 There are two ways to create a trail:
 
-1. Creating a new trail from the trails panel on the left sidebar.
+- Creating a new trail from the trails panel on the left sidebar.
 
 ![](../assets/gifs/gettingstarted/dash-create-trail-side.gif){:.img}
 
-2. Pinning a document or a view.
+- Pinning a document or a view.
 
 ![](../assets/gifs/gettingstarted/dash-pin-doc.gif){:.img}
 
