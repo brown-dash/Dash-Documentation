@@ -28,11 +28,13 @@ For an overview of the Dash interface, check out the **[Overall Environment page
 
 There are multiple ways that you can create documents in Dash. The essential ways are as follows:
 
+- **Begin Typing** to create a text document, simply click anywhere on the freeform and begin typing!
+  ![](../assets/gifs/gettingstarted/dash-create-text.gif){:.img}
 - **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard. This includes images, videos, audio, pdfs, and more!
   ![](../assets/gifs/gettingstarted/dash-drag-drop.gif){:.img}
 - **Import**: import using the import menu on the left hand side
   ![](../assets/gifs/gettingstarted/dash-import.gif){:.img}
-- **Begin typing `:`** to bring up the document menu, from which you can create a document. If you are in Stacking or Schema view, you can click on `+ New`, and type a colon to open the colon menu.
+- **Type `:`** to bring up the document menu, from which you can choose a document to create. You can search for a specific document as well. If you are in Stacking or Schema view, you can click on `+ New`, and type a colon to open the colon menu.
   ![](../assets/gifs/gettingstarted/dash-colon-menu.gif){:.img}
 
 <!-- <div class="img-container">
