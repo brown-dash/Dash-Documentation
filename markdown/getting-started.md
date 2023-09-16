@@ -379,7 +379,13 @@ Pinning with view pins the canvas with the specific pan and zoom you have it set
 - **Marquee menu:** this option appears when you right click and drag on the canvas to create a marquee selection and pins the canvas with the marquee bounds as the viewport
   ![](../assets/gifs/trails/pinmarqueeview.gif){:.img}
 
-You can customize how the document should be pinned by hovering over the pin icon, allowing you to pin documents while preserving their layout and content. Check out the details on this [here](features/trails.md#other-pinning-options).
+You can customize how the document should be pinned by hovering over the pin icon, allowing you to pin documents while preserving their layout and content.
+
+This, combined with the ability to **group** slides (allows multiple slides to play **together**) can produce cool results like this:
+
+![](../assets/gifs/gettingstarted/dash-pres-layout-content-grouping.gif){:.img}
+
+Check out the details on how to pin with layout and content [here](features/trails.md#other-pinning-options), and how to group slides [here](features/trails.md#slides).
 
 #### Reorganizing slides
 
