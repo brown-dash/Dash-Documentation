@@ -24,9 +24,9 @@ If you haven't already, sign up for an account and get started at [browndash.com
 
 For an overview of the Dash interface, check out the **[Overall Environment page](environment.md)**, which will introduce you to how to navigate and organize your Dashboards.
 
-## Import and Content Creation
+## Creating Documents
 
-There are multiple ways that you can import into Dash. The essential ways are as follows:
+There are multiple ways that you can create documents in Dash. The essential ways are as follows:
 
 - **Drag and drop**: drag any of the accepted file types from your computer or a webpage and drop it into your dashboard. This includes images, videos, audio, pdfs, and more!
   ![](../assets/gifs/gettingstarted/dash-drag-drop.gif){:.img}

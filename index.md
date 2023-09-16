@@ -40,9 +40,9 @@ console.log(list.map(x => (x * x)))
 
 <!-- These are a list of shortcuts available. -->
 
-_[HTML]: Hyper Text Markup Language
+<!-- _[HTML]: Hyper Text Markup Language
 _[W3C]: World Wide Web Consortium
 _[NPM]: Node Package Manager
 _[IDE]: Integrated Development Environment
 _[MERN]: MongoDB, Express, React, NodeJS
-_[Yarn]: Yet Another Resource Negotiator \*[ACLs]: Access Controls
+_[Yarn]: Yet Another Resource Negotiator \*[ACLs]: Access Controls -->
