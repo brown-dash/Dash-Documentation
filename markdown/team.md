@@ -13,38 +13,38 @@ nav_order: 9
 - Rosemary Simpson
 
 ## Current Students
-- Mehek Jethani
-- Emily Perelman
-- Sarah Richman
-- Sophie Zhang
 - James Hu
 - Eric Ma
+- Emily Perelman
+- Sarah Richman
 - Jesus Rodriguez
+- Sophie Zhang
 
 ## Past Students
-- Anh Truong
-- En-Hua Holtz
+- Anika Ahluwalia
+- Naafiyan Ahmed
 - Ashley Cai
+- Brynn Chernosky
+- Lauren Choi
+- Michael Foiani
+- Trent Green
+- David Grossman
+- Lionel Han
+- Yuna Hiraide
+- En-Hua Holtz
+- Mehek Jethani
 - Victor Kalev
 - Aubrey (Yueshan) Li
-- David Grossman
-- Lauren Choi
+- Vivian Li
 - Parker Ljung
-- Udayveer Sodhi
-- Anika Ahluwalia
-- Yuna Hiraide
-- Lionel Han
 - Andrew Rickert
+- Geireann Lindfield Roberts
+- Tyler Schicke
+- Udayveer Sodhi
+- Anh Truong
 - Samuel Wilkins
 - Stanley Yip
-- Trent Green
-- Tyler Schicke
-- Naafiyan Ahmed
 - Jenny Yu
-- Vivian Li
-- Geireann Lindfield Roberts
-- Michael Foiani
-- Brynn Chernosky
 
 
 

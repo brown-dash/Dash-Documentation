@@ -21,9 +21,9 @@ You can signup for our **stable release (V0.5)** by clicking on the following bu
 
 [browndash.com](https://browndash.com/signup){: .btn }
 
-And you can find our **experimental release (V0.5.1)** here, note that there is no guarentee of permanence on this release:
+<!-- And you can find our **experimental release (V0.5.1)** here, note that there is no guarentee of permanence on this release:
 
-[dash-release.com](dash-release.eastus.cloudapp.azure.com:1050/signup){: .btn }
+[dash-release.com](dash-release.eastus.cloudapp.azure.com:1050/signup){: .btn } -->
 
 <!-- TYPESCRIPT CODE BLOCKS
 ```typescript
