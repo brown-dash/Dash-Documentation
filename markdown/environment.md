@@ -20,9 +20,9 @@ nav_order: 2
 
 ## Welcome to Dash!
 
-<div class="video">
+<!-- <div class="video">
 <iframe src="https://drive.google.com/file/d/1hzoaU-VZBnIk1y4aOYQkbuCobunOCMd6/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
-</div>
+</div> -->
 
 If you haven't already, sign up for an account and get started at [browndash.com](https://browndash.com/signup).
 
@@ -49,7 +49,7 @@ Permanently pinned on the left. Flyouts can be toggled open & closed by clicking
 | Icon                                     | Title       | Description                                                                                                                                                                                                                                    |
 | :--------------------------------------- | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](../assets/icons/search.png){:.icon}  | **Search**  | Search for any documents within the currently selected Dashboard. The dropdown panel can be used to filter the search results by the type of document. In addition to clicking the search icon, Ctrl+F also toggles this flyout open & closed. |
-| ![](../assets/icons/files.png){:.icon}   | **Files**   | This is your file manager where you can create folders to keep track of documents independently of your dashboard. You can also view [recently closed](getting-started.md#transforming-documents) documents.                                                                                 |
+| ![](../assets/icons/files.png){:.icon}   | **Files**   | This is your file manager where you can create folders to keep track of documents independently of your dashboard. You can also view [recently closed](getting-started.md#transforming-documents) documents.                                   |
 | ![](../assets/icons/tools.png){:.icon}   | **Tools**   | Tools provides an alternative way to create certain types of documents, including maps, audio, and notes.                                                                                                                                      |
 | ![](../assets/icons/imports.png){:.icon} | **Imports** | This is where documents that are imported into Dash will go.                                                                                                                                                                                   |
 | ![](../assets/icons/shared.png){:.icon}  | **Shared**  | This is where documents of dashboards that other users have shared with you will appear. To share a document or dashboard right click and select `Share`.                                                                                      |
@@ -100,7 +100,7 @@ Sharing
 
 ## Dashboards, Tiles & Tabs
 
-<iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1-LDsG36vURzBNGueNkX7xZVpY4Wflf5v/preview" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe> -->
 
 ### What is a Dashboard?
 
