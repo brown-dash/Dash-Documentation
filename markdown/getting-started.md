@@ -118,6 +118,8 @@ There are three main ways to transform a document: move, resize, and close.
 - **Close**
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
+  - All recently closed documents can be accessed through the "My Recently Closed" section in the files portion of the left side-bar. From here, closed documents can be viewed or dragged back onto the canvas.
+    ![](../assets/gifs/gettingstarted/recently-closed.gif){:.img}
 
 ### Viewing Documents
 
