@@ -414,7 +414,7 @@ Alternatively, you can select the mini-player option from the dropdown to presen
 
 ![](../assets/gifs/gettingstarted/dash-pres-miniplayer.gif){:.img}
 
-## **[Collaboration](features/collaboration.md)**
+<!-- ## **[Collaboration](features/collaboration.md)**
 
 Dash documents can be shared with individuals, groups of individuals, or a combination of both. Users may assign four types of document access rights:
 
@@ -433,6 +433,14 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 3. Enter a group name and add group members (or leave that field empty for an empty group). Click on Create to create the group.
 4. Click on the blue _i_ to view or edit group members. You can add or remove members or delete the group from this menu.
 
-![](../assets/gifs/gettingstarted/sharing.gif){:.img}
+![](../assets/gifs/gettingstarted/sharing.gif){:.img} -->
+
+### Important Notes
+- Closing a document does not delete the links attached to it. Following a link to a closed document 
+will reopen the document in a new tab. Alternatively, links can be deleted from either the links menu 
+of a document they are attached to or from the properties menu on the right side.
+- The undo/redo stack in the bottom left of the canvas will turn yellow if it is not working properly. 
+This will occur while in the middle of an action, but if it remains yellow, the simplest fix is 
+to refresh your browser.
 
 Unsure of how to navigate the overall Dash interface? Check out the **[Overall Environment page](environment.md)**.

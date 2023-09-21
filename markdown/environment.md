@@ -156,6 +156,13 @@ To close a tab, click the x icon at the top-right of a tile.
 
 ![](../assets/gifs/environment/dash-close-tile.gif){:.img}
 
+#### Undo / Redo
+
+The undo / redo arrows in the bottom left corner of the canvas allow for undoing and redoing actions. Clicking on the stack will show
+past actions, and clicking on one of these lines brings back the action. 
+
+![](../assets/gifs/environment/undo-redo.gif){:.img}
+
 ### Reporting Bugs
 
 Dash is constantly developing and trying out new features and interfaces. Bugs and issues exist, and we need your help to catch them! To report issues and bugs, please click on the bug icon in the **topbar**, where you can view open issues, and report any issues that you find. Feel free to also suggest new features here!
