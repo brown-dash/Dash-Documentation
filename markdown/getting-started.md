@@ -435,7 +435,7 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img} -->
 
-### Important Notes
+## Important Notes
 - Closing a document does not delete the links attached to it. Following a link to a closed document 
 will reopen the document in a new tab. Alternatively, links can be deleted from either the links menu 
 of a document they are attached to or from the properties menu on the right side.

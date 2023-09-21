@@ -156,11 +156,14 @@ To close a tab, click the x icon at the top-right of a tile.
 
 ![](../assets/gifs/environment/dash-close-tile.gif){:.img}
 
-#### Undo / Redo
+### Undo / Redo
 
 The undo / redo arrows in the bottom left corner of the canvas allow for undoing and redoing actions. Clicking on the stack will show
 past actions, and clicking on one of these lines brings back the action. 
 
+<div class="img-container">
+  <img src="../assets/images/environment/undo-redo.png" alt="home menu" style="height:35px;"/>
+</div>
 ![](../assets/gifs/environment/undo-redo.gif){:.img}
 
 ### Reporting Bugs
