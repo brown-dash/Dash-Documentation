@@ -116,10 +116,11 @@ There are three main ways to transform a document: move, resize, and close.
   - **Size**: click and drag the corner handles in the border chrome.
   - **Border radius**: click and drag the small circle in the bottom right corner of the border chrome.
 - **Close**
+
   - **Selected documents**: click on the leftmost “x” icon in the header chrome to close the document. Alternatively, click on the trash icon under the “actions” subpanel of the properties panel to close the document.
   - **Unselected documents**: right-click anywhere in the document to bring up the right-click menu, then click “close”.
   - All recently closed documents can be accessed through the "My Recently Closed" section in the files portion of the left side-bar. From here, closed documents can be viewed or dragged back onto the canvas.
-  
+
     ![](../assets/gifs/gettingstarted/recently-closed.gif){:.img}
 
 ### Viewing Documents
@@ -286,6 +287,10 @@ There are several ways to add annotations:
 
   ![](../assets/gifs/gettingstarted/dash-image-marquee-anno.gif){:.img}
 
+- `Selection to Another Document` To create a link from a selection on a document to another document, first perform the selection (usually left-click and dragging). Then, navigate to the bottom toolbar of the overall document, and drag the link icon to the document you want to link to (create a normal link). Because the selection persists on the source document, the **selection** will be linked rather than the whole document.
+
+  ![](../assets/gifs/gettingstarted/dash-link-annotation-document.gif){:.img}
+
 - `Temporal media` On audio and video documents, you can drag a section of the timeline to create an annotation on that time range. You can link other documents to the annotation, and following that link will play that region of the audio or video.
 
   ![](../assets/gifs/gettingstarted/dash-audio-anno.gif){:.img}
@@ -436,11 +441,12 @@ Dash documents can be shared with individuals, groups of individuals, or a combi
 ![](../assets/gifs/gettingstarted/sharing.gif){:.img} -->
 
 ## Important Notes
-- Closing a document does not delete the links attached to it. Following a link to a closed document 
-will reopen the document in a new tab. Alternatively, links can be deleted from either the links menu 
-of a document they are attached to or from the properties menu on the right side.
-- The undo/redo stack in the bottom left of the canvas will turn yellow if it is not working properly. 
-This will occur while in the middle of an action, but if it remains yellow, the simplest fix is 
-to refresh your browser.
+
+- Closing a document does not delete the links attached to it. Following a link to a closed document
+  will reopen the document in a new tab. Alternatively, links can be deleted from either the links menu
+  of a document they are attached to or from the properties menu on the right side.
+- The undo/redo stack in the bottom left of the canvas will turn yellow if it is not working properly.
+  This will occur while in the middle of an action, but if it remains yellow, the simplest fix is
+  to refresh your browser.
 
 Unsure of how to navigate the overall Dash interface? Check out the **[Overall Environment page](environment.md)**.
