@@ -41,15 +41,37 @@ Below are examples of use cases that the Dash team created within the applicatio
 
 ## Use Cases from CS1951V
 
-Below are example use cases from [CS1951V](http://cs.brown.edu/courses/csci1951-v/), in which Dash was used in Fall 2021:
+Below are example use cases from [CS1951V](http://cs.brown.edu/courses/csci1951-v/), a hypertext course at Brown where Dash is used.
 
-### Domestic Jungle (Plant Corpus) by Mikey Abela
+### Fall 2023
+
+#### Virtual Wellness Retreat
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/jbrBC8QdjLI" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+#### A Cappella Arranging
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/Wu2x3dSE8Gw" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+#### Tour of Singapore
+
+<div class="video">
+  <iframe src="https://www.youtube.com/embed/sCmRkN4hpNg" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
+### Fall 2021
+
+#### Domestic Jungle (Plant Corpus) by Mikey Abela
 
 <div class="video">
   <iframe src="https://www.youtube.com/embed/qE2A5PKJQe0" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 </div>
 
-### Antoni Gaudi by Adwith Mukherjee
+#### Antoni Gaudi by Adwith Mukherjee
 
 <div class="video">
   <iframe src="https://youtube.com/embed/sy_YtdTpKSo" width="640" height="400" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
