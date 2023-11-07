@@ -23,6 +23,14 @@ Dash supports spatial and visual layouts of all those documents into what we cal
 
 Dash is built by Andries van Dam’s research group at Brown University in Providence, Rhode Island. It is available online at [browndash.com](https://browndash.com/signup).
 
+## Dash Architecture
+
+Interested in learning about how Dash is structured under the hood? Check out [this page](https://hackmd.io/@CS1951V-2023/DashArchitecture) on the architecture of Dash!
+
+<div class="img-container">
+  <img src="../assets/images/dash-doc-representation.png" alt="overall environment" style="height:200px; textAlign:center;"/>
+</div>
+
 ## Use Cases by the Dash Team
 
 Below are examples of use cases that the Dash team created within the application:
