@@ -13,11 +13,12 @@ nav_order: 9
 - Rosemary Simpson
 
 ## Current Students
-- James Hu
+- Alina Kim
 - Eric Ma
 - Emily Perelman
 - Sarah Richman
 - Jesus Rodriguez
+- Zaul Tavangar
 - Sophie Zhang
 
 ## Past Students
@@ -32,6 +33,7 @@ nav_order: 9
 - Lionel Han
 - Yuna Hiraide
 - En-Hua Holtz
+- James Hu
 - Mehek Jethani
 - Victor Kalev
 - Aubrey (Yueshan) Li
