@@ -14,7 +14,7 @@ nav_order: 9
 
 ## Current Students
 
-![](../assets/images/team/alina.jpeg) **Alina Kim** | ![](../assets/images/team/eric.jpeg) **Eric Ma** | ![](../assets/images/team/emily.jpeg) **Emily Perelman** | 
+![](../assets/images/team/alina.jpeg) Alina Kim | ![](../assets/images/team/eric.jpeg) Eric Ma | ![](../assets/images/team/emily.jpeg) Emily Perelman | 
 | :- | :- | :- | 
 ![](../assets/images/team/sarah.jpeg) **Sarah Richman** | ![](../assets/images/team/jesus.jpeg) **Jesus Rodriguez** | ![](../assets/images/team/zaul.jpeg) **Zaul Tavangar** | 
 ![](../assets/images/team/sophie.jpeg) **Sophie Zhang** | 
