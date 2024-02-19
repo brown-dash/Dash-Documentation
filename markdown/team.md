@@ -14,9 +14,10 @@ nav_order: 9
 
 ## Current Students
 
-![](../assets/images/team/alina.jpeg) Alina Kim | ![](../assets/images/team/eric.jpeg) Eric Ma | ![](../assets/images/team/emily.jpeg) Emily Perelman | 
-| :- | :- | :- | 
-![](../assets/images/team/sarah.jpeg) **Sarah Richman** | ![](../assets/images/team/zaul.jpeg) **Zaul Tavangar** | ![](../assets/images/team/sophie.jpeg) **Sophie Zhang** | 
+<img src="../assets/images/team/alyssa.jpeg" width="150" height="150"/> Alyssa Feinberg | <img src="../assets/images/team/eric.jpeg" width="150" height="150"/> Eric Ma | <img src="../assets/images/team/emily.jpeg" width="150" height="150"/> Emily Perelman | 
+| :---- | :---- | :---- |
+<img src="../assets/images/team/sarah.jpeg" width="150" height="150"/> **Sarah Richman** | <img src="../assets/images/team/jesus.jpeg" width="150" height="150"/> **Jesus Rodriguez** | <img src="../assets/images/team/zaul.jpeg" width="150" height="150"/> **Zaul Tavangar**
+<img src="../assets/images/team/sophie.jpeg" width="150" height="150"/> **Sophie Zhang** | <img src="../assets/images/team/zachary.jpeg" width="150" height="150"/> **Zachary Zhang** 
 
 ## Past Students
 - Anika Ahluwalia
@@ -38,7 +39,6 @@ nav_order: 9
 - Parker Ljung
 - Andrew Rickert
 - Geireann Lindfield Roberts
-- Jesus Rodriguez
 - Tyler Schicke
 - Udayveer Sodhi
 - Anh Truong
