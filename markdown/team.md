@@ -14,11 +14,10 @@ nav_order: 9
 
 ## Current Students
 
-<img src="../assets/images/team/alyssa.jpeg" width="300" height="300"/> Alyssa Feinberg | <img src="../assets/images/team/eric.jpeg" width="300" height="300"/> Eric Ma | <img src="../assets/images/team/emily.jpeg" width="300" height="300"/> Emily
+<img src="../assets/images/team/alyssa.jpeg" width="300" height="300"/> Alyssa Feinberg | <img src="../assets/images/team/eric.jpeg" width="300" height="300"/> Eric Ma | <img src="../assets/images/team/emily.jpeg" width="300" height="300"/> Emily Perelman | 
 | :---- | :---- | :---- |
-<img src="../assets/images/team/emily.jpeg" width="300" height="300"/> **Emily Perelman** | <img src="../assets/images/team/sarah.jpeg" width="300" height="300"/> **Sarah Richman** | <img src="../assets/images/team/nathan.jpeg" width="300" height="300"/> **Nathan Robbins** 
-<img src="../assets/images/team/jesus.jpeg" width="300" height="300"/> **Jesus Rodriguez** |<img src="../assets/images/team/zaul.jpeg" width="300" height="300"/> **Zaul Tavangar** | <img src="../assets/images/team/sophie.jpeg" width="300" height="300"/> **Sophie Zhang**
- <!-- <img src="../assets/images/team/zachary.jpeg" width="300" height="300"/> **Zachary Zhang**  -->
+<img src="../assets/images/team/sarah.jpeg" width="300" height="300"/> **Sarah Richman** | <img src="../assets/images/team/nathan.jpeg" width="300" height="300"/> **Nathan Robbins** | <img src="../assets/images/team/jesus.jpeg" width="300" height="300"/> **Jesus Rodriguez** 
+<img src="../assets/images/team/zaul.jpeg" width="300" height="300"/> **Zaul Tavangar** | <img src="../assets/images/team/sophie.jpeg" width="300" height="300"/> **Sophie Zhang** | <img src="../assets/images/team/zachary.jpeg" width="300" height="300"/> **Zachary Zhang** 
 
 ## Past Students
 - Anika Ahluwalia
@@ -46,7 +45,3 @@ nav_order: 9
 - Samuel Wilkins
 - Stanley Yip
 - Jenny Yu
-
-
-
-
