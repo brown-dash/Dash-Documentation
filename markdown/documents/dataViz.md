@@ -30,7 +30,7 @@ To create a DataViz box, either import / drag a CSV file into your canvas or cop
 ## Objects & Actions: 
 
 - ### **Basic Graphs:** 
-  A data set composed of string, numbers, prices, or percents can be viewed as a table, line chart, histogram, or pie chart that can be customized by its title and colors. To create a visualization, click the title of the column you want to visualize and then select the graph type.
+  A data set composed of string, numbers, prices, or percents can be viewed as a table, line chart, histogram, or pie chart that can be customized by its title and colors. To create a visualization, click the title of the column you want to visualize and then select the graph type. When viewing the data set as a table view, clicking on a row selects the row for filtering, and clicking on a row while holding 'Command/Windows' highlights the row visually.
   ![](../../assets/gifs/dataViz/simple_dataViz.gif){:.img}
 
 - ### **2D Graphs:** 
