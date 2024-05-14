@@ -84,20 +84,35 @@ Selected slides are indicated by the blue outline and the light blue background,
 - **Camera:** records video following your mouse movements while presenting the trail
 - **Arrow:** groups slide with the one above it. When presenting, both slides will transition in together and run simultaneously. By default they play in parallel, but clicking the blue arrow line when grouped will switch to series and play one after the other (indicated as the black outline around the arrow)
 
-    ![](../../assets/gifs/trails/arrows-present-together.gif){:.img}
+  ![](../../assets/gifs/trails/arrows-present-together.gif){:.img}
 
 - **Eye:** expand/minimize a preview of the slide
 - **Trash:** removes the slide from the presentation (not from the collection or database)
+- **Pencil** Opens the slide customization pane, where you can edit properties like the slide's effect, duration, timing, etc. More details below.
 
 Slides can be rearranged by dragging and dropping.
 
+### Slide Customization
+
+Selecting a slide and opening the properties menu (the gray arrow tab in the middle right edge of the screen) or clicking the pencil icon on the slide displays the transitions menu where you can edit many aspects of how the slide is played when in presentation mode. Multiple slides can be selected by holding down shift and clicking more slides. You can choose to apply any changes you make in the properties menu to all the slides in a presentation by clicking "Apply to all".
+
+![](../../assets/images/trails/dash-open-trails-pane.gif)
+
+### Customizing with GPT
+
+At the top of the pane, you can use natural language in order to communicate how you want to customize the slide to avoid having to manually understand and adjust each property of the slide. You can use this feature to both specify specific values (like zoom to 75%) or give more general instructions (zoom to around full screen, make a gentle effect).
+
+You can also use the record button to speak to the system rather than typing.
+
+![](../../assets/images/trails/dash-slide-customization.gif)
+
 ### Transitions
 
-Selecting a slide and opening the properties menu (the gray arrow tab in the middle right edge of the screen) displays the transitions menu where you can edit many aspects of how the slide is played when in presentation mode. Multiple slides can be selected by holding down shift and clicking more slides. You can choose to apply any changes you make in the properties menu to all the slides in a presentation by clicking "Apply to all".
+Described below are the customizable features for each slide.
 
-![](../../assets/images/trails/properties.png){:img}
+#### Movement
 
-**Movement:** Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
+Specify the type of movement from the following options, as well as the amount of time that the movement from one document to the next will take:
 
 - **Zoom:** Center the document in the containing collection and zoom in on it so it takes 75% of the height or width of the screen depending on what fits.
 - **Pan:** Pan to display the document within view maintaining the current scale of the containing collection
@@ -105,15 +120,42 @@ Selecting a slide and opening the properties menu (the gray arrow tab in the mid
 - **Jump Switch:** Switch to the zoomed in document with no transition time
 - **None:** Nothing happens when this slide is the active one in the trail.
 
-**Visibility & Duration**
+**Zoom:** What percentage to zoom the freeform to when the document is navigated to in the presentation.
+
+**Transition Time:** How long to transition to the slide during navigation.
+
+**Easing Function:** Specify how the movement is timed. Available options are: `Ease`, `Ease In`, `Ease Out`, `Ease In Out`, `Linear`, `Custom`.
+
+- You can specify a custom bezier easing function with the timing editor to fine-tune the timing. Drag the circles to modify the control points.
+
+![](../../assets/images/trails/dash-bezier-editor.gif)
+
+#### Effects
+
+Choose to have an effect on the entrance of the selected document. The possible effects include: Zoom, Fade In, Flip, Rotate, Bounce, and Roll, and Lightspeed.
+
+You can adjust the effect direction if it applies to the type of effect below the dropdown with the arrows.
+
+**Customizing Effect Timing**
+
+You can also customize the timing by which the effect is played (besides Lightspeed). The timing uses spring-based animation controlled by tension, damping, and mass. Loosely, the higher the tension, the bouncier, the damping mitigates the bouncing effect, and increasing the mass slows the animations.
+
+A preview of the animation is displayed below the settings.
+
+![](../../assets/images/trails/dash-transition-customization.gif)
+
+**Get Effect Suggestions**
+
+If you want to explore different effects without manually adjusting the settings, you can preview some suggestions at the top of the effects section. You can customize these effects with a prompt to have GPT generate suggestions as well. Clicking on these preview boxes will apply the displayed effect to the current slide.
+
+![](../../assets/images/trails/dash-generate-animations.gif)
+
+#### Visibility & Duration
 
 - **Hide before:** When this toggle is on the document will appear hidden before it is presented in the presentation trail
 - **Hide after:** When this option is toggled on after the slide is presented it will not appear in the presentation trail.
 - **Lightbox:** Open the document in Lightbox view, instead of navigating to it within the collection. This can be useful for navigating Websites/PDF etc.
 - **Slide duration:** Choose the amount of time that the slide will remain in focus when in Auto-present mode.
-
-**Effects**
-Choose to have an effect on the entrance of the selected document. The possible effects include: Fade In, Flip, Rotate, Bounce, and lastly Roll. You can adjust the effect direction.
 
 ### Presenting
 
