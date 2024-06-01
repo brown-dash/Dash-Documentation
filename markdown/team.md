@@ -36,6 +36,7 @@ nav_order: 9
 - James Hu
 - Mehek Jethani
 - Victor Kalev
+- Alina Kim
 - Aubrey (Yueshan) Li
 - Vivian Li
 - Parker Ljung
