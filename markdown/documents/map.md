@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 # Map in Dash
+
 ![](../../assets/gifs/environment/create_map.gif){:.img}
 
 {: .no_toc }
@@ -20,23 +21,28 @@ nav_order: 1
 {:toc}
 </details>
 
-## Description: 
-Map document supports searching, pushpins, pushpin selection, content view pinning, text note linking, and link to pin following. Details can be found below. 
+## Description:
+
+Map document supports searching, pushpins, pushpin selection, content view pinning, text note linking, and link to pin following. Details can be found below.
 
 ## Creating a MapBox
+
 Type colon on your canvas to invoke the node menu and type "MAP" or click and drag map icon from tools menu
 ![](../../assets/gifs/environment/create_map.gif){:.img}
 
-## Searching 
+## Searching
+
 Type a location in the top bar and click search (or press enter/return).
 ![](../../assets/gifs/environment/map_search.gif){:.img}
 
 ## Pushpins
+
 - Drag and drop pushpin icon onto map to place pushpin
 - Click pushpin icon to place icon on center of map
-![](../../assets/gifs/environment/map_placepin.gif){:.img}
+  ![](../../assets/gifs/environment/map_placepin.gif){:.img}
 
 ## Pin Selection
+
 - Select upon clicking pin (selected pins turn green and anchor menu will pop up)
 - Deselect pin by clicking elsewhere on the map
 - Delete pin by clicking trash icon on anchor menu
@@ -45,9 +51,10 @@ Type a location in the top bar and click search (or press enter/return).
 ![](../../assets/gifs/environment/map_select.gif){:.img}
 
 ## Linked Text Notes
+
 - Create a note document in the sidebar linked to the selected pin
 - Follow the link of a note by clicking it, and the map will center on the linked pin and highlight the view/pin orange
-  
+
 ![](../../assets/gifs/environment/map_createnote.gif){:.img}
 
 - Selecting a pin will filter the notes to those linked to the selected pin
@@ -56,6 +63,7 @@ Type a location in the top bar and click search (or press enter/return).
 ![](../../assets/gifs/environment/map_filter.gif){:.img}
 
 ## More with linking
+
 - You can link a document to the map or add the map to a trail and preserve the map's contents (location, zoom, map view type)
 - If a pin is selected when the link was made, following the link will bring you to the map centered on the (highlighted) link
 - If a pin is not selected when the link was made, following the link will bring you to the same location as when the link was made
@@ -65,6 +73,6 @@ Type a location in the top bar and click search (or press enter/return).
 With this functionality, we can create some pretty cool results:
 ![](../../assets/gifs/environment/map_story.gif){:.img}
 
-
 ## Feedback
+
 If you are having trouble with any features or encounter unexpected behavior, email me at eric_ma@brown.edu!
