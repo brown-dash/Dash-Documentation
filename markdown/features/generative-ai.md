@@ -63,7 +63,7 @@ You can generate an image with the Smart Draw feature by opening it from the Ink
 
 ![](../../assets/gifs/ai/ai-firefly-image-1.gif){:.img}
 
-You can also provide Adobe Firefly with a reference image drawn in Dash.
+You can also provide Adobe Firefly with a reference image drawn in Dash. To generate an image based on a reference, select the ink drawing you want to use as a reference, then open the options menu on the right (blue arrow to the right or double-arrow on the top right) and customize your generation. 
 
 ![](../../assets/gifs/ai/ai-firefly-template-image-1.gif){:.img}
 ![](../../assets/gifs/ai/ai-firefly-template-image-2.gif){:.img}
@@ -94,3 +94,29 @@ Once you close out of the editor, you'll see a tree that represents the edit ver
 - You can undo/redo erase strokes and adjust the brush size with the controls on the left
 - You can remove all erase strokes with the reset button at the top
 - For the version history, you can choose to branch directly from the original image rather than creating a new collection by toggling `Create New Collection` off
+
+## CSVs
+
+(This feature is coming to the live server soon.)
+
+You can creature documents from CSV contents with the help of AI. 
+
+#### Step 1
+
+To access this feature, open the context menu of a CSV document and click `Create Docs` near the top. This will open the template creator menu. 
+
+#### Step 2
+
+Select the columns you want to generate based on in the CSV and navigate to the field options menu (cog icon at the top right of 'Suggested Templates') to add AI-generated fields. 
+
+#### Step 3
+
+Click the generate button and get recommended templates for the given content. You can click on the edit button on the bottom right of each template to edit it.
+
+![](../../assets/gifs/ai/ai-template-csv-1.gif){:.img}
+
+#### Step 4
+
+Once you're happy with your template, select all rows in the CSV you want to generate for, click on the template to select it, then navigate to the layout menu (magnifying glass icon at the top) and choose how you'd like your content displayed. When you're finished, click the 'plus' button to add the collection to Dash!
+
+![](../../assets/gifs/ai/ai-template-csv-2.gif){:.img}
