@@ -21,17 +21,17 @@ permalink: /features/generativeai/
 
 ## Overview
 
-Dash supports different types of text and image generation through the OpenAI API. These features are accessible through plain text nodes, PDFs, webpages, and images.
+Dash's integration with the OpenAI API enables features that aid in text and image generation, sorting, and categorizing; document analysis; study tools; and more. These features are accessible through all the most common document types in Dash.
 
 ## Text
 
-You can invoke GPT-3 to respond to a text prompt inside of a text node by opening the context menu (three bars icon) => `Ask GPT-3`. It will type in its response in the text node containing the prompt.
+You can invoke GPT-4o to respond to a text prompt inside of a text node by opening the context menu (three bars icon) => `Ask GPT-4`. It will type in its response in the text node containing the prompt.
 
 ![](../../assets/gifs/ai/ai-text.gif){:.img}
 
-## PDFs and Webpages
+## PDFs and CSVs
 
-You can also summarize sections of text on both pdfs and webpages by selecting a piece of text and selecting the `Summarize with AI` icon that appears in the anchor menu. A small box will appear in the bottom right with the summarized result. You can save it as an annotation on the pdf, which will link back to the original text selection.
+Dash's native AI assistant will analyze and summarize PDF documents and CSVs. 
 
 ![](../../assets/gifs/ai/ai-pdf.gif){:.img}
 
