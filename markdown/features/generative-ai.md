@@ -37,11 +37,11 @@ Dash's native AI assistant will conversationally analyze and summarize PDF docum
 
 To open the assistant, drag it from the Tools tab on the left onto your dashboard.
 
-![](../../assets/gifs/ai/ai-pdf.gif){:.img}
+(Coming soon...)
 
-To use the assistant, link any to it and type a prompt. The assistant remembers previous prompts. 
+To use the assistant to analyze PDFs and CSVs, link a PDF or CSV document to it and type a prompt.
 
-![](../../assets/gifs/ai/ai-pdf.gif){:.img}
+(Coming soon...)
 
 The assistant can also help you search the web for relevant news articles. To use this feature, link an empty collection to the assistant box and prompt it to search the web. 
 
