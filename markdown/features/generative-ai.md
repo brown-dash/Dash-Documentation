@@ -29,21 +29,44 @@ You can invoke GPT-4o to respond to a text prompt inside of a text node by openi
 
 ![](../../assets/gifs/ai/ai-text.gif){:.img}
 
-## PDFs and CSVs
+## AI Assistant
 
-Dash's native AI assistant will analyze and summarize PDF documents and CSVs. 
+(This feature is coming to the live server soon.)
+
+Dash's native AI assistant will conversationally analyze and summarize PDF documents and CSVs. The assistant will augment its responses with information gathered from the web and help you navigate linked documents to find what you're looking for. 
+
+To open the assistant, drag it from the Tools tab on the left onto your dashboard.
 
 ![](../../assets/gifs/ai/ai-pdf.gif){:.img}
+
+To use the assistant, link any to it and type a prompt. The assistant remembers previous prompts. 
+
+![](../../assets/gifs/ai/ai-pdf.gif){:.img}
+
+The assistant can also help you search the web for relevant news articles. To use this feature, link an empty collection to the assistant box and prompt it to search the web. 
+
+![](../../assets/gifs/ai/ai-websearch-1.gif){:.img}
+
+You can then iteratively search through conversation with the assistant.
+
+![](../../assets/gifs/ai/ai-websearch-2.gif){:.img}
 
 ## Images
 
 ### Generation
 
-You can generate an image from a text prompt through a text node by opening the context menu (three bars icon) => `Generate Dall-e Image`. You can preview the image once it is done generating in the bottom right box and save generations you like to the main freeform.
+(This feature is coming to the live server soon.)
+
+You can generate an image with the Smart Draw feature by opening it from the Ink tab at the top of the dashboard. Using Smart Draw, you can create fully customizable dash ink drawings or canvases from Adobe Firefly. 
 
 `Note` Images take some time to generate.
 
-![](../../assets/gifs/ai/ai-image.gif){:.img}
+![](../../assets/gifs/ai/ai-firefly-image-1.gif){:.img}
+
+You can also provide Adobe Firefly with a reference image drawn in Dash.
+
+![](../../assets/gifs/ai/ai-firefly-template-image-1.gif){:.img}
+![](../../assets/gifs/ai/ai-firefly-template-image-2.gif){:.img}
 
 ### Editing
 
