@@ -7,9 +7,9 @@ nav_order: 2
 
 # Joining Dash
 
-Dash is currently recruiting new project members! Please see below for application details. If you are interested in joining Dash, please fill out our Spring 2024 Independent Study Interest Form linked below, we will then follow up with you with regard to the application process.
+Dash is currently recruiting new project members! Please see below for application details. If you are interested in joining Dash, please fill out our Spring 2026 Independent Study Interest Form linked below, we will then follow up with you with regard to the application process.
 
-[Interest Form](https://forms.gle/gssoFLUUqt5AiYUU7){: .btn }
+[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSeXag1BtWHk8OFE8cR4ed5tMTqb9Fy26YJXyKT7rB8Jetc0xg/viewform?usp=header){: .btn }
 
 ## Role Overview
 
