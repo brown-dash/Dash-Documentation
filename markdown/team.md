@@ -18,7 +18,9 @@ nav_order: 9
 | <img src="../assets/images/team/mccormick.jpg" width="300" height="300"/> McCormick Breviu | <img src="../assets/images/team/wilber.jpg" width="300" height="300"/> Wilber Sean Anterola        | <img src="../assets/images/team/jacob.png" width="300" height="300"/> Jacob Elson     |
 | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
 | <img src="../assets/images/team/alicia.jpg" width="300" height="300"/> **Alicia Yoon**       | <img src="../assets/images/team/camden.jpg" width="300" height="300"/> **Camden Wright** | <img src="../assets/images/team/nathan.jpeg" width="300" height="300"/> **Nathan Robbins** |
-| **Lanyi Stroud**    | **Joanne Ding**  |  **Aura Sukapanpotharam** | **Finn Wilkie** | **Kartik Shrivastava** |
+| **Lanyi Stroud**    | **Joanne Ding**  |  **Aura Sukapanpotharam** |
+| :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| **Finn Wilkie** | **Kartik Shrivastava** |
 
 ## Past Students
 
