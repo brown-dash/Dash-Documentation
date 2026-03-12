@@ -18,7 +18,7 @@ nav_order: 9
 | <img src="../assets/images/team/mccormick.jpg" width="300" height="300"/> McCormick Breviu | <img src="../assets/images/team/wilber.jpg" width="300" height="300"/> Wilber Sean Anterola        | <img src="../assets/images/team/jacob.png" width="300" height="300"/> Jacob Elson     |
 | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
 | <img src="../assets/images/team/alicia.jpg" width="300" height="300"/> **Alicia Yoon**       | <img src="../assets/images/team/camden.jpg" width="300" height="300"/> **Camden Wright** | <img src="../assets/images/team/nathan.jpeg" width="300" height="300"/> **Nathan Robbins** |
-| <img src="../assets/images/team/aj.jpeg" width="300" height="300"/> **A.J. Shulman**    | <img src="../assets/images/team/sophie.jpeg" width="300" height="300"/> **Sophie Zhang**  | <img src="../assets/images/team/zachary.jpeg" width="300" height="300"/> **Zachary Zhang** |
+| **Lanyi Stroud**    | **Joanne Ding**  |  **Aura Sukapanpotharam** | **Finn Wilkie** | **Kartik Shrivastava** |
 
 ## Past Students
 
@@ -58,3 +58,5 @@ nav_order: 9
 - Alyssa Feinberg
 - Aisosa Idahosa
 - Eleanor Park
+- Semir Ali
+- Aarav Kumar
